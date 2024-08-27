@@ -1,0 +1,11 @@
+id,name,type,risk_level,expected_return,duration
+PETR4,Petrobras PN,Ações,High,0.12,Long Term
+VALE3,Vale ON,Ações,High,0.15,Long Term
+ITUB4,Itaú Unibanco PN,Ações,Medium,0.1,Long Term
+XPML11,XP Malls FII,Fundo Imobiliário,Medium,0.08,Medium Term
+HGLG11,CSHG Logística FII,Fundo Imobiliário,Medium,0.07,Medium Term
+CDB_1,CDB Banco ABC,CDB,Low,0.05,Short Term
+CDB_2,CDB Banco Inter,CDB,Low,0.06,Short Term
+TESOURO_SELIC,Tesouro Selic 2025,Government Bond,Low,0.045,Short Term
+TESOURO_IPCA,Tesouro IPCA+ 2035,Government Bond,Low,0.05,Long Term
+LCI_1,LCI Banco do Brasil,LCI,Low,0.04,Medium Term

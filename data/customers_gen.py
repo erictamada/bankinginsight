@@ -24,6 +24,6 @@ def generate_customers(qtd_customers):
 
     
 if __name__ == "__main__":
-    customer_df = generate_customers(100)
+    customer_df = generate_customers(1000)
     customer_df.to_csv('data/customers.csv', index=False)
 
