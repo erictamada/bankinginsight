@@ -5,7 +5,10 @@ CREATE TABLE IF NOT EXISTS customers(
 	telefone TEXT NOT NULL,
 	age INT NOT NULL,
 	monthly_income FLOAT NOT NULL,
-	account_balance FLOAT NOT NULL
+	monthly_expense FLOAT NOT NULL,
+	risk_taken TEXT NOT NULL,
+	investment_duration TEXT NOT NULL,
+	financial_goal TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS investments (
