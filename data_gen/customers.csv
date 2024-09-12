@@ -1,0 +1,1001 @@
+id,name,email,telefone,age,monthly_income,monthly_expense,risk_taken,investment_duration,financial_goal
+bc78d9e9-ff49-4844-aa57-96f8a7101192,Heloisa Rios,alvesbreno@example.net,(021) 7214-9025,49,2513.84,1843.78,Medium,Long Term,Retirement
+bbee03dc-944c-4718-b2a8-d735a3dc360a,Maria Julia Mendes,laisda-luz@example.com,(071) 8687 0316,31,13046.33,6595.89,Medium,Short Term,Education
+4ca6752f-df85-4777-a9a1-c13d4a712d84,Letícia Gonçalves,da-mataheloisa@example.org,81 6859 5647,63,18602.04,12825.84,High,Long Term,Retirement
+e9ca3f26-e234-4e5c-949c-416789dc34a8,Davi Lucas Moura,da-luzaugusto@example.org,81 5414 9503,28,10256.71,5198.88,Medium,Medium Term,Home Purchase
+eb6dde5c-fdac-43df-a2bd-4cac213615ab,Maria Flor Andrade,biancabarbosa@example.com,(031) 6557 2044,25,16564.4,11470.34,High,Short Term,Home Purchase
+4e6624aa-73f1-4e45-8e22-9ea9ad2f19ad,João Lucas da Rosa,vasconcelospaulo@example.net,51 4849 3393,40,8947.86,4876.2,Medium,Long Term,Education
+1525cc39-450a-4f32-8870-c91c48d9bf34,Bárbara Cunha,ferreiramathias@example.org,(061) 4744-2815,74,17152.08,9722.63,High,Medium Term,Entrepreneurship
+4fee528a-f198-493d-9b35-a93e7ea8257c,Valentina Rios,emanuelrios@example.net,41 3417 6563,40,16639.91,11474.86,High,Long Term,Retirement
+65bfca29-2670-4c35-b54b-e4cb8207bced,Ian da Rosa,dantemendes@example.com,31 2685-8009,62,17616.15,10668.25,High,Medium Term,Retirement
+caa757fe-019f-4bc3-b0bb-5a0a913a8191,Eduarda Gomes,vieirakamilly@example.com,81 5160-4380,25,16933.11,10052.13,High,Medium Term,Entrepreneurship
+32d49faf-9d32-4890-80a5-265de4cd84a9,Sra. Hellena Peixoto,hfarias@example.com,21 3958 3640,37,8167.92,4430.15,Medium,Long Term,Car Purchase
+ed7d4f78-8ddb-4183-8a12-da0f721936ad,Anna Liz Dias,raquelda-luz@example.org,(041) 9873 6949,67,13349.36,7526.11,Medium,Medium Term,Retirement
+208aa20f-7064-4cdc-9408-af83147e928e,Pedro Henrique Sousa,maria-isis32@example.net,51 6191 9265,26,6496.33,4195.45,High,Medium Term,Emergency Fund
+480aae38-8d84-4e16-b883-b16fb848f2ca,Srta. Laís Fogaça,thiagorocha@example.org,+55 21 8021 7519,61,6158.61,3681.04,High,Long Term,Entrepreneurship
+03704f88-712e-40cf-8fac-708c04f8727f,Brenda da Paz,francisco46@example.com,31 9663 1690,33,12935.0,7114.33,High,Short Term,Education
+989ab998-7429-4eba-a989-f5c17455c760,Marcelo Vargas,yda-paz@example.net,+55 (041) 5414-8824,44,5477.01,3821.34,Medium,Long Term,Home Purchase
+303ac390-5b53-4815-ad2e-f263e8738fdb,Ana Vitória Pereira,ian15@example.net,(081) 8631 5138,76,15323.51,8392.36,High,Short Term,Car Purchase
+9b612385-9ef0-4448-abfd-e6d4b23cd02e,Davi Lucca Mendonça,albuquerqueamanda@example.com,+55 61 8625 9903,19,17999.93,11146.54,High,Long Term,Retirement
+dc8d8989-cab0-43d6-9c21-d8233f6f9173,Luiz Henrique Montenegro,alicesampaio@example.com,21 3395 2798,51,4587.4,3570.81,Medium,Short Term,Entrepreneurship
+c7bb5711-2bad-4ae2-89df-bbccf38dd91c,Vitor Gabriel da Mota,vieiravinicius@example.org,+55 (011) 3776-0155,76,16497.07,9429.89,High,Short Term,Entrepreneurship
+76e6a1c7-fecb-4b04-8757-08396b082d7c,Cauã Novaes,raquelsantos@example.org,(084) 1762 3549,73,12590.17,8153.49,Medium,Medium Term,Emergency Fund
+73ca290d-7256-4553-bd29-079e5c50353f,Arthur Macedo,qpeixoto@example.net,+55 (081) 7353 5894,27,12222.3,6756.06,High,Medium Term,Education
+c73403bb-56b0-45e1-9c59-7217615cf4d3,Dr. Caleb Montenegro,nda-cruz@example.net,+55 21 2152 6867,56,17264.22,8694.47,High,Long Term,Emergency Fund
+217e2c35-782b-43bb-b478-a3a0b5a665fa,Mariane Vasconcelos,alicevieira@example.net,61 5475 0456,19,7826.32,5247.24,Medium,Short Term,Education
+95401f22-8dfe-4c62-a1ce-4e15f2fa8c70,Benício Garcia,brezende@example.org,+55 (061) 7214-4444,18,18640.99,10930.65,High,Medium Term,Emergency Fund
+16df6531-a8da-4fbc-a43c-4869f98cb3e3,Marcelo Correia,maria-clara45@example.com,(084) 3974 7096,55,12978.14,7392.9,High,Medium Term,Retirement
+62803906-2dc8-4547-b409-840cd618fbec,Diogo Casa Grande,enrico45@example.com,+55 71 4153-3565,36,16807.97,11678.71,High,Medium Term,Entrepreneurship
+917204ba-b3f9-4086-8049-701eaed1baee,Juan Pires,mourahadassa@example.com,+55 61 0979-6502,27,2084.56,1026.05,Low,Short Term,Retirement
+dc845c87-d676-4878-b863-ecdcb2a9a9cd,Dra. Alexia Pinto,beatriz97@example.net,+55 11 1575 2963,39,7976.62,4536.42,High,Long Term,Emergency Fund
+f27ba08b-dd7b-4fc8-8add-e66fd803e53f,Arthur Gabriel Pires,raeloliveira@example.net,0900-181-2299,77,13005.15,7521.85,Medium,Long Term,Car Purchase
+40e77fde-3ae0-4cd4-ac91-e30a79585915,Camila Gonçalves,levioliveira@example.com,0300 122 9186,28,4826.65,1998.11,Medium,Long Term,Car Purchase
+200da98c-0121-465b-938d-32fd42f3a51b,Nicole Nascimento,albuquerquehenry@example.net,(021) 1690 1692,76,11121.06,7007.37,Medium,Short Term,Emergency Fund
+5e0fb891-d6c9-4596-b0ca-5c072fce0280,Sra. Maria Liz Leão,rafaeldias@example.org,11 6424 4987,20,4134.88,2899.79,Low,Medium Term,Education
+963518a6-9eb6-48cb-a25b-52db6d5b247e,Maitê Silva,albuquerquedanilo@example.com,(041) 8806 6381,30,18876.05,12252.76,High,Short Term,Emergency Fund
+97e9d67d-2c41-4349-8052-3fd33e2701a2,Hellena Viana,rafaelcasa-grande@example.com,+55 (071) 6395 0852,23,6207.22,3658.17,Medium,Long Term,Emergency Fund
+308965e2-3224-48f8-9842-a494e27a0246,Ravi Jesus,luanda-mota@example.org,71 1320-1852,60,6101.87,3057.29,High,Short Term,Car Purchase
+610cb48e-cc32-4498-9b5c-720a1d8733ed,Maria Laura da Mata,isaquecorreia@example.com,0800 632 1953,70,9504.87,5333.51,High,Medium Term,Retirement
+863201af-568a-42ac-a2e2-be26b69473cf,Erick Jesus,maria-eduarda10@example.com,84 9988 6963,39,2690.45,1281.02,Medium,Short Term,Education
+ef2a0645-ba1e-4bc0-9363-f239becd0200,Dr. Henry Pinto,fsouza@example.net,+55 31 3384-0753,71,4958.27,3675.18,Medium,Short Term,Retirement
+1404d2cd-ef93-4ab4-a97d-f333e65512ba,Marcelo Aragão,joao38@example.com,+55 81 5038-6562,51,8893.41,5762.99,High,Long Term,Emergency Fund
+5513e40a-cb68-4e08-b839-17eab6e5c29a,Leandro Moraes,lteixeira@example.org,+55 84 9573-9811,41,16649.46,10811.82,High,Medium Term,Home Purchase
+123b320f-3d9d-4c71-8d20-85d845093bff,Asafe Peixoto,ydias@example.org,71 4142-0412,47,10883.99,7476.62,High,Long Term,Entrepreneurship
+07cb7aca-3982-4315-8f03-c6fe21d4c842,Raquel Novaes,leaolucas@example.net,(011) 8050 3133,33,11087.95,6205.9,High,Short Term,Retirement
+21c1c6ed-feec-484a-ba5c-d612c471cd5b,Diogo Sousa,calebcasa-grande@example.org,+55 (084) 6668-3443,76,9138.46,6265.38,Medium,Medium Term,Home Purchase
+aec422a2-1bf1-48f2-8a6e-ebdc1c7fc58e,Ana Julia Camargo,thalespeixoto@example.net,+55 (051) 6020-9014,41,4218.5,3104.42,Medium,Medium Term,Retirement
+90a7e06d-8b9d-444b-ae7f-d90092c4b6b3,Thomas Sampaio,gabrielacamargo@example.org,+55 (051) 0468-3506,20,15898.73,8746.22,High,Medium Term,Car Purchase
+d7049122-a399-42e4-bf40-0e09391b8539,Benjamin Rodrigues,ana-vitoria88@example.com,+55 (011) 6498-4362,43,3804.51,2265.48,Low,Long Term,Car Purchase
+55b36ef5-7db3-4c64-aa92-4b478f90727f,Thomas Castro,ana-liz86@example.net,+55 84 7559-3491,60,5066.87,3473.01,High,Short Term,Car Purchase
+1800d325-0edc-46a8-9e0e-755f4def26c1,Hellena Vargas,rodrigoaparecida@example.org,0300 997 6916,79,6717.8,4035.21,Medium,Medium Term,Entrepreneurship
+af4c22ad-e46b-4c3f-90d2-be16877a5acb,Henry Silveira,luccajesus@example.org,(021) 2665 8835,38,9189.44,5339.8,Medium,Medium Term,Car Purchase
+3e18628f-0ead-4d0b-953d-d946d9cf0791,Calebe da Conceição,portosofia@example.org,61 5125 2697,52,19738.1,10693.08,High,Short Term,Car Purchase
+96831941-a5f9-4986-9393-c111b9032020,Aurora Almeida,tsousa@example.com,+55 21 9112 7514,73,9367.84,5210.33,High,Long Term,Car Purchase
+004410ab-3895-4d94-be9e-492802845a77,Mateus da Costa,oliviaaragao@example.net,21 7382-8466,24,3009.65,1544.44,Low,Long Term,Retirement
+6819b56f-5a9d-4075-91d7-a0a17dfed8e4,Maria Júlia Farias,isadorasales@example.org,+55 (084) 3745-9053,45,19860.49,13891.19,High,Long Term,Entrepreneurship
+c2484278-5c08-4fe1-b773-b78cf4630009,Alice Marques,oliviapires@example.com,81 4328 5011,38,6158.56,4016.93,Medium,Short Term,Emergency Fund
+06f54631-dc11-48e8-bf66-88527f21d4a0,Sr. Lucas Farias,mariane30@example.net,+55 71 5257 3987,54,19895.71,11889.67,High,Medium Term,Car Purchase
+b09ded7d-898a-48c3-86be-5c61fa85da21,Isabelly Martins,nathanmoraes@example.net,+55 21 5714-0027,20,6176.44,3708.74,Medium,Long Term,Car Purchase
+e6dc3886-62ed-41db-a619-03c34c22cdac,Anthony Gabriel da Cunha,sofia01@example.net,84 7453 3985,76,12574.21,7037.76,Medium,Long Term,Retirement
+8499887e-cac6-4ab8-9234-91d0a2aa086a,Ana Julia da Rocha,nmoraes@example.org,(061) 3547-3448,39,15361.73,8367.84,High,Long Term,Entrepreneurship
+225ceb1f-7937-4c6c-89a2-33371082a762,Luiz Gustavo Lopes,camararafaela@example.net,+55 (041) 5134-5219,55,9109.04,5066.59,High,Long Term,Emergency Fund
+b3a8e191-14fe-40c5-9426-6a4b0840af8b,Henrique Cirino,sophia65@example.com,71 4489 2058,68,13812.02,8633.58,Medium,Long Term,Entrepreneurship
+213a95dd-8007-4d73-96bb-34161f2e2125,Laura Mendes,cazevedo@example.net,(084) 1884 9302,39,13755.87,7731.6,High,Medium Term,Entrepreneurship
+aa484af7-3ce1-4710-99e0-a288c6164cfa,Pedro Sales,catarinarios@example.com,(071) 5715 9976,25,14211.82,8342.12,High,Medium Term,Retirement
+935613e4-ccc2-4c7f-a896-8202ecd9ee70,Pedro Henrique da Cunha,bmachado@example.org,(084) 5988-3079,52,3350.44,1389.42,Low,Short Term,Entrepreneurship
+180693d9-9846-4883-b784-09659df539fa,Juliana Ferreira,freitasjosue@example.net,+55 (021) 6456-6071,69,18521.73,12193.4,High,Long Term,Entrepreneurship
+4e210de9-5e95-4951-b071-ab08a54666a6,Dra. Gabrielly Abreu,dcirino@example.com,+55 11 0022 9342,23,19002.07,12415.27,High,Long Term,Education
+ce18f904-40fa-4bf3-8d1b-94ed7c7b2618,Larissa Araújo,ana-liviaalves@example.net,+55 51 2836 3963,60,16348.15,9228.78,High,Medium Term,Retirement
+20ad2cdb-9b65-447e-8414-081516e1ddd7,Caroline Oliveira,rsilveira@example.com,61 4770 1573,23,17606.04,11466.31,High,Short Term,Home Purchase
+0f24fdf8-8b27-46ce-9025-2d5302cb2957,Alice da Cruz,meloana-laura@example.org,+55 (011) 9626-0980,27,5996.44,3262.68,High,Long Term,Retirement
+69db34a3-f326-4873-a72a-1af69f69f573,Benjamin Brito,riosarthur@example.org,51 6669 7595,58,8502.13,4863.88,Medium,Long Term,Retirement
+3040922b-a8be-4a95-ae55-7f545483ca25,Sr. Renan Novaes,labreu@example.com,(011) 9257-2683,74,7039.11,4216.62,High,Short Term,Education
+19046fe0-1157-41ae-9953-6de3c1be97d3,Apollo Cirino,ribeiroana-laura@example.net,(084) 8766-9947,76,4563.72,3029.26,Low,Short Term,Home Purchase
+581c503f-b0f6-4fd2-a488-2f3428e17551,Pedro Cavalcante,ifernandes@example.com,31 3910 9699,39,2245.07,1555.55,Low,Medium Term,Emergency Fund
+50e161ce-9da3-4f7a-8a45-7906801c41db,Anthony Farias,maria-clarasiqueira@example.org,(031) 0055-0763,48,11388.1,5941.37,Medium,Short Term,Entrepreneurship
+8a82b8f1-42c9-422d-a46d-60470909c58e,Heloisa Ramos,egoncalves@example.com,+55 41 1397 9624,74,19468.11,10450.68,High,Long Term,Entrepreneurship
+9995a130-1681-4f84-9081-526febe37368,Kevin Costa,rodrigo61@example.com,51 8703 1280,50,11813.94,6713.11,High,Long Term,Education
+274850f5-f0f0-49c1-b943-37a72484db20,Liz Castro,koliveira@example.net,+55 84 6743 9730,67,13795.26,7648.15,High,Short Term,Home Purchase
+a1b46c2e-9898-425e-a90a-e45f4a27e953,Sr. Leonardo Gonçalves,rochaana-beatriz@example.net,(071) 5017 4809,20,3233.68,1666.53,Low,Long Term,Education
+f72dd034-a758-4c4c-af01-94a6c301c76e,Vitor Hugo Cassiano,carlos-eduardosales@example.com,+55 (051) 6129-7557,64,2013.68,1387.46,Medium,Short Term,Retirement
+7e264788-9599-4153-9f37-aa313e212ad7,Alana Carvalho,ana-julia50@example.org,(061) 1201 5881,42,14578.65,7806.52,High,Short Term,Car Purchase
+3e99c2ce-9213-48cc-a384-dfc3e076ce28,Maysa Cirino,monteiroolivia@example.org,0500 083 0676,61,9434.18,5507.3,High,Short Term,Entrepreneurship
+9ad155a9-dbaf-4e63-b3de-9d93cabc4f45,Sophia Jesus,felipelima@example.org,81 9474 8824,33,4023.99,2828.38,Low,Long Term,Education
+60263eaa-3511-4325-ab17-31823c0c3a4d,Dra. Luara Vargas,maria-luisa81@example.com,+55 (061) 5342-4975,79,15560.93,10352.64,High,Short Term,Entrepreneurship
+0f85eff7-6523-49dc-86dc-bd94e50136a4,Bernardo Vargas,mayafarias@example.org,(031) 9375-7237,64,6402.2,3754.03,Medium,Medium Term,Entrepreneurship
+6956d8ec-db3e-4942-8b28-137d3df557e7,Sra. Ana Liz Jesus,rcirino@example.com,+55 (061) 0713 0630,59,18520.14,10978.48,High,Medium Term,Car Purchase
+fb0e4c96-7dc9-4211-bc1b-7340f7aeda85,Dr. João Lucas Vasconcelos,diasleandro@example.net,(084) 7695 9993,25,12730.49,7516.65,Medium,Medium Term,Home Purchase
+cb89275f-4c08-48b4-9d88-30d19c57db7a,Yasmin Cardoso,igorbarros@example.com,(084) 2530-6265,76,19428.49,9984.82,High,Short Term,Home Purchase
+31a14d66-7da4-4379-8bf7-b08fb4457c6f,Francisco Vargas,eduardo66@example.net,+55 71 1574 3986,51,2342.64,1369.53,Low,Medium Term,Home Purchase
+8decbee1-8add-4f34-89c9-6d6c8c12b815,Enzo Abreu,cnunes@example.com,+55 81 9393-0193,27,3995.97,2706.14,Low,Medium Term,Entrepreneurship
+91410ec1-d7bf-429f-9002-a0808814bd29,Mateus Fonseca,dazevedo@example.org,(081) 7966-3506,78,2244.99,1010.71,Low,Long Term,Home Purchase
+4aea0beb-5656-4a8b-8158-90d9d4c96233,Josué Pimenta,aurorada-costa@example.org,21 2767 5430,75,16496.93,10288.74,High,Short Term,Car Purchase
+a9404f71-0dbe-4c60-8660-5cd4a19fc654,Valentina Cirino,oliveirarebeca@example.org,0800 821 6986,62,3379.49,1234.33,Medium,Short Term,Home Purchase
+b0c5a56e-c89a-4506-8e78-27d587007382,Alice Moura,joaquimduarte@example.net,(021) 6973 7027,32,6948.0,3905.68,Medium,Medium Term,Home Purchase
+a4a736f5-b297-43eb-9348-3a3cdbafcb2a,Lorena Rios,vitor-gabrielaragao@example.org,(071) 7052-2748,19,10956.31,7126.12,High,Long Term,Education
+d9c71ee0-66a2-4261-8940-5b3e9930daed,Josué Rocha,vgarcia@example.com,+55 (084) 6812-6419,26,5225.91,2615.12,Medium,Short Term,Emergency Fund
+82eec33c-d898-4120-81fd-4ac6f10a2561,João Vitor Caldeira,kgomes@example.com,21 5210 2434,42,9299.61,5064.4,High,Long Term,Car Purchase
+dce0b769-fc1e-422c-873c-2653e6fb2a95,Isabelly Alves,fgarcia@example.org,+55 (011) 1214-8261,63,2290.76,1345.25,Low,Short Term,Emergency Fund
+ac0e10eb-8940-44a8-a1e9-29902a6718f0,Pedro Henrique Borges,guerraana-cecilia@example.com,+55 (084) 9317 0325,54,18998.51,10114.56,High,Short Term,Retirement
+392c0303-3a84-4212-b55e-50a59a08e772,Ryan Viana,garciadiego@example.net,(084) 0578-6454,31,2576.01,1773.94,Low,Short Term,Education
+6f07a736-b094-41c3-b3ff-bc4ff56310a2,Davi Lucca Duarte,oliveiramaria-helena@example.com,(041) 1720 2591,25,12486.65,6273.62,Medium,Medium Term,Emergency Fund
+7b9e7fa3-3ac5-470f-a972-d32963ee3d6b,Matteo Fogaça,yda-rocha@example.com,(081) 5958-2765,73,4819.83,1706.16,Medium,Medium Term,Home Purchase
+0cb6d319-e5bc-4053-83dd-d07a4804e9f7,Calebe Cavalcanti,heitorbrito@example.net,61 8315 9936,75,6605.32,3480.64,High,Short Term,Car Purchase
+05d97151-03e7-4ae0-8816-e85d8f7daf92,Dra. Isis Campos,vcastro@example.com,+55 21 9339-4959,34,14018.41,8387.13,Medium,Short Term,Car Purchase
+edff60e8-888a-4927-b6df-6c8ae0aece81,Srta. Agatha Moura,vsampaio@example.net,(061) 7516 8574,39,12811.01,6490.12,High,Medium Term,Car Purchase
+ed1315ac-b83c-485b-90a9-c95287123f92,Paulo Casa Grande,mendesliam@example.org,51 7667 3619,75,7221.54,4357.22,Medium,Medium Term,Home Purchase
+e4e1ad35-9360-4710-9d92-5d98608f8ddb,Gael Henrique Guerra,ninacirino@example.net,(041) 6493 4905,72,19065.03,10446.97,High,Short Term,Emergency Fund
+8ef8f6ee-58c8-4325-b60e-ddaa8aa1f92c,Kaique Fernandes,vieiraalexia@example.org,81 8130-1542,48,4177.17,1287.9,Medium,Long Term,Education
+1669e035-5033-41d1-9f66-a0248eba8853,Dr. Leonardo Araújo,rafaeladas-neves@example.net,+55 71 1849 3787,26,8773.27,4812.64,High,Long Term,Retirement
+bfde442a-bae0-4f99-afff-c9865e752378,Luana da Rocha,ayla59@example.org,+55 (011) 7356 5745,36,1864.62,1390.32,Medium,Long Term,Education
+f61e5c5e-ae91-484c-9187-a85468561661,Gustavo Pereira,miguel90@example.com,11 0940-7904,51,12080.78,6570.45,High,Short Term,Education
+7dac12fb-9319-4e29-ac03-1ee4329885fb,João Pedro Garcia,renanmoraes@example.com,(011) 0496-5132,51,19679.91,12668.24,High,Medium Term,Entrepreneurship
+f5a7ac2f-618f-4667-a99e-276463b9b1ab,Luara Dias,renan11@example.com,61 1299 7853,76,7131.32,4439.58,Medium,Long Term,Education
+ae11f2a0-b2c0-4199-ae0f-8748179180c5,Sra. Luiza Freitas,da-pazmelissa@example.net,(081) 6721 9618,74,12224.85,7644.91,High,Short Term,Retirement
+666ff130-9e3c-4f4d-8fba-c08ce3001193,Henrique Cardoso,oliveiraemilly@example.com,31 2497 3824,64,19364.52,10767.76,High,Medium Term,Car Purchase
+0870c3f1-9c13-410d-90b5-7ffcdcb4d7b7,Ana Júlia Oliveira,luarada-rocha@example.net,+55 (084) 6142-2867,23,17961.75,10899.13,High,Short Term,Entrepreneurship
+3189afe7-e277-4f93-8473-7e3cb61d4a7b,Caio Mendonça,luiz-fernandocamara@example.org,+55 61 8120 4240,43,11338.49,6489.51,Medium,Short Term,Education
+4f71af25-2a29-44b0-981f-efe556e0a7d9,Sra. Brenda Fonseca,limaaurora@example.org,(084) 9193 7615,39,3174.21,1392.64,Medium,Short Term,Home Purchase
+245f5a32-b5b3-4a3e-b7e2-0460cef89934,João Vitor Melo,salesbarbara@example.org,0900 217 5789,48,7584.15,4686.48,Medium,Medium Term,Entrepreneurship
+cd4cfafa-afe2-4ed3-8741-6e04c290d768,Luan Casa Grande,levigarcia@example.com,41 7573-6263,24,7524.53,5183.67,High,Long Term,Car Purchase
+9172bab8-0e5a-4976-a2e1-2fcf96b1accd,Clarice Alves,laura60@example.net,(041) 0384-2222,41,2008.42,1487.85,Medium,Medium Term,Emergency Fund
+be7c4cfa-1262-4991-ae36-2df62a1e454e,Matteo Abreu,otavio98@example.com,0500-473-8864,35,11237.18,5637.17,High,Long Term,Home Purchase
+3b73c49a-d6f0-4e16-ba13-e7995572cc1f,Isabela da Mota,aliceporto@example.com,(051) 9027 3432,65,2953.88,1998.28,Medium,Short Term,Entrepreneurship
+46398983-8bce-4ff7-b31b-17751829902d,Dr. Davi Luiz Ribeiro,vitorpacheco@example.com,+55 31 3670-8951,40,10954.95,7195.55,High,Medium Term,Education
+322f1272-d5cc-43b4-84ea-d9900cbb28ac,Renan Silva,maria-sophia64@example.com,+55 51 7216 6776,57,15947.66,9031.28,High,Long Term,Home Purchase
+d74887ac-376a-441f-9a10-52aba13e5408,Sr. Luiz Henrique Rocha,aliciasiqueira@example.net,81 0387 9905,72,11195.86,7054.97,Medium,Medium Term,Retirement
+b3b56fca-8dbb-4eb4-bbf1-d4f9dc935927,Oliver Ferreira,ana-lauraalves@example.org,(081) 0666 5029,72,4542.74,2873.79,Medium,Long Term,Entrepreneurship
+46f71873-b787-4a65-ab82-a4390de0cd0d,Maria Cecília Nunes,antonioleao@example.com,+55 21 6412 6697,47,11081.11,6679.51,Medium,Long Term,Entrepreneurship
+8730135c-1b53-44db-8997-646b28701418,Théo Silva,marquesmaria-julia@example.net,0900-380-4425,73,17462.57,11050.05,High,Medium Term,Car Purchase
+a0fb1d3b-8110-4f6d-8466-055f3ed43534,Luiz Felipe Pacheco,arthur-gabriel21@example.net,0800 183 9332,78,7407.4,4501.83,High,Short Term,Car Purchase
+0bacdf98-bfa1-432d-ba33-7d1c350b33ee,Dra. Marina Dias,maria-luizaoliveira@example.net,+55 (081) 2190-0854,46,17387.61,9579.75,High,Short Term,Home Purchase
+97c45103-5cb6-4cca-891a-d93ffbc69a30,Emanuel da Mota,cassianopaulo@example.org,+55 71 1458 7244,67,8397.11,5458.15,High,Long Term,Emergency Fund
+134fe38f-b0bd-44e3-bb11-9d2578e10125,Maria Julia Santos,walmeida@example.org,+55 (021) 2377-6834,20,11924.18,7457.46,Medium,Short Term,Home Purchase
+3d354538-23c1-46ca-b8be-c01d7917b3d5,Ana Cecília Siqueira,vinicius95@example.org,+55 31 8109-0374,27,13107.07,8997.89,Medium,Long Term,Retirement
+c5b13eae-9aa2-4793-ad0a-3723fc6ab74a,Antonella Guerra,alice03@example.org,61 8514-8648,78,7394.09,4609.95,Medium,Short Term,Retirement
+4b89d66b-5cbf-4be0-abcc-121babc042fd,Rodrigo Machado,borgesmaria-laura@example.net,+55 21 2225 4927,51,17184.15,11325.44,High,Long Term,Car Purchase
+2b112c79-8981-46fa-b071-258b9d9100ec,Marcelo Gonçalves,teixeirajose-miguel@example.com,+55 31 5015 2169,38,12554.32,7860.64,Medium,Short Term,Emergency Fund
+c28a974c-0ebf-4cde-998d-3e8b34b04df4,Maria Flor Aragão,gustavo-henrique05@example.org,(031) 0726 8524,64,7999.32,5201.13,Medium,Short Term,Education
+e7ef94fb-66e7-45a4-aa0f-ac197aa48fc7,Ester Cardoso,costaluiz-miguel@example.com,(011) 8381-7114,46,12089.9,7242.99,High,Long Term,Emergency Fund
+d7fe66a4-33e5-40c9-bdf4-4d0e0c82dd07,Juan Macedo,cassianomaria-liz@example.com,+55 (051) 5538 2353,24,15114.8,9238.72,High,Medium Term,Education
+7e899ec6-5081-473f-a2f7-6df296067c02,Dra. Maria Laura Borges,tlima@example.net,51 6123 8269,51,16539.95,8482.64,High,Short Term,Home Purchase
+08576326-a33b-4715-b694-b6e8406e76c7,Arthur Miguel Nunes,emillysa@example.org,(021) 9129-3643,58,3325.13,1646.64,Low,Medium Term,Entrepreneurship
+39bd94ba-e3be-41bf-a532-5a4176429e0e,Ana Liz Azevedo,aparecidalorenzo@example.org,+55 41 0644-6231,36,5722.4,3545.48,Medium,Long Term,Home Purchase
+531dfbf7-c767-4a6c-aa01-49dba28c4713,Sra. Aurora Teixeira,pereiramelina@example.com,(051) 3754-9106,26,8126.24,5638.88,High,Long Term,Home Purchase
+9a0a8582-9896-4921-9efe-4a4c5d2d9734,Bento Aparecida,isabelamachado@example.com,+55 31 1492-6967,47,19722.8,10944.9,High,Short Term,Entrepreneurship
+07fc2758-d236-4db8-99a0-f6df7c95e16b,Nina Costa,arthur59@example.net,+55 (031) 0873-8179,54,8011.82,4504.13,High,Short Term,Car Purchase
+164211a1-84f8-4213-99f3-576c8fe21760,André Caldeira,luiz-fernandocarvalho@example.net,+55 (081) 1012 1961,51,13525.56,7912.76,Medium,Short Term,Entrepreneurship
+ad54d7c9-bc49-492b-9e28-2eaf24125fff,Valentim Teixeira,siqueirahelena@example.net,+55 (041) 0124-8420,60,16536.72,8494.59,High,Medium Term,Home Purchase
+710b4d30-93c9-4d2f-81a8-92a5fbd17dd9,Maria Laura Nogueira,raquel05@example.com,(031) 5161-8513,43,11267.23,6883.29,High,Short Term,Emergency Fund
+fe322e65-2e39-4e1e-baf0-43d54cca52b5,Giovanna Barros,vitor-hugoribeiro@example.org,+55 (041) 9436 4696,59,9107.02,5073.18,High,Medium Term,Home Purchase
+7cedb84d-a362-4468-832e-2854fc5c8f00,Ana Liz Cavalcante,thiagofreitas@example.com,31 8833-2128,76,15836.8,8757.51,High,Long Term,Emergency Fund
+1c68de87-f713-4be2-9cdd-de718a03bd48,João Felipe Caldeira,qcastro@example.org,(081) 2561 7683,29,14075.89,8787.87,Medium,Short Term,Education
+196108fb-0e0d-4294-be7a-6d5626aa038b,Dr. Lucas Cirino,riosmilena@example.com,81 6663 8288,77,16845.07,9076.24,High,Long Term,Retirement
+3faf7177-2f99-483a-bea7-a84d93eebf19,Ana Julia Guerra,emanuelly58@example.net,(051) 5426-4062,22,19598.05,13105.97,High,Short Term,Car Purchase
+7f5b96a7-897d-469b-9884-45ab9a8bf3e0,Maria Helena Nunes,hcastro@example.net,(084) 4111 1928,34,14083.5,7125.72,High,Long Term,Education
+603a511d-daf4-4c12-bd21-e2b04bb1e54b,Evelyn Andrade,oteixeira@example.org,(031) 7970-2402,78,10120.92,6270.82,Medium,Short Term,Education
+da825b66-5c69-4279-a308-a61a618b8e79,Agatha Monteiro,luanabarbosa@example.org,0300-162-9449,37,18257.98,12140.19,High,Medium Term,Car Purchase
+a64e5fd8-7d6e-4ad2-b6f6-a7aba001c5b0,Natália Araújo,jose-miguel89@example.com,41 1746 6546,26,6286.85,3171.61,High,Short Term,Emergency Fund
+07c6a9ae-7c6a-4435-8e5b-e86ee8223214,Theo Peixoto,odas-neves@example.com,(071) 0523 6954,32,4123.62,2810.73,Medium,Short Term,Home Purchase
+1c532c44-0661-4601-a11f-35391c1c9a2f,Allana Gomes,marcos-viniciusbrito@example.com,(081) 9423 5750,42,12872.66,6999.82,High,Short Term,Car Purchase
+b9a5d4c4-ceaa-492e-93db-b020cec2ddc5,Sofia Farias,lunna52@example.com,+55 (041) 4466-0387,20,8290.11,5782.15,High,Medium Term,Entrepreneurship
+489732d5-920e-4e12-866d-1c31856439a9,Lorenzo Pinto,ferreiraluiz-miguel@example.net,0900-758-5851,65,10598.97,5748.29,Medium,Long Term,Car Purchase
+5cd63a8d-c939-435f-b47f-203afbc527ce,Allana Siqueira,kviana@example.org,+55 61 0251-1426,41,17347.3,10260.27,High,Medium Term,Entrepreneurship
+50ccfaad-8ec0-4aa2-bc5d-dacd5af45bd5,Vinícius Campos,fmoura@example.org,21 1806 3929,20,18912.48,9478.8,High,Long Term,Entrepreneurship
+f36d0f1e-4a8b-48d8-9a8b-62cfd431e532,Maria Clara Lopes,brayanabreu@example.net,0300-504-1556,28,1542.31,1085.08,Low,Medium Term,Home Purchase
+82b58543-2c9b-4228-b5a0-f952cb757c72,Maria Júlia Jesus,marcela07@example.com,+55 (041) 4636-3359,75,8096.71,4498.65,Medium,Long Term,Home Purchase
+86952226-0d32-4c12-b1bc-4c108519f7c6,Vitória Ferreira,llopes@example.com,+55 (081) 7452 2450,67,17509.35,9469.36,High,Long Term,Emergency Fund
+1ab6f66b-4d52-4721-8fa8-8453dcad8041,Daniela Lima,hda-paz@example.org,+55 (031) 4341-7023,57,2474.38,1777.34,Medium,Medium Term,Emergency Fund
+166fe45c-db63-40ec-af7d-33001325b7d3,Lunna Rios,bmartins@example.net,0300-955-3519,48,13029.79,8239.91,Medium,Short Term,Car Purchase
+f5690c4c-d2e3-472d-ab93-459ed31a3dbd,Yago Rodrigues,cirinotheo@example.org,+55 (071) 8261-2175,47,9516.35,5443.45,Medium,Medium Term,Entrepreneurship
+6e7020b0-826e-4f90-866b-fbbb0c38c77c,João Gabriel Silveira,srodrigues@example.org,+55 71 8362-0794,64,12608.2,8334.98,High,Short Term,Education
+8626765b-e7b6-433e-b593-88bd0faca326,Isabelly Guerra,garciarafaela@example.net,(084) 9371 0519,60,5866.25,3326.04,High,Long Term,Emergency Fund
+9ea6e17f-4738-4aee-8d2a-16a6454598fe,Letícia Farias,ester13@example.org,11 9217 9787,73,7742.18,4776.82,Medium,Medium Term,Car Purchase
+fb42b3d2-ff12-4750-b51d-8bcd0c2c9533,Emanuel Gomes,orios@example.com,(021) 1127-2912,70,15871.02,11093.6,High,Medium Term,Education
+7c8ad134-43d3-4829-bdc7-d4b4c89e2d81,Breno Silveira,novaesana-liz@example.com,(011) 2535 8456,53,16799.92,8517.53,High,Short Term,Education
+a51da2be-1833-4f93-9824-4aa0303efbb4,Nina Pinto,hadassa00@example.net,71 5782 6687,71,6349.05,4436.8,High,Long Term,Home Purchase
+f17c1d48-3d90-43eb-8638-d1ed91a976c3,Dr. Ryan Cirino,cavalcantiluana@example.com,+55 (081) 1807-0036,49,12191.11,6896.27,Medium,Long Term,Emergency Fund
+b3d6c5d6-9d5e-4092-b5cc-738f4610e078,Vicente Pinto,pastorguilherme@example.net,(081) 9445 1842,53,3864.95,1793.61,Low,Short Term,Home Purchase
+13149aca-e4ed-4325-95be-b487e6a4b95b,Alexia Araújo,hferreira@example.org,+55 (021) 3022-9638,19,15390.54,10216.42,High,Long Term,Emergency Fund
+8db82760-9e66-4729-a30a-e2deea437ffa,Augusto Moraes,biancacassiano@example.com,0300-036-4999,51,4310.74,3303.31,Medium,Medium Term,Emergency Fund
+8b1a9289-46ea-4345-8582-e81116020c26,Alícia Santos,hcampos@example.net,+55 (021) 6884 0368,25,5808.76,3544.95,Medium,Long Term,Retirement
+62c68a13-b66a-4f30-a6f5-5b78a035009c,João Gabriel Borges,alanafarias@example.net,+55 41 7258-3662,76,17282.88,11404.07,High,Short Term,Retirement
+925dccbc-2bb4-4917-811c-f6539919d488,Melissa Pastor,ifogaca@example.net,+55 31 7704-7177,65,5434.22,3424.31,High,Long Term,Emergency Fund
+e128a3fe-6d37-4ce0-8b77-9f07cd125b16,Maria Clara Sá,da-rosavitor-hugo@example.com,+55 81 3073-4026,20,18305.11,10259.3,High,Long Term,Entrepreneurship
+c7e0b220-7b07-4e3e-bc1c-dace9890c009,Carlos Eduardo Porto,jgomes@example.com,61 3792 2637,47,5810.56,3006.29,High,Long Term,Emergency Fund
+3e6b627d-be7a-46e4-ae26-ba7ca3f72368,Lucca Sales,maria-florpeixoto@example.org,+55 (041) 2433-8457,22,3926.37,1551.67,Medium,Medium Term,Emergency Fund
+5508aecc-a695-46ed-8d6a-bb9023aecb5d,Sr. Vicente Cavalcante,larapeixoto@example.net,41 2903-9402,52,2993.17,1949.78,Medium,Short Term,Entrepreneurship
+e0494899-1685-4845-bbd4-887acb31af70,Bianca Santos,camargosophia@example.org,+55 51 3063 6460,31,14814.53,7842.79,High,Short Term,Car Purchase
+9449b800-3023-4149-b961-eb5a8192d44f,Matheus Rezende,lrodrigues@example.com,+55 (011) 5435-5654,31,6657.9,3738.96,Medium,Medium Term,Emergency Fund
+f23aebdd-e807-4e88-a17d-bb228fa1ce35,Henrique Vasconcelos,vnovais@example.org,+55 (071) 3455-7525,27,2509.53,1788.83,Low,Long Term,Education
+2031e5bf-ab78-4736-9d93-09f4c419a000,Otto Novaes,raulalves@example.com,(084) 9181-9139,37,7505.36,5028.91,High,Medium Term,Retirement
+294fe06f-31b1-4790-a011-efb300aa08f7,Nicolas Moraes,alana71@example.net,(081) 9453 3595,47,9955.07,5625.11,High,Medium Term,Home Purchase
+0ccd867e-fe3e-4a35-8840-6554b0185091,Thiago Cunha,juliapeixoto@example.net,+55 31 1554-1477,46,2468.37,1689.09,Medium,Short Term,Education
+b9d8e3e6-0392-4882-ac75-16340806b4dd,Vitória Viana,peixotoclara@example.org,84 7199-7462,50,2771.15,1212.64,Medium,Long Term,Home Purchase
+327e5d56-ce71-407b-91f0-fa985c536727,José Sampaio,kbarbosa@example.org,+55 61 9239-8945,63,15047.34,8949.61,High,Short Term,Entrepreneurship
+23c75ac8-86f3-4651-8269-f09ee99d1790,Kevin Guerra,teixeiradanilo@example.org,+55 84 0576-3015,28,9031.93,4668.98,High,Short Term,Education
+f287c5fd-4261-4b4b-bcfb-76d471e97797,Maria Luiza Monteiro,da-rochathomas@example.org,+55 71 0140 6714,44,9146.06,4803.23,Medium,Long Term,Education
+3c9a0460-b9c5-40dc-b2a6-9c57911721d9,Apollo Monteiro,mariahcassiano@example.org,+55 81 9089-2894,66,2702.97,1639.19,Low,Long Term,Car Purchase
+5121a253-3a56-4a6e-a0bb-ed13014640bb,Srta. Ana Clara Ramos,leticiasouza@example.com,+55 61 0132-4420,67,2494.72,1398.36,Low,Medium Term,Retirement
+4eabe4f4-9e32-45e1-bb6e-59262c5d68fe,Samuel Andrade,fcosta@example.com,(021) 4895-8579,19,5223.53,2922.77,High,Medium Term,Entrepreneurship
+20384f23-4c5c-4d37-b758-84d31aab3f06,Thiago Duarte,siqueiramaria-julia@example.net,+55 (041) 8628 2620,56,18295.48,9904.46,High,Medium Term,Emergency Fund
+8750ecc8-1854-4a48-988a-de647cc59381,Ana Luiza Porto,guerraleo@example.org,+55 (051) 0745 6852,28,15134.98,9224.25,High,Short Term,Car Purchase
+501ee6fc-f46a-46cf-8add-004675003b4f,Rafael Guerra,isaacda-luz@example.com,+55 (031) 9843-2108,77,15319.46,9942.97,High,Long Term,Education
+a264b07b-6abc-43e7-9429-8b5da45a0113,Rafaela Cunha,giovanna70@example.org,+55 (071) 4666-2488,45,1544.59,1224.56,Medium,Short Term,Car Purchase
+bebf3a23-c01f-485c-8765-fce9c88f95b8,Srta. Zoe Monteiro,andradeotto@example.com,+55 (041) 1915 3007,71,4307.84,2269.81,Low,Long Term,Education
+c744c17a-3556-4306-a5da-527a654cd1d3,Juliana Gonçalves,vitor-hugo01@example.com,(081) 5809 7137,31,11465.17,7531.56,High,Short Term,Education
+2e7ad416-2a20-4ed4-a5f4-1025ca9f334a,Srta. Emanuella Mendes,davi-miguel19@example.com,+55 41 5577-7886,39,7507.0,4512.75,High,Short Term,Car Purchase
+46b71c55-e4ca-466c-91aa-75dde82399cb,Ágatha Mendes,ana-lauranascimento@example.com,+55 61 9982 7271,72,15943.1,10935.58,High,Short Term,Entrepreneurship
+2653c53e-0b35-4848-8a09-4590070a085d,Oliver Azevedo,lnunes@example.org,+55 (051) 8380-8127,31,8699.1,5909.01,High,Short Term,Retirement
+59c8c284-20de-435a-b7c1-32b9be1c553c,Oliver Araújo,da-pazthomas@example.com,+55 41 7259-3422,48,15003.89,10031.88,High,Short Term,Home Purchase
+aba94be7-056b-4add-b6e6-622abeb37a55,Antonella Mendonça,elisa67@example.org,84 1718-1115,30,4835.25,3635.46,Low,Medium Term,Emergency Fund
+babf3cf0-65ed-480e-91fe-927a4e23fe90,João Vitor Sales,amontenegro@example.org,+55 (031) 7549 7157,19,10502.55,6044.53,Medium,Medium Term,Entrepreneurship
+eb7ec010-7286-4267-8061-f9e72166ba14,José Pedro da Rosa,giovannarezende@example.org,(021) 1859 0764,40,5871.56,3491.67,Medium,Long Term,Emergency Fund
+ebba340b-c8f3-4d92-9096-6add7087bf82,Marcela Andrade,nascimentorael@example.net,+55 81 4510 8449,67,3650.64,2712.73,Low,Short Term,Entrepreneurship
+289b8509-9699-4fd4-9ae3-0e2d26744f25,Ana Cecília Sampaio,piresjoao-miguel@example.org,+55 (061) 4265-6108,26,3514.99,2640.64,Medium,Medium Term,Retirement
+a0588d6a-0692-4e53-9257-83f4eb27347e,Dr. Pedro Miguel Montenegro,marcos-vinicius25@example.com,(021) 8356 2464,22,5251.12,3182.59,Medium,Short Term,Car Purchase
+af4040ec-1129-4b67-9410-86e6a6a49081,Sr. Rhavi Pinto,vborges@example.com,61 6133-6213,33,11082.79,6823.19,High,Long Term,Entrepreneurship
+454f4095-73d8-48ac-8db8-98c000a3f286,Rael Cavalcante,guilhermeguerra@example.net,+55 11 1859-9359,60,9798.97,6750.68,High,Long Term,Emergency Fund
+da9c91db-a175-4612-9214-100e43eaa198,Dr. Mateus Gonçalves,mendoncamariane@example.com,(011) 4997-3218,51,14940.95,8499.18,Medium,Medium Term,Retirement
+743b9dbb-7e68-4fe4-822a-7a583f000faa,Bárbara da Paz,melinalima@example.net,+55 (041) 2453 0293,78,14868.4,8157.85,Medium,Short Term,Education
+8f8e3db9-0e0b-4fea-96ae-1539923efc4f,Luiza da Mota,ramospedro-lucas@example.com,+55 51 3693 1355,34,14795.99,9790.5,High,Medium Term,Car Purchase
+6c899cb2-1301-44c3-ad18-9aabac13cd7c,Davi Lucas Dias,hborges@example.com,+55 (041) 4866 4707,32,12607.24,7478.72,Medium,Short Term,Retirement
+c9e7d746-bd27-40f1-ab19-ed718cbaaf8d,Sr. Eduardo Moura,lfonseca@example.net,+55 (021) 9612 0601,57,6174.0,3176.74,Medium,Medium Term,Home Purchase
+00e5090a-5d60-4ffa-b6b7-110f417b13ff,Aylla Sampaio,ayla61@example.com,+55 41 5751 5917,50,15010.15,7915.03,High,Long Term,Home Purchase
+10c888fe-79dd-46d2-bddd-bf0809225903,Aylla da Conceição,matteo36@example.org,+55 51 1185 3525,69,7525.17,4179.78,High,Medium Term,Home Purchase
+17be0496-e923-450d-9187-af8cde10295a,Sr. Diogo Carvalho,matteo30@example.net,0900-165-7739,55,14723.02,7384.48,Medium,Long Term,Emergency Fund
+ddc6ce59-a5b5-4670-b505-c686a2122c32,Sr. Calebe Nogueira,kevinviana@example.com,+55 51 3685 3040,49,3725.65,2424.51,Medium,Short Term,Education
+6f8e9541-14d3-4c04-8a50-bc4061b2b57c,Zoe Cavalcanti,zmendonca@example.net,+55 11 5190 0692,48,11612.67,7123.04,Medium,Long Term,Retirement
+a79c5c64-8bbc-46ba-ab0e-70be6c4e5e65,Murilo Pereira,monteirolorena@example.org,+55 11 5653-6398,28,4182.31,1524.42,Low,Short Term,Car Purchase
+cd045153-1659-4db5-bf60-541f3d105263,Leandro Cardoso,hfonseca@example.net,+55 (084) 2332-8341,21,15990.46,10329.58,High,Medium Term,Education
+f060bc69-2e41-424a-9eb4-f82b04ce89d6,Eloah da Paz,helenacarvalho@example.net,(051) 0415-5697,35,9980.4,6060.97,Medium,Long Term,Education
+963febc4-7141-4975-8f3a-4f833b9aa5bd,Cauã Cavalcante,mendoncalais@example.com,21 8377 6588,29,17840.47,11387.75,High,Long Term,Home Purchase
+8d8e6ba6-b80e-412d-bfde-1579775f070e,Luiza Vieira,gaelmoreira@example.com,(084) 0250 7446,65,14235.88,8718.96,Medium,Medium Term,Car Purchase
+1a6bae44-1fd6-45f7-8d33-7a0965c3f359,Vicente Teixeira,gdias@example.net,+55 11 3604 3290,72,8039.67,4677.1,High,Long Term,Education
+679fb510-8bc9-4755-9136-6c427adb362d,Maria Sophia Correia,nataliacamargo@example.org,+55 31 4264 1202,45,13324.27,7606.68,High,Short Term,Retirement
+c2c79e8f-0382-45ad-aa37-5c00c647327f,Isaac da Rosa,wmonteiro@example.com,61 3228-8339,44,11555.45,7215.13,Medium,Long Term,Car Purchase
+f98f4d05-f51d-452f-8c62-671f36b327a4,Maria Clara Pacheco,gsilveira@example.net,0500-181-7946,50,9749.99,6811.09,Medium,Medium Term,Car Purchase
+303d5ab8-e18c-4000-803d-9882c1fe4a8d,Anthony Fonseca,caue76@example.org,+55 (031) 6916 0330,26,10578.24,5425.4,High,Short Term,Home Purchase
+9571c670-a73b-4a1d-bffe-1624909336fe,Noah Guerra,cavalcanteluiz-henrique@example.org,+55 (071) 9651-1520,54,5935.25,3969.51,Medium,Medium Term,Retirement
+2b22c825-5f51-414a-ad0f-ebf1d0c33b3a,Anna Liz Andrade,leaoantonio@example.com,+55 (051) 9691 6065,35,17396.69,9551.39,High,Short Term,Emergency Fund
+b799ae9e-4628-4eaa-b2ac-aa4ce55baa24,Luiz Felipe Martins,helena74@example.com,41 2444-1170,65,14651.53,7746.26,Medium,Long Term,Retirement
+2077f234-acc5-4051-9d4c-9f450af50076,Sr. André Siqueira,afernandes@example.com,51 6255 3468,38,9189.84,5636.64,High,Long Term,Education
+83aeb9d5-2f8b-491c-8c08-11ac996b0de1,Amanda Guerra,krios@example.org,+55 (081) 4006-8272,67,15520.38,9006.48,High,Medium Term,Education
+3c82d8b1-bb02-4881-a59f-d08aa5a42de8,Kamilly da Mota,oliveiranicolas@example.org,(051) 6838-3692,22,11667.86,7821.4,Medium,Short Term,Car Purchase
+94d199d0-ae21-47fe-9e35-90fbba58df40,Emanuella Lopes,qrezende@example.com,+55 81 8510 8353,28,14652.47,8330.58,Medium,Long Term,Home Purchase
+930c9425-70d1-4505-93ec-a5cbb7944d28,Alana Farias,raquelteixeira@example.net,(031) 9849-0542,24,9685.48,6496.86,High,Long Term,Retirement
+8fcf312e-9abf-4c88-9b08-f5d98f3bc303,Matteo Garcia,siqueiraluigi@example.org,(041) 0982 0059,58,18274.54,10333.12,High,Medium Term,Entrepreneurship
+ef99947f-b818-434f-970f-d1f1dca479a9,Pedro Miguel Rodrigues,novaesdaniel@example.org,51 0557 3675,80,4966.47,3346.81,Low,Long Term,Emergency Fund
+209acf7b-56fa-4d26-8bc2-8e7400b821b0,João Vitor Castro,maria-sophia30@example.net,+55 (051) 4984 9052,20,5398.73,3744.71,High,Long Term,Home Purchase
+430d90e3-b297-434f-8362-c00729021ba5,Sr. Mateus Rodrigues,fariascaue@example.net,31 5175-4446,62,10052.23,5515.67,Medium,Long Term,Car Purchase
+9753d2ca-e5ac-437f-80ca-5456742f6dc9,Sr. Antony Aparecida,matteofonseca@example.com,(084) 3160-4870,27,4326.52,1770.83,Low,Medium Term,Education
+201c59f3-824a-4baf-a823-5af282ab9323,Vinícius Brito,paulo34@example.org,+55 11 1745-6079,65,6937.59,4145.19,Medium,Medium Term,Emergency Fund
+cc5065f1-c5c6-42ea-9708-eeb0fb1211e8,Helena Guerra,caleb91@example.com,11 6874-3148,54,14837.36,9362.71,Medium,Short Term,Education
+71bdb87f-09e5-4ac2-83a4-d703fffccad2,Alana Aragão,xda-costa@example.net,81 3593 2189,51,11555.93,7468.58,High,Medium Term,Car Purchase
+c83944f6-85cc-45bb-a301-d3e12e91b253,Alexandre Mendes,sophiamachado@example.org,0500 311 4331,27,12318.36,7417.66,Medium,Medium Term,Emergency Fund
+219d754d-143a-45fa-a792-518cf9bf0d34,Matteo Costela,araujopaulo@example.org,+55 (061) 8392-9847,54,13034.11,6663.93,High,Long Term,Retirement
+04c00696-f998-4674-bc19-2c8271a8d48a,Sophie Leão,camaraenrico@example.net,(021) 1067 1153,57,12719.14,7569.77,Medium,Short Term,Car Purchase
+a2fa580d-4dfa-4174-85b1-cfa0936cba8e,Dra. Evelyn Souza,luccacampos@example.org,31 1355-6555,29,11532.34,7819.17,Medium,Medium Term,Education
+487b7975-2b53-414d-bdc4-b258fca4816f,Isabel Correia,lucas-gabriel52@example.net,(041) 9527-5576,49,8307.42,5283.07,Medium,Long Term,Entrepreneurship
+1fe7c8ce-5eea-4dbf-ac6b-91c7481ed3ec,Dr. Enrico da Costa,almeidamelissa@example.org,0300 183 5453,25,16776.25,10061.99,High,Long Term,Emergency Fund
+52608afc-359f-45f6-8432-f99ec5c5650b,Ana Lívia Ribeiro,cardosoluiz-miguel@example.com,+55 (031) 5720-2719,38,3868.07,2381.73,Low,Medium Term,Emergency Fund
+d6485e32-ee8d-4e1a-8108-eeb7913702bb,Eloah da Rosa,cavalcantigael-henrique@example.net,(031) 8135 0020,51,2786.81,2144.31,Low,Medium Term,Car Purchase
+a65403f6-7a76-4452-936f-739b8a397b68,Theo Ramos,giovannasousa@example.org,0800 420 0247,23,3668.65,1831.9,Low,Long Term,Home Purchase
+f3abbacd-a070-4951-9839-c1be3ffc3de4,Sr. João Miguel Cunha,castropietro@example.com,+55 (051) 7731-1656,41,2868.89,1398.41,Medium,Medium Term,Education
+45df0d7d-07b9-4474-8821-07ca0e582312,Isis Cirino,stephanycarvalho@example.com,61 6226-5791,54,14445.0,9737.38,High,Short Term,Car Purchase
+79b523d5-ede8-470c-bb19-6b7eef207b9f,Sra. Maria Laura Santos,jose-miguel70@example.net,61 5230 1533,55,10331.39,6806.72,Medium,Short Term,Car Purchase
+d013be32-1064-411e-b7ae-53951025caf6,Letícia Fernandes,kaiquebarbosa@example.com,+55 21 9132-2081,27,8300.91,5691.05,Medium,Long Term,Emergency Fund
+0892bac3-d419-4708-884f-035d9b53a766,Maria Eduarda Araújo,paulocampos@example.com,+55 (081) 8710-8445,46,10684.65,6861.52,Medium,Medium Term,Education
+d1065d61-b067-4500-aca4-ab26e150f1e6,Renan Jesus,da-cunhadaniela@example.org,+55 41 0109-3264,77,11889.25,7851.86,High,Medium Term,Retirement
+35b1e560-cd73-4313-9174-7f3b1f764feb,Sr. Mathias Alves,heloisavargas@example.org,+55 (061) 3513-7173,56,8506.95,4746.57,High,Medium Term,Education
+5474edc6-a54b-4e75-a87f-9c8204d44da1,Eloah Teixeira,camargolevi@example.com,(021) 2155-4009,78,5530.51,3411.93,Medium,Long Term,Emergency Fund
+acc2ceb7-cd95-4d38-8c71-09eeb835ac8e,Maria Julia Araújo,alexandre05@example.com,0900-840-9502,25,15807.02,10690.08,High,Medium Term,Emergency Fund
+906879b4-9996-41a3-b6f6-ce24940979cb,Yago Vargas,mateus31@example.com,+55 71 0495-1803,44,10179.31,6128.2,High,Long Term,Education
+23a7034c-d4ab-45d5-a353-1900d4d8d65c,Sr. Samuel das Neves,vitor03@example.com,+55 (051) 0653-3329,26,16114.17,9443.39,High,Short Term,Entrepreneurship
+8db4a3f6-f939-485e-a333-55606d820a3e,Lunna Santos,lcamargo@example.org,0500-625-5283,42,8113.47,5089.91,Medium,Short Term,Education
+081613db-ca74-48e4-b203-9d760e1716e6,Letícia Silva,sgoncalves@example.com,+55 31 2046-9938,41,15233.75,9399.33,High,Medium Term,Emergency Fund
+412736ca-f1aa-4726-8d56-e42933653729,Sr. Otto Campos,kbarbosa@example.com,+55 (051) 2812-7621,75,14338.92,7324.62,High,Long Term,Entrepreneurship
+9464b4a3-2cb3-4389-b4d2-5ecf574e0f8c,Benício Cassiano,benicio97@example.org,+55 (021) 4331 1214,23,13465.51,6957.66,Medium,Medium Term,Retirement
+9fed01b0-456f-4174-af69-12437e3168b7,Yuri Guerra,peixotojoao-vitor@example.com,+55 (081) 8357-1986,80,4509.86,1828.69,Medium,Medium Term,Emergency Fund
+806bae4b-000a-4bf1-a606-f89f3d45ccb1,Vitor Dias,rafael32@example.org,0300-747-2792,79,12055.34,6157.89,Medium,Long Term,Entrepreneurship
+d690026f-187c-40c3-93a0-dfe7db0555ff,Marcos Vinicius Brito,vianaisabella@example.net,+55 (021) 8545-9632,21,3213.73,1981.45,Low,Short Term,Retirement
+c04c0c37-9c38-402d-9778-e7380a1a146e,Samuel Ferreira,benjaminalves@example.net,31 2320-0714,56,15873.72,9074.21,High,Medium Term,Home Purchase
+db607cf3-8da7-4814-b2af-e027f9bf8d5b,Zoe Nunes,fda-conceicao@example.org,+55 11 2076-6830,60,19989.4,12430.48,High,Short Term,Education
+acc26d16-a227-4969-99d7-003415e96a79,Agatha Lopes,igomes@example.net,31 2163 7400,23,18055.94,11665.62,High,Medium Term,Emergency Fund
+43d40cbe-c537-4555-b624-85d4a84db3ce,Mariah Leão,muriloalbuquerque@example.org,+55 21 9673-9753,41,18210.5,11675.1,High,Short Term,Entrepreneurship
+7acdeb91-e1fd-4497-b5ae-e17fac1a69a7,Luiza Sales,juansa@example.org,61 5217-1324,71,14834.25,9882.34,Medium,Long Term,Education
+68e0c361-50f4-48e3-87c4-18032b8e0646,Sofia Novais,piresyasmin@example.com,(084) 5387-0477,40,18155.2,11204.73,High,Long Term,Emergency Fund
+12261f28-d643-4335-9458-1a8af3bca8b1,Alexia Lima,maria-laurasousa@example.com,+55 51 5467 6150,54,13847.3,8910.08,High,Short Term,Emergency Fund
+afbf7e6d-6753-4bf6-b04c-f3ca36291746,Maysa Andrade,matheusteixeira@example.org,31 7119-2154,66,12071.95,8156.58,Medium,Short Term,Education
+3d511605-dc8a-4ce7-acb3-29c4df2e8ee6,Sophia Cavalcante,luna73@example.net,+55 61 0319 7957,66,16108.27,8289.12,High,Short Term,Emergency Fund
+c2eae953-b358-4ccc-a2df-9347896c2f3e,Diego Cunha,juliacostela@example.com,0500-718-9352,62,19308.76,13068.41,High,Short Term,Car Purchase
+bd30f911-9f79-4702-b344-48497b2813a5,Joaquim Rocha,beatrizcunha@example.com,(031) 4907 3205,20,16445.62,9017.12,High,Long Term,Retirement
+101d3266-69c2-44f3-b0fd-c0422336b824,Kaique Fogaça,matteoandrade@example.org,+55 (081) 1764 9133,26,15544.42,8210.23,High,Long Term,Home Purchase
+a65ef12a-2338-488f-816f-c67aa0edbb6c,Dr. Augusto Peixoto,raulcastro@example.org,(011) 4440-2264,44,19989.97,13162.96,High,Medium Term,Entrepreneurship
+fef65cb9-a600-40a0-8fb9-039296603f97,Vitor Hugo Almeida,larissamoraes@example.com,31 7527-6735,43,5687.96,3043.15,High,Short Term,Entrepreneurship
+ebde5e0e-7e15-43d0-9c39-53234be9b186,Olívia Sales,diascarolina@example.org,+55 81 3030-0202,60,19075.0,9648.04,High,Long Term,Car Purchase
+7f134f87-8bf8-42e0-a22d-e0a0d8597bb0,Maria Garcia,limatheo@example.com,+55 61 8097 9788,67,7717.75,3918.38,Medium,Short Term,Home Purchase
+c5979ab8-a001-41e0-9c12-c3fc6002cf20,Gael Henrique Sampaio,zoe32@example.com,(051) 6448-4605,46,8559.46,4469.43,High,Long Term,Car Purchase
+4fa6b74b-ae49-4aad-b68b-4caa7f0e1d9b,Vinicius Santos,hmendonca@example.org,+55 (041) 6151 1598,27,9036.52,5133.31,High,Long Term,Home Purchase
+5a275359-bc09-4e57-9f9d-9bbc91117e3e,Aylla Azevedo,macedonathan@example.net,(071) 8797 8918,74,6402.34,3806.68,Medium,Long Term,Education
+2cfc8f8d-2cf7-4b0d-94e2-2ea7ae47cac7,Thomas Pastor,barbaramachado@example.org,+55 61 4043 9629,45,6719.77,4007.23,High,Medium Term,Emergency Fund
+9c5b479e-c8ee-4a9a-85f3-f840fa46e379,Dr. Luiz Otávio Aragão,arthur61@example.com,51 6474 7526,18,4396.81,1063.54,Medium,Short Term,Education
+bb4ae015-5340-4788-bfe4-076efb60d738,Sabrina Freitas,slima@example.org,84 3138-2414,50,18031.95,10100.19,High,Medium Term,Home Purchase
+01b21c51-a38b-4b98-b214-06b3509aa0e8,Luiz Felipe Vargas,emilly39@example.org,+55 11 4941 9600,47,17243.67,9684.94,High,Short Term,Education
+556e4253-0020-4012-9ece-2a02ea97eac4,Henry Gabriel Melo,rborges@example.org,+55 81 2292 2531,36,9744.99,5142.37,High,Short Term,Education
+ff7175c0-a96e-409e-8217-cf3fd1521296,Sra. Natália Abreu,sophia53@example.net,+55 (081) 4079-8650,22,4062.8,3245.28,Medium,Medium Term,Car Purchase
+50386f84-f01e-4c67-be5b-5e2a7dfade8d,Vinicius Montenegro,pfreitas@example.com,(031) 3289-5027,66,13698.26,9183.46,Medium,Short Term,Emergency Fund
+24d96242-a67f-4882-81ca-44bea8f2060c,Anna Liz Nogueira,larasousa@example.net,+55 21 4860 9617,64,11282.8,7352.64,Medium,Long Term,Retirement
+3c1ed0c8-93a6-4344-ba04-17b48fe821c1,Sr. Erick Correia,zoe41@example.net,(011) 5728 8839,46,11933.0,6835.33,High,Long Term,Car Purchase
+61fc5d99-516c-4c4d-87f4-14a9ecf822fb,Ágatha Cassiano,spinto@example.org,61 7589-5327,62,2235.13,1445.85,Medium,Long Term,Car Purchase
+631ccce7-a01e-466d-9fa6-b187b97f06f7,Antônio Rocha,vicentejesus@example.org,+55 71 1890-6426,55,3757.68,2168.83,Low,Long Term,Car Purchase
+47b16c72-ac72-496f-ba16-e9c8eb2bfe45,Ayla da Rosa,pintoisaac@example.net,+55 (084) 9618 6831,63,15597.13,8189.18,High,Short Term,Retirement
+eb8c34bd-928d-4691-b8d0-fb952445332d,Lavínia Azevedo,pimentajoana@example.org,51 0352 4489,71,17291.24,11317.69,High,Short Term,Home Purchase
+89252a38-e069-4c1d-82b2-72914c1d4337,Luiz Gustavo Farias,da-costaleonardo@example.com,+55 21 2423-0892,42,8211.39,5202.28,High,Short Term,Education
+135f7821-e6ce-445a-b34f-33f97ca1f386,Sra. Ísis Cavalcante,carlos-eduardo28@example.org,+55 71 7943-2858,79,19245.85,11165.49,High,Long Term,Education
+d7317a76-111d-4e68-ba83-d7a3071df4cd,Dr. Lorenzo Câmara,fvargas@example.com,(031) 1083 5846,23,16640.59,9716.35,High,Short Term,Home Purchase
+428ef148-cf39-4111-bc70-952cd79d4f3e,Luiz Henrique Guerra,clarice74@example.com,84 8721 8062,64,7875.81,5029.69,High,Short Term,Car Purchase
+3a2e411e-a8a7-4306-9aa7-55e2e854fc8b,Emilly Azevedo,luizamachado@example.net,+55 11 3264-2185,48,19670.96,13318.57,High,Medium Term,Car Purchase
+698a8226-0ede-4d1d-9ff0-416b538b363e,Isabela Aparecida,zoe24@example.com,+55 (084) 5349 9633,56,12274.43,8064.67,High,Short Term,Home Purchase
+6052038e-1859-4a6c-9cf3-3230b8975acf,Jade Silveira,camarajose@example.net,+55 (084) 9285-1634,55,11381.08,7480.42,High,Long Term,Emergency Fund
+9f739e1e-0db8-4915-a57c-272615bb2d23,Rael Peixoto,zferreira@example.net,71 2974 5777,56,4978.91,2910.54,Low,Long Term,Education
+e9dd9dcf-1586-4e71-a842-0e44fd1279b3,José Miguel Sales,fogacaluiz-miguel@example.org,+55 (084) 1266-7740,26,12169.86,7060.2,Medium,Short Term,Emergency Fund
+58fb4e0a-b17e-4d19-a87f-e271eb23b6cf,Eduarda Melo,sofia03@example.com,+55 81 8193-4697,27,6934.88,4828.69,Medium,Short Term,Emergency Fund
+067e9275-c6cf-4600-bbf9-bcd3d7b83f76,Bianca Caldeira,cirinomaria-laura@example.com,41 1762 4911,19,16450.54,11268.79,High,Medium Term,Retirement
+0b83c3d6-0f7c-4e6c-aada-6f2f0e97b16e,Igor Peixoto,oda-mota@example.net,84 0374-8161,54,14565.52,9691.23,Medium,Medium Term,Car Purchase
+c3345b54-2959-43c7-a398-75b30e5df8ff,Dr. João Miguel Pires,wcirino@example.org,84 6007 9663,30,10428.54,7174.85,High,Short Term,Emergency Fund
+e65ecc58-a001-45ad-8316-bb12a6cc6e7f,Alexandre Sá,maria-fernanda97@example.org,+55 (061) 8037-4981,54,11273.08,5818.36,Medium,Short Term,Emergency Fund
+f76ff6a1-cae7-449d-8a5d-934a7577921c,Breno da Conceição,xcardoso@example.org,(011) 4945 2851,55,9080.16,4692.25,High,Long Term,Emergency Fund
+47a76e36-d7b2-4ca3-a64f-d5008f25db7f,Camila Sousa,montenegroalicia@example.org,+55 (081) 1444 0665,25,9393.02,6016.54,High,Medium Term,Education
+0bcb13bf-7910-43bf-acd6-9e64fc214aff,Maria Garcia,rochayago@example.net,11 3719 2251,49,17432.11,11426.41,High,Long Term,Car Purchase
+6acfb543-9090-4d14-9e0b-de5465981fc5,Gabriel Teixeira,agatha03@example.org,(081) 7467-2829,69,7905.73,4489.67,High,Short Term,Car Purchase
+85b7f760-5080-4371-a8b8-eae2d2d79e4c,Ana Cecília Vieira,camargobenicio@example.net,+55 (084) 0181 6608,33,1585.58,1023.64,Low,Long Term,Education
+9e90db09-29a7-48fa-9905-46aedd850106,Liam Câmara,olivia02@example.net,(041) 6149-8530,37,9538.88,5830.87,Medium,Short Term,Emergency Fund
+7596ccd8-21ae-40f3-ab85-32ef91a5fc86,Kamilly Lima,nicolasda-rocha@example.org,21 9805-8805,37,13980.89,8638.82,Medium,Medium Term,Car Purchase
+e994612e-e311-4a24-800a-0a8345cd1953,Raul Nogueira,ottobrito@example.net,51 2254 6559,79,2060.31,1238.58,Medium,Medium Term,Retirement
+37ad0b9e-988a-4cbe-bf74-97635a1937a4,Manuella Fonseca,benjamin79@example.com,0900 290 2988,44,5544.34,3390.74,Medium,Short Term,Emergency Fund
+65ed0575-95e5-44ce-993d-9d8cbed586c1,Antonella Alves,erickbarbosa@example.org,84 7808-6888,67,4638.27,3683.11,Low,Medium Term,Car Purchase
+79e57563-657b-448e-a3f1-e11c5e3b66c8,Fernando das Neves,ana-laura30@example.org,+55 51 3999 3946,55,6104.34,3516.95,Medium,Long Term,Emergency Fund
+d3dff76e-c49d-4b48-84f4-6bbc2b7aa3b4,Ana Júlia das Neves,bcamargo@example.com,+55 61 3525-4331,74,15648.35,9896.86,High,Medium Term,Entrepreneurship
+e0420cc3-713a-47b2-8bb1-f372034b1ae4,Nicolas Rodrigues,melomaria-julia@example.org,0900-902-4430,35,15826.15,8463.99,High,Short Term,Home Purchase
+172ebc5c-f766-488a-b74f-d209a729aca3,Luiz Henrique Fogaça,camposana-luiza@example.org,+55 21 4590 4549,39,19717.25,10235.13,High,Medium Term,Car Purchase
+a06779ce-325d-44b7-b17c-4ac26ed35dc6,Cecília Brito,rezendemaria-eduarda@example.org,21 9499 9568,47,6600.93,3341.07,Medium,Short Term,Emergency Fund
+e10e23ba-1486-4351-981a-988936d0ad0d,Danilo Sá,pcirino@example.net,(084) 7005 8049,18,17310.52,9809.52,High,Long Term,Education
+4b62e859-68d3-4ad7-a3be-c5b6d22a656c,Yan Guerra,riosnathan@example.org,61 9120 6572,26,10527.34,7041.29,Medium,Medium Term,Car Purchase
+5c616c33-6fe8-451b-b1ff-bf7b0de12291,Lorena Moura,jvargas@example.com,+55 (071) 0068-7037,54,6979.88,4776.14,Medium,Long Term,Retirement
+115ea844-c045-4d1c-8887-80483a3b14c8,Leonardo Câmara,mnascimento@example.org,31 3521-6119,24,2032.69,1069.67,Low,Short Term,Education
+71d3e81d-793b-4a8c-bc76-86a93b983434,Alícia Montenegro,gabrielly74@example.com,+55 11 9388 5469,18,15343.39,8874.43,High,Short Term,Emergency Fund
+c1367b90-ba70-453f-a35a-b529488497c8,Luiz Otávio da Rosa,ryan94@example.org,+55 (084) 6793 2872,54,9575.52,5798.71,High,Long Term,Education
+c0da0d84-84d8-43c3-8347-aab5c4e9348c,Dra. Ana Júlia Barros,murilo73@example.org,(041) 8494-7446,57,7929.12,4319.78,High,Long Term,Car Purchase
+e6c5e8cd-596a-444f-a4c2-e60702623b9b,Matheus da Conceição,borgesjoana@example.net,+55 (011) 6279 7008,70,7997.76,5315.19,High,Long Term,Entrepreneurship
+3ad66d74-cf47-4b47-85a1-722cf663f869,Theo Casa Grande,bryan62@example.net,+55 11 4309 6456,47,10152.39,6104.47,Medium,Long Term,Entrepreneurship
+e9082300-12dc-4be6-b86a-62612ca1cdec,Dr. Murilo das Neves,antonella19@example.org,41 5792-9933,26,14641.64,8326.43,Medium,Short Term,Education
+177a4fb2-c9ed-4138-aa82-698007880565,Josué Martins,daviaraujo@example.org,+55 31 0271-9518,22,3502.19,1013.6,Low,Medium Term,Entrepreneurship
+96e8ff8c-f81c-4f62-8156-6bf1ae360356,Dra. Ana Beatriz Almeida,maria-luiza52@example.net,0800 706 4625,55,13357.09,8137.5,High,Short Term,Education
+75988399-dd3a-4e27-8ec7-bfbd7e3ba5dd,Sarah Costa,qgarcia@example.org,+55 (011) 5478-1315,66,14609.82,7978.25,Medium,Short Term,Emergency Fund
+98f849fb-463a-4918-ac40-09487991c922,Daniel Casa Grande,yasmin31@example.net,(021) 6146 5013,72,7473.48,5121.7,High,Long Term,Home Purchase
+a95b8bd7-0992-4629-943a-9b75744776db,Leonardo Peixoto,aoliveira@example.com,+55 (051) 4246-2028,40,9484.3,6474.21,Medium,Long Term,Retirement
+419abdb9-7e2b-4d53-8d7f-524e3dc50cf4,Joaquim Silveira,uabreu@example.org,(041) 0690 4668,43,2287.73,1719.35,Medium,Long Term,Home Purchase
+cf44304e-b023-4304-956c-118ee0695189,Ísis Nogueira,jda-rosa@example.net,(061) 0756-5614,63,12746.24,6835.5,Medium,Short Term,Entrepreneurship
+26234912-a861-4d0b-a0f7-63cb79ff3845,Sra. Maria Eduarda Viana,sandrade@example.org,+55 (041) 0843 1575,46,19676.81,13110.46,High,Medium Term,Car Purchase
+0bcace44-f81a-4891-b19b-49b65721846e,Lucca Montenegro,diego40@example.com,(041) 5665 1097,76,6809.71,4633.56,High,Long Term,Entrepreneurship
+8a48ff4a-ab7b-47a8-8101-faf51515418e,Catarina Cassiano,nataliaaraujo@example.com,84 8044 3495,28,14414.29,8895.38,Medium,Medium Term,Car Purchase
+5f5c778b-6bf8-417b-8bca-1865b7788af3,Olívia Pinto,camila39@example.com,+55 21 7591 8225,23,4111.97,2134.69,Low,Short Term,Car Purchase
+3db9d3cb-8c49-4358-a77e-a7d8a7e4f151,Luara Lima,gabriela64@example.com,61 1608 6243,47,12309.41,7968.99,High,Medium Term,Entrepreneurship
+f1a1d6da-e7fa-4750-bdf7-43933f89b355,Theo Macedo,arthurpereira@example.com,0800-252-6795,54,15806.11,10683.89,High,Short Term,Entrepreneurship
+fecd81cd-7f7f-44a4-b6af-cf5bd72c725d,Pedro Moreira,julia97@example.org,+55 (021) 1279 3495,53,2325.21,1464.05,Medium,Long Term,Home Purchase
+1a3d20a7-5cf9-4441-bd0e-a6f0a36ec520,Vinicius Silveira,pcavalcante@example.org,41 6453 3963,64,6519.61,4099.9,Medium,Medium Term,Education
+f056e39a-5ec3-4e04-8d7c-c95ccbe3e840,Enzo Gabriel Nunes,dantebarros@example.com,+55 (081) 2796 2483,46,17177.09,10712.11,High,Medium Term,Education
+56f44711-927a-48db-a6c6-47d0b6268aac,Luara Machado,jesusmariah@example.org,(031) 6795-3995,26,8229.05,5333.25,High,Medium Term,Car Purchase
+16694017-56c6-42a0-a6cf-91d48c83961d,Dra. Isabella Vasconcelos,josenovais@example.net,(011) 7943 0744,44,17874.3,10403.11,High,Medium Term,Home Purchase
+173484c2-4428-4543-8046-f68efe4a0004,Bianca Fonseca,afogaca@example.org,+55 41 2652-3865,71,15616.12,9426.65,High,Short Term,Emergency Fund
+9b5a02b0-7b63-47bc-b74b-74755f936a7c,Maria Flor Silveira,xcosta@example.net,51 2312 4262,40,8832.24,5902.23,High,Long Term,Emergency Fund
+c32d405f-a74e-4ff3-b344-a0a434c55d29,João Miguel Casa Grande,silvalunna@example.org,+55 84 5415-5959,20,7255.95,4409.0,High,Medium Term,Home Purchase
+59d9914d-254e-42d7-9a3b-7e245b06b783,Ana Vitória Aragão,luccaferreira@example.org,(041) 3260-9034,46,16006.19,8984.77,High,Medium Term,Car Purchase
+ec47404f-32f3-4a5a-9431-db292fc56745,Dom Araújo,juliana04@example.org,71 1238-4691,31,8015.28,4583.64,High,Short Term,Car Purchase
+e813b3a1-c2f2-4edb-9a16-6f069064b1ea,Benicio Porto,da-rosathiago@example.net,31 6377-2783,29,17098.68,10069.72,High,Short Term,Car Purchase
+63b7eae2-31f2-4db4-a21b-62ab86a7e897,Rafaela da Mata,maria-ceciliacarvalho@example.net,(041) 6597 8249,46,16978.46,9725.17,High,Short Term,Entrepreneurship
+3925370a-df00-488f-8b31-10f941fd9c5a,Jade Mendes,ana-juliacunha@example.net,51 2238 8625,21,11444.55,7082.17,High,Medium Term,Emergency Fund
+6bcac569-a5de-4052-8416-2390897dc236,Ana Rocha,castromarcela@example.org,+55 (071) 5142-6605,66,7781.77,4531.45,Medium,Short Term,Retirement
+cf2d923b-c43b-492c-a35e-5abfac978cde,João Guilherme Moreira,kalmeida@example.com,+55 (061) 7696-1028,47,3756.55,1398.43,Low,Long Term,Entrepreneurship
+b18fe777-e72c-4c40-9d25-2c363a59467b,Dr. Murilo Mendes,maria-isis43@example.com,21 0017 1879,51,8828.81,4771.86,Medium,Long Term,Emergency Fund
+1a1b66eb-6e3b-44d3-be5d-7e22543d232f,Rafael Jesus,milena28@example.org,+55 84 6952 1878,63,17951.21,9880.97,High,Medium Term,Emergency Fund
+b79f5b44-965d-4ef0-a32e-e275d177a17a,Guilherme Araújo,da-conceicaoleonardo@example.com,+55 (021) 8039-7629,20,14119.55,7999.76,Medium,Long Term,Retirement
+4af89052-f975-4016-b67f-b316a73e1e59,Cecilia Vieira,isilva@example.org,+55 (021) 7153 4373,21,11028.3,6039.55,Medium,Long Term,Home Purchase
+bb17fbab-3259-4f06-acdc-b5063444dfe3,Maria Luísa Sales,camargoliam@example.org,+55 (061) 7434-8782,27,3283.87,2444.22,Low,Short Term,Entrepreneurship
+48d530c1-b795-40f8-880d-76c6792335c9,Juliana Santos,enrico18@example.org,(041) 7518 5645,38,18445.77,10248.93,High,Medium Term,Entrepreneurship
+6ba1d1a6-0b5a-419c-9c0e-503624e48009,Agatha Cirino,carolina59@example.net,81 9085 6789,22,12331.4,8223.86,High,Short Term,Emergency Fund
+c35aac4c-d2c1-417d-a23c-ca368856e1a8,Joaquim Teixeira,aurora68@example.net,+55 71 0254 6053,33,4975.22,3552.55,Medium,Long Term,Home Purchase
+f3c651d7-672c-4b8f-ba08-11e4c9f6f600,Sra. Maria Eduarda da Rocha,joao-gabriel84@example.com,(081) 2067 3432,75,18273.68,12148.11,High,Long Term,Retirement
+9bc9a269-2c82-4bbd-bf41-711520beaf3f,Maria Eduarda Dias,hbrito@example.com,+55 21 2476 2686,29,3876.2,1866.23,Medium,Long Term,Home Purchase
+839f8784-1a88-44c4-9806-4ad2f747f680,Stephany Mendes,alvesjulia@example.com,51 0165 6817,51,4998.36,1688.59,Medium,Medium Term,Retirement
+7f2457e9-ff38-413a-b800-427ac44e4eff,Ana Cecília Lopes,nogueirabenicio@example.org,(041) 9947 7538,19,17287.51,9989.07,High,Medium Term,Home Purchase
+2a88833e-37f1-4a0b-bfe1-c320c8f37e1d,Sr. Francisco Brito,nogueirarafaela@example.com,(021) 9026-4477,49,16221.29,10556.78,High,Short Term,Entrepreneurship
+fd4a7b5a-6e56-4235-8481-66d7dd502c86,Caleb da Rosa,mouracarlos-eduardo@example.net,+55 (084) 8993-1832,44,19615.54,11710.33,High,Short Term,Retirement
+06a851a4-a8ac-4e18-9c54-e700f3bad5c4,Maria Barbosa,nribeiro@example.com,+55 84 8138-9697,27,9510.77,5399.46,High,Medium Term,Retirement
+08623110-3240-417a-bb07-66fba84d9fcf,Emilly Castro,eda-costa@example.com,+55 71 0337 7202,52,6549.49,4502.1,High,Medium Term,Car Purchase
+83d2f6da-3127-4824-834e-de44c4634b98,Murilo Barbosa,cardosodom@example.net,41 8983 8754,74,11080.29,6375.0,Medium,Long Term,Education
+e2ed0c64-e866-45a9-b894-5bfcda6093b4,Jade Nascimento,andradevalentina@example.com,11 6948-3978,27,17702.4,11881.74,High,Medium Term,Entrepreneurship
+b80a220b-6917-40ea-bead-d2090ea949cf,Vitor Gabriel Aragão,diasalicia@example.com,21 7825-8083,57,16929.09,9417.8,High,Medium Term,Car Purchase
+c6866d19-1c5e-425b-8f83-865b78694c75,Marcelo Câmara,pedro-henriqueabreu@example.net,51 8717 4144,18,9294.1,5044.14,High,Medium Term,Education
+bb85b477-2e8d-47a0-8a56-b9e07d5fb2bf,Lorenzo Azevedo,cassianoigor@example.net,+55 (061) 2286 9583,47,18986.5,12049.43,High,Medium Term,Home Purchase
+439dc56c-131e-4ed4-a95f-15701c4aa87c,Mariana Monteiro,pintobernardo@example.com,(071) 1201-7650,55,13641.51,9036.5,Medium,Medium Term,Home Purchase
+407259b5-6331-4fdd-a9be-c89a45b1515f,Aurora Rocha,lda-rocha@example.org,+55 51 6300 9738,27,6329.06,4181.73,High,Short Term,Education
+239f144f-6635-4930-b7af-e2bda53d9f79,Antônio Araújo,jvargas@example.net,+55 (031) 0188-9758,25,17620.81,11863.15,High,Short Term,Car Purchase
+f63b49c7-d7df-43e6-8b73-249acc499dea,Mariana Sampaio,eloasa@example.org,81 0491 8741,54,18531.94,12551.75,High,Medium Term,Education
+fd6552c1-ca13-42ed-9a0d-c7dbc992fa75,Sr. Théo Duarte,maria-isis33@example.com,+55 (071) 1734 1136,19,18495.2,12475.47,High,Long Term,Emergency Fund
+f18770be-424e-480c-ba21-a153e59a6084,Maya Ribeiro,nunesleandro@example.com,51 7648 8317,64,17629.99,11236.72,High,Long Term,Retirement
+b0e77f99-d22c-4e80-968d-04f82e7f96fe,Ana Laura Nascimento,da-motajose@example.net,0300 988 9884,74,8840.76,5324.07,High,Medium Term,Home Purchase
+6ff6cea6-4d50-4c31-88f0-12d1f779680d,Nicolas Peixoto,vitor-hugomontenegro@example.net,+55 (031) 3700-4523,19,4114.72,2866.47,Low,Short Term,Education
+ab6089a0-8260-4dee-89d3-138ada809331,Alice Novais,montenegrocaio@example.com,(071) 1176 1714,39,2691.94,1687.81,Low,Short Term,Education
+eac8f508-5305-43cf-98f4-86270f4fa3e3,Liam Alves,smacedo@example.org,(084) 4943-0697,20,15519.11,8682.1,High,Long Term,Entrepreneurship
+8803a318-f403-4f73-8dd1-34ec14391ffa,Ana Vitória Sousa,sfernandes@example.com,(051) 4942-1192,70,17163.96,9774.16,High,Long Term,Home Purchase
+edb9a746-c7f9-45e9-85cc-eca4caab8336,Anthony Ramos,anthony-gabriel23@example.net,(031) 7254 5336,60,1971.81,1487.83,Medium,Long Term,Education
+d641adac-2865-44ae-93fd-9e18488d7c93,Dra. Catarina Duarte,joao-vitor14@example.com,+55 11 3448 9824,23,16131.84,10069.16,High,Medium Term,Home Purchase
+5f34f5b0-d049-4f85-9397-f27270771419,Natália Câmara,brayanfonseca@example.org,(031) 8878 8184,44,11222.64,7345.68,High,Long Term,Car Purchase
+3dace992-83fb-4ca1-bee6-649e65cd4f72,Ravy Carvalho,dguerra@example.org,+55 (061) 9583-4888,54,13818.13,8216.97,High,Short Term,Education
+344efcb0-6624-4f20-8fd7-66a6da02292b,Dr. Davi Lucca Machado,maria-isis59@example.com,(071) 7142-8036,34,7753.35,4320.23,High,Medium Term,Home Purchase
+db41f967-2a5d-4df9-94b1-295242968cb1,Giovanna Pereira,cavalcantijose-miguel@example.org,+55 (081) 3815 9548,51,18568.35,12577.6,High,Short Term,Education
+39670577-5e5d-433e-8ca9-92220bcea42b,Luiz Fernando Almeida,rochaalexia@example.org,+55 84 9813 0944,22,10914.44,6499.8,High,Short Term,Home Purchase
+f30909d6-6147-4a0b-88f0-d20c4d1c8b06,Catarina Camargo,hdas-neves@example.org,+55 (071) 8913 7267,68,17626.53,9682.76,High,Short Term,Education
+52cf17ed-21f0-41fd-aac4-39208b0b503a,Maysa Pinto,gpereira@example.net,+55 (031) 2239-7874,47,2827.82,1049.28,Low,Short Term,Car Purchase
+e74aefd2-7383-446d-a0ce-65e5694fd6c7,Raquel das Neves,saracampos@example.org,(011) 9677 7956,24,11903.02,7098.2,High,Short Term,Retirement
+dd04e10c-346f-412a-8def-cb779407620a,Breno Costela,daniel58@example.com,+55 31 5001-1631,63,8244.26,4734.43,Medium,Long Term,Emergency Fund
+ba4e308c-0cdb-41ec-a8f3-adbcbb118559,Diego Monteiro,yagosilva@example.com,+55 31 3804 5942,22,12387.31,7005.12,High,Medium Term,Education
+0d512ead-c85f-46bf-bf08-d50b6cb24d42,Ana Vitória da Cruz,maria-liz27@example.com,0900-510-8968,61,6265.69,3304.24,High,Short Term,Retirement
+43905593-2744-40ae-9338-93f784f81c6f,Antony da Cruz,leandro49@example.org,+55 (021) 0898 7070,53,5302.89,3604.76,Medium,Long Term,Retirement
+d6c3a72d-292e-4332-b0f9-1c177d5c528a,Emanuella da Rosa,theoalbuquerque@example.com,(071) 2887 5374,36,13061.61,6592.57,High,Short Term,Car Purchase
+d17c5e86-d28b-4ac1-b243-18228d21446e,Srta. Elisa da Conceição,machadoravi@example.org,+55 (084) 5831-2810,34,8279.27,4371.18,Medium,Long Term,Education
+312f2cb0-89db-4751-ac22-fa3fae9190a8,Luiz Felipe Gomes,macedoluiz-fernando@example.com,+55 11 8600 5674,35,2178.9,1708.88,Low,Long Term,Home Purchase
+39ef17b7-66b1-4aed-8d70-0937e352f5d4,Dr. Pedro Lucas Alves,gmendes@example.com,+55 11 2990-4543,45,5021.16,3373.03,High,Medium Term,Emergency Fund
+573c0238-1c90-423c-a569-6064fb18d3a5,Lorena Albuquerque,afreitas@example.org,(011) 0201-5324,36,13986.06,7697.6,Medium,Short Term,Car Purchase
+596ec710-de8b-4448-b67c-0bd3a0ccf90f,Emanuelly Vasconcelos,mariana83@example.org,+55 51 5938 0029,62,7593.74,4839.74,Medium,Medium Term,Emergency Fund
+bf556665-be5b-4183-a8d0-70608bac5b0b,Dra. Anna Liz Pires,ialves@example.org,+55 61 9736 8594,59,10488.43,5544.75,High,Medium Term,Education
+a6e92b26-d2a1-4bc1-83b0-0200478f5cfd,Sr. Vicente Borges,bruna18@example.org,+55 (011) 4908-3449,18,8193.23,4401.95,Medium,Long Term,Entrepreneurship
+c575ea0a-5c6b-4a87-97be-599ed16a1728,Maria Fernanda Barbosa,jesusjoao-miguel@example.com,84 7450 1119,59,17943.67,10483.73,High,Short Term,Retirement
+1a95d882-be05-41a2-81d9-fdf473ae4523,Bernardo Souza,lorenzoalmeida@example.org,+55 84 6378-8279,28,18824.22,10687.69,High,Medium Term,Emergency Fund
+00040204-438a-4143-b219-dfa2f69223f9,Apollo da Mata,sofia38@example.com,11 8117-5175,47,12621.73,7826.62,Medium,Long Term,Entrepreneurship
+2dfa680d-0fa0-4d08-85b2-70498cce1d00,Elisa Brito,xaragao@example.org,+55 (041) 1629-5465,56,19948.55,12920.6,High,Medium Term,Home Purchase
+a0e48a14-51a0-45bc-80dd-6f79047f2c23,Larissa Novais,camaramirella@example.com,81 1462 0209,39,6134.39,3539.67,Medium,Medium Term,Car Purchase
+0d06ff43-58e9-42dc-8295-f178dd7c992c,Nicole Teixeira,gael65@example.com,+55 31 7140-8421,32,2646.61,1372.47,Medium,Short Term,Emergency Fund
+773e6708-0d21-4040-ad4b-e0874bcdf27d,Felipe da Costa,scunha@example.net,+55 11 6281 5105,77,3562.25,1399.22,Low,Medium Term,Entrepreneurship
+03a20d6d-1b58-4ecb-beda-20e4906fc8ad,Sra. Maria Sophia Sales,dmelo@example.com,+55 (031) 4952-2375,37,3564.98,2449.93,Medium,Medium Term,Car Purchase
+edc96ce0-a57c-4860-a25e-9cfb1db56975,Alana Pimenta,anna-liz07@example.net,+55 (084) 9519 0670,49,2387.67,1530.3,Low,Long Term,Retirement
+d2f5e973-e6dc-4c32-bc21-8e49ca15f3ad,Diogo Pimenta,luiz-gustavo73@example.net,+55 (084) 3328 7973,78,3742.33,1913.93,Low,Long Term,Entrepreneurship
+06bbc0e6-6746-4555-98a4-42d1d432c2f8,Yago Cavalcante,cgoncalves@example.com,+55 41 9032-4055,30,12992.13,7523.14,High,Medium Term,Retirement
+2929a18a-88c3-47f9-bf5d-16850225ff66,Liz Rocha,fonsecafernanda@example.com,(081) 7465 7747,62,13138.6,8242.86,High,Long Term,Car Purchase
+ca9cc82e-34b8-4534-9864-a3fe487a3f8e,Luna Moraes,fcirino@example.org,+55 21 7426 9684,26,2177.46,1283.18,Medium,Long Term,Retirement
+1b97c7b0-64c3-40b3-96a4-3ed07dada63e,Ana Luiza Jesus,renancamargo@example.com,+55 (021) 7878-5376,79,9150.85,5183.46,High,Long Term,Retirement
+57d13304-83df-4983-8b15-8a4cedff05a7,Dr. Diego Cardoso,benjamin64@example.com,+55 71 1762 2471,40,14307.8,9610.88,Medium,Medium Term,Emergency Fund
+a1ae82d9-d19a-4e2b-9761-4754d63023fd,Stephany Cavalcanti,beatrizrezende@example.com,0900-626-6608,68,16255.5,8400.19,High,Medium Term,Retirement
+e4727ddd-1b95-46f6-8e9c-23a763590a10,Jade Costa,pereiradaniel@example.net,+55 61 3870 5413,27,17778.14,9214.04,High,Short Term,Home Purchase
+fa5c4864-b62c-4552-aa02-37c20b4a88b1,Gustavo Henrique Brito,marianerios@example.com,61 0020 1748,75,6583.24,3824.29,Medium,Long Term,Entrepreneurship
+b49daef6-e19e-4d6f-8108-58e18e85b902,Fernando Machado,fogacaanthony@example.com,31 2458 0543,37,18932.24,12881.84,High,Long Term,Home Purchase
+2a0bd1fd-018f-4467-866e-eb92ccad3d92,Luísa Castro,pastorheloisa@example.com,+55 61 6499-8073,27,8080.97,5224.74,High,Medium Term,Car Purchase
+8fe93223-710c-4854-aa9d-6d70bb5dd829,João Guilherme da Rosa,mcasa-grande@example.org,(031) 3388 9810,38,16423.5,10334.17,High,Short Term,Car Purchase
+ff17f04c-07da-4543-99a2-980ec56dc02a,Isis Pacheco,agathapires@example.net,(051) 6500-9420,52,16913.59,11446.68,High,Long Term,Emergency Fund
+0129a14a-56f4-43ca-81cc-2a65160667db,Gael Henrique Novaes,cunhamatheus@example.com,0800 442 4554,64,3249.39,2413.08,Medium,Medium Term,Entrepreneurship
+817129c7-2bf3-4165-a2ca-733b81f16239,Sr. Kaique Aragão,enzo88@example.net,+55 21 9639-2319,29,18476.56,10900.15,High,Long Term,Emergency Fund
+c24dddd2-965d-4f1f-ad7f-4676ef52f0d2,Ayla Pimenta,dom52@example.com,(011) 5736 1100,62,11879.37,8308.73,High,Medium Term,Entrepreneurship
+11d2b828-0d37-4a61-b0c6-bd0bbf0da192,Elisa Cassiano,julia08@example.org,(071) 3385-7877,43,17818.05,9383.39,High,Long Term,Emergency Fund
+e70f380c-cd56-4406-9239-5e39c58005c4,Theo Correia,gda-conceicao@example.net,+55 11 1466 8212,51,14900.2,9953.27,High,Short Term,Car Purchase
+f2877a64-74fd-48e1-9faf-60d546fa78fb,Theodoro Alves,hellenadias@example.net,+55 (071) 8548 3798,56,4613.42,3124.4,Medium,Long Term,Home Purchase
+d0c07bf0-c8b1-4ef5-89f5-dc1348a92a04,Caroline da Cruz,fernandesmaria-liz@example.net,+55 (061) 4733-8032,74,3058.65,2138.6,Low,Medium Term,Home Purchase
+a43d5962-19af-413c-92d2-49a863c0f2c0,Otávio Porto,lunavieira@example.net,81 0788 8859,57,19032.3,12662.65,High,Medium Term,Home Purchase
+c778c177-2528-4795-a81d-733abf2042c0,Giovanna da Costa,anadias@example.com,61 5387-4292,29,19524.37,10772.81,High,Long Term,Emergency Fund
+45b26068-1e08-44b4-8858-5dad2f19dc9d,Dr. Thales Abreu,daviabreu@example.org,+55 21 7933 8952,52,13225.13,6968.07,Medium,Short Term,Education
+120e536f-f071-41a2-88a0-de80836fbe3d,Srta. Ana Andrade,pimentaayla@example.org,(051) 8992-5089,27,7491.92,4172.05,High,Long Term,Education
+4acfb39f-96eb-4efb-81ed-1c0ef16aa34b,Hellena Pastor,stella58@example.org,21 8240 9409,57,1984.45,1198.0,Medium,Short Term,Retirement
+14177055-5bac-45c1-be7a-cd98aa1e16a9,Mirella Porto,kaiqueazevedo@example.com,21 3256 7097,62,12373.67,7573.96,High,Long Term,Education
+4d67b346-2c38-461c-9883-1b69eb84f569,Asafe da Costa,yuribarbosa@example.com,41 1728 0723,20,5174.2,3267.89,High,Short Term,Education
+08cf0d1e-4a68-4344-a789-7d954171878c,Srta. Ana Vitória Fogaça,casa-grandejoao-pedro@example.org,+55 (071) 2719-8493,44,19305.75,13499.69,High,Medium Term,Emergency Fund
+c19bffa3-1368-42c5-8664-28b6da1f7096,João Cardoso,benjamimmartins@example.net,+55 41 2710 9726,48,9439.74,5943.05,High,Long Term,Home Purchase
+6ffc57d8-3c2c-49a4-97db-a328a2507430,Nathan Machado,knovais@example.com,+55 (084) 8417 5515,67,2497.61,1069.38,Medium,Medium Term,Retirement
+d94fac94-1c28-4560-86fc-b026ecaa6802,Maria Helena da Costa,carvalhobruno@example.org,+55 61 8900-4174,64,14477.86,7284.89,Medium,Long Term,Emergency Fund
+38faf818-7f55-4e37-b60d-fa2314bce1e7,Léo Peixoto,iporto@example.com,0800-715-5722,44,19180.91,11591.27,High,Long Term,Home Purchase
+d9316224-bebc-4f1d-bb04-8e50f81c0ad0,Srta. Ana Cecília Brito,vitoriavieira@example.org,+55 (061) 2255-0316,56,10581.1,5370.36,High,Long Term,Car Purchase
+46dae9c0-82d6-4e30-a6c9-2f38d9ad3f52,Bruno da Costa,qandrade@example.net,31 1073 8714,66,5290.07,3052.87,High,Short Term,Entrepreneurship
+4beeb477-248a-4fa9-84bd-d726db54726a,Anthony da Cruz,dantesiqueira@example.net,41 7804-9646,60,9323.09,6088.04,High,Long Term,Car Purchase
+3e150e58-cdc0-4ace-aaec-9de3a9acab6b,João Vitor Silveira,gustavocastro@example.org,+55 71 6883 0530,70,7479.11,4583.51,Medium,Long Term,Entrepreneurship
+e5b53c34-2958-4da5-ac74-7deee6c3b7ea,Lorena da Mata,diasbruna@example.net,+55 (031) 2925 2318,77,19813.65,10872.71,High,Short Term,Car Purchase
+2fa97018-2084-4e1d-8bd2-fb216a699a71,Apollo Lima,beniciomoura@example.com,+55 81 1406-0256,79,19854.72,11242.5,High,Long Term,Car Purchase
+f5ff1a4f-ea4c-47b0-b1d2-207ef66e1f83,Sarah Costa,ylima@example.net,+55 84 2115 7566,44,2151.0,1680.52,Medium,Medium Term,Education
+940cca13-4822-4836-83b4-78467a7f6346,Dr. Davi Miguel Sá,hmachado@example.org,(011) 6933 9784,69,4838.86,1761.23,Medium,Short Term,Emergency Fund
+b4d6d8ca-d57b-4fe5-a5ad-701cac9cac0a,Maitê Pinto,gustavocardoso@example.org,(051) 6739 9372,27,2917.9,2046.7,Low,Medium Term,Emergency Fund
+528e5f42-cd9b-425c-a825-d3c70a387a16,José Miguel Casa Grande,ian51@example.org,11 8578-7876,23,18721.43,11068.75,High,Medium Term,Retirement
+8cdcc18a-8f03-4ec6-be09-8ed3bd3387ba,Caleb Aparecida,otavioabreu@example.net,(071) 4863-4206,29,11400.05,6364.96,Medium,Medium Term,Retirement
+c321e764-6814-4520-89eb-aeef7a979a9a,Giovanna da Cunha,correiastella@example.org,(041) 6278 8598,49,4239.15,1461.38,Medium,Long Term,Home Purchase
+d69336b1-5d56-4c33-89c9-3f92e2a6842e,Emanuel Silva,pedro-lucas28@example.net,71 5938 9418,40,4182.33,3255.16,Low,Medium Term,Entrepreneurship
+a47ab2e0-2414-4cb8-8441-8f24bd6058f8,Luiz Gustavo Pimenta,yanribeiro@example.net,(081) 8559-0425,36,4955.89,3615.49,Low,Long Term,Education
+1c510141-6731-4f7a-8dec-1ee061c90a13,Sara Barros,henry-gabriel57@example.org,+55 41 5189-6559,39,5224.79,3004.49,Medium,Short Term,Entrepreneurship
+60cb9219-bedc-4022-b565-02ce9620e862,Nicolas Leão,wviana@example.com,+55 (011) 8295 0750,58,5645.15,2973.79,High,Medium Term,Emergency Fund
+5abc7f35-81f8-4413-80b1-d6ee015d8520,Kevin Peixoto,lmelo@example.org,+55 71 2312-2266,36,3767.23,1619.72,Medium,Long Term,Car Purchase
+8edb7e5e-bd24-41db-9671-fef64ff4ba4b,Dra. Sara Cirino,jose-pedro80@example.net,(011) 7836 6089,64,2129.4,1064.38,Low,Medium Term,Car Purchase
+853bdcc7-989a-4771-bd14-80a8328f0e64,Davi Luiz Martins,carvalhorodrigo@example.org,84 0554-9959,43,2003.22,1491.49,Low,Long Term,Home Purchase
+8ca23c05-bd49-44de-9a58-079ba56f29c7,Luna Moreira,camposarthur-gabriel@example.com,0300 198 7032,75,12842.42,7753.92,Medium,Long Term,Home Purchase
+09aca1db-9a5b-4347-a17d-6443ea7b73a4,Luiz Miguel Vasconcelos,valentim87@example.com,+55 84 9520-2259,74,17560.59,11280.57,High,Short Term,Retirement
+5e42b595-8dee-4fc3-82f4-f773267be339,Sra. Maria Duarte,vasconcelosdanilo@example.com,0900-972-7379,48,19065.77,12708.77,High,Short Term,Entrepreneurship
+4b93c613-c6de-4dcf-a5cb-7fd594066a8c,Vinícius da Cunha,pimentadavi-lucca@example.net,+55 11 1584-7645,78,19197.56,13306.87,High,Long Term,Education
+8cb00e9c-2faa-4f28-a3d9-adcc1c86593f,Amanda Duarte,nogueirajose@example.org,61 6771 2132,66,3885.97,1365.94,Low,Short Term,Home Purchase
+49dcb12e-8733-4acf-8c2a-f44df323f1d2,Sr. Leandro Rocha,fonsecacaio@example.net,+55 51 6001 9428,54,15495.5,8713.43,High,Short Term,Emergency Fund
+ec484d71-3211-43bf-9497-24a228c563b7,Dr. Gael Henrique Fernandes,vitor-gabriellima@example.com,+55 (041) 1103-8465,61,13907.64,7834.63,High,Long Term,Retirement
+5e809d8b-84a6-4e23-8ff4-4c558b45ba1c,Laura da Mata,vmarques@example.org,61 1710 9948,62,2346.37,1728.98,Medium,Medium Term,Retirement
+dedcc693-4721-414b-87b4-abde65be8a78,Eloah Carvalho,gbarbosa@example.com,+55 (084) 2424 5545,61,11944.69,6519.33,Medium,Long Term,Car Purchase
+41a8af79-df39-4e7d-9d49-7904fe0733fb,Eduardo Gomes,andrecampos@example.com,41 8865 0441,52,3199.93,2268.91,Low,Short Term,Retirement
+7126aac2-6168-4858-98ac-aef1c43993dd,Ana Luiza Abreu,stephany15@example.net,+55 81 5733-5245,77,16133.97,11124.73,High,Medium Term,Education
+f7c5f84b-b5c2-40e3-9e8d-8034d252b6da,Nina Barros,maria-vitoriaandrade@example.net,+55 (011) 4944-3197,71,19507.03,11455.32,High,Short Term,Education
+1caf6a51-60f3-4f82-a3f1-7748ff287fd6,Dra. Yasmin Fernandes,tmelo@example.org,(071) 3683 7039,31,7707.74,4151.07,Medium,Long Term,Entrepreneurship
+789108ec-1943-465a-bc79-987786869883,Emilly Barros,rgoncalves@example.net,+55 21 6884-6497,62,11257.21,7516.59,High,Long Term,Education
+ede30c92-5e95-45bc-abd5-f48e1e922ea2,Lucca Teixeira,pedro27@example.net,+55 (031) 9888 3708,39,3216.47,2524.03,Low,Medium Term,Home Purchase
+cfa86ada-0570-4162-be87-ccf6709368b3,Sra. Nicole Barros,lucas-gabriel03@example.com,41 0860-1116,59,10264.39,6868.08,Medium,Short Term,Education
+eebd9916-8027-41af-8c50-19172daa7749,Helena Vasconcelos,maria-luiza66@example.com,+55 (084) 5887-3937,49,19389.71,13089.98,High,Long Term,Emergency Fund
+e01e6e81-c100-471e-b13b-f11d6f145b7f,Ana Cecília Martins,halmeida@example.com,84 0826 9190,50,8568.76,4450.08,High,Short Term,Home Purchase
+175ae4b8-32df-4d95-b63f-f9462f63bfd0,Sra. Sarah Guerra,gaparecida@example.net,+55 61 7014-2765,74,3724.94,2581.07,Low,Short Term,Entrepreneurship
+9f94fe06-53e9-4b64-872a-ec636497ed39,Gabriela da Paz,sayago@example.org,84 2154-5757,71,12549.96,6903.3,Medium,Medium Term,Car Purchase
+f7d9af52-764a-4f20-ac34-a680eaff4613,Dr. Arthur Gabriel Pastor,diogoleao@example.com,+55 21 6432-0308,67,9903.36,5402.02,High,Short Term,Emergency Fund
+b27441e8-0d79-4245-8746-80160a0ec78d,Otávio Cirino,oteixeira@example.net,+55 (084) 1849 4889,33,4703.01,2703.44,Medium,Medium Term,Entrepreneurship
+8808967d-15bb-4738-a562-4eccb88b5e1b,Isabela Camargo,cabreu@example.com,0300 407 3867,32,7294.92,4168.43,High,Long Term,Retirement
+f8af378c-14b6-4463-9867-4f8cdd6ef843,Dr. Caio Novaes,vieirabeatriz@example.com,0900 234 6007,76,12116.82,7985.85,Medium,Long Term,Emergency Fund
+096604a3-b989-4147-8474-b42daa9427a9,Jade Pinto,camposdavi-miguel@example.com,(051) 1689 5307,56,4686.6,1242.7,Medium,Short Term,Emergency Fund
+5c81582f-196d-4ea6-8108-99289bb46594,Lunna Almeida,vcavalcanti@example.org,(051) 1844-3374,53,4135.82,3064.36,Low,Medium Term,Emergency Fund
+f0313c5f-a22b-49ce-b32a-f1dfef8b8544,Gabrielly Porto,daparecida@example.net,(061) 0111-7353,71,7974.86,5556.14,High,Medium Term,Retirement
+4edb2f3d-a04f-4c6e-943b-ae7d3734125f,Maria Liz Aragão,xda-cunha@example.com,11 0373 6679,20,18891.98,10894.79,High,Short Term,Car Purchase
+2e099de9-984e-4c14-992f-43801d2d35f8,Nathan da Cruz,ylima@example.org,+55 (081) 3771 7047,21,11574.49,6853.5,Medium,Long Term,Retirement
+184fe765-0eb0-4910-ab86-d988f5ca5484,Ana Laura Montenegro,luiz-gustavo86@example.net,(061) 7440-8255,46,1548.6,1005.55,Medium,Short Term,Retirement
+444c53ad-139b-4364-b8fd-dca8dd11570e,Yasmin Vargas,antonella30@example.org,31 9800-0769,35,18282.89,10168.4,High,Long Term,Retirement
+c9a7f98a-d35f-4032-ab58-b4001d7cf7b0,Bruno Casa Grande,theo49@example.org,(041) 0915-3934,53,19244.77,12741.89,High,Long Term,Emergency Fund
+3c06e777-98f0-467d-92ba-b59242b07cbd,Dr. Leonardo Farias,nogueirathales@example.com,41 6500-2216,34,7181.02,4349.92,Medium,Short Term,Emergency Fund
+4d9e5879-5e8f-49c4-bd8d-60cedf6c3b2b,Vitória Santos,dantesilveira@example.org,0800 170 2919,50,8926.24,5694.93,High,Short Term,Home Purchase
+fb664cf3-0ddb-43f2-84ae-f9f91bfab1aa,Maria Eduarda Albuquerque,ycasa-grande@example.net,+55 11 1172-2199,23,15244.04,9027.67,High,Medium Term,Entrepreneurship
+7b8ae2bb-ae93-4f37-a03c-5b3e2242706a,Maria Luiza Carvalho,carolina66@example.org,(031) 9095-5644,68,13338.23,8106.65,High,Medium Term,Car Purchase
+9210e47b-8043-4f3c-b380-930b8d86ee9d,João Lucas da Conceição,silveirakamilly@example.net,0900 148 0183,38,5611.17,3523.63,High,Short Term,Education
+1c733be2-568a-4d9b-b8cf-7ef4cf33857d,Bento Pastor,ayla41@example.org,+55 (051) 5137-5091,73,16548.55,9701.17,High,Short Term,Retirement
+1b80a7d3-3d54-4bac-ab1e-6bd600e6281e,Srta. Liz Câmara,mateusduarte@example.org,84 9924 7942,49,1640.46,1146.25,Medium,Short Term,Education
+40071ad0-e688-4b64-af74-1c38e074ac11,Allana Carvalho,ceciliapires@example.org,(061) 2614-0662,18,3806.96,1541.87,Low,Long Term,Home Purchase
+fdba18a5-5808-4be5-8db1-a4380fb7c5b8,Ana Vitória Leão,valentinasouza@example.net,0900-855-0730,79,5664.82,2994.0,High,Medium Term,Car Purchase
+a3218dc3-4afe-4b90-80f6-a698291f0973,Gabriel Sousa,beatrizda-rocha@example.org,+55 (041) 5755-7515,37,1955.41,1301.57,Medium,Medium Term,Car Purchase
+28ae6807-96d7-400d-857d-686f43da7bb1,Kevin Aragão,ninada-conceicao@example.org,(081) 4527-3429,19,2063.96,1203.02,Medium,Short Term,Emergency Fund
+a691dd7d-dbd8-41b9-a3af-2238d6cc55d3,Heloisa Sousa,vpacheco@example.org,+55 (051) 2749-5682,80,14406.4,9993.72,Medium,Medium Term,Education
+594a42fc-80b3-4208-90ad-51fa469bddb9,Laura Barros,maria-luiza70@example.net,+55 (021) 4762-4734,66,11934.61,6848.9,Medium,Long Term,Retirement
+856b7c1b-9554-4310-ae8a-5ca7092494c9,João Lucas Fernandes,psa@example.com,+55 41 4716-2322,26,9166.42,5726.73,Medium,Medium Term,Retirement
+6c8a9682-cd0d-48bb-807c-03198dd4f0b9,Alice Lima,ana-julia70@example.net,71 4435-9023,70,19874.48,10430.98,High,Medium Term,Car Purchase
+719dec3c-feb1-4a43-a879-24e772637566,Vitória Pimenta,joao-gabriel90@example.net,+55 (041) 5105 6655,45,1966.55,1514.91,Low,Short Term,Car Purchase
+bce0d80e-ba47-4342-b1d4-1acf8775cb96,Mariane Camargo,heitor76@example.com,(011) 1715 2649,72,13815.1,9445.02,High,Medium Term,Car Purchase
+13d5bbab-ee45-4347-84c3-4929c1708795,Rafael Borges,maria-juliasampaio@example.com,(071) 8569 6822,20,10034.03,5618.98,Medium,Short Term,Car Purchase
+d98d83dc-ca5c-4b53-9596-45cd3d1bee3f,Isabelly Santos,rda-paz@example.net,31 4547 1896,52,5067.43,2899.59,High,Long Term,Retirement
+ad350390-0d33-4d81-b664-164898b69665,Paulo Cavalcante,ana-lauraandrade@example.net,+55 41 1439 4628,43,8587.13,4467.39,High,Long Term,Education
+7467065c-f2c6-4270-8b5a-8207af0c98b3,Bárbara Novaes,brunaporto@example.net,+55 81 8025 1523,48,3174.6,1947.87,Low,Short Term,Retirement
+5d4cce84-ba52-4b3b-bcb1-1872d894bba6,Juan Jesus,lorenzo74@example.com,+55 21 4481-0638,70,10203.65,5948.68,Medium,Short Term,Education
+ef84146f-ce4f-430b-b6e9-c48eda53a067,Mariah Novais,garciaravy@example.net,+55 41 3225-0815,24,11730.77,6049.84,Medium,Medium Term,Home Purchase
+35c4850f-b319-46fa-bb57-0d9cb45be90c,Josué Pinto,sophia62@example.org,+55 71 7203-5753,66,19845.84,11467.22,High,Long Term,Education
+ee318fda-6252-4578-81d6-1eb58b161069,Sara Porto,da-cunhajoana@example.net,(031) 1520-5708,80,12589.15,7397.4,Medium,Medium Term,Education
+7fd380c1-802b-4114-8da3-611224d561b3,Hellena Camargo,pvieira@example.org,+55 31 9484 7729,33,11246.41,7124.81,High,Long Term,Entrepreneurship
+3ca8f7cc-6b9c-459a-8073-254aef36051e,Francisco Farias,leaoarthur-miguel@example.com,84 7513-2266,62,17328.77,8896.5,High,Short Term,Retirement
+3cf35c18-07ce-4e99-923a-aca764662596,Enzo Almeida,ffernandes@example.net,31 4100 8799,71,2911.63,1761.59,Low,Short Term,Entrepreneurship
+26053877-9132-4d2c-a062-aa574dac2d28,Sr. Dante Casa Grande,henriquemoreira@example.net,+55 (041) 7629 4530,76,4744.99,2729.27,Medium,Short Term,Car Purchase
+2dc74d76-114a-4dc6-81dd-93af96351d85,Bianca da Paz,xnovaes@example.com,+55 (021) 3439-4755,71,9957.64,5277.26,High,Long Term,Retirement
+7f049316-4225-4ea7-b314-0ff3667fd2dc,Allana Nogueira,cmarques@example.com,21 3604-8096,64,12037.66,7203.76,Medium,Long Term,Home Purchase
+c22e63b9-dc8f-44f8-ae04-28f658eae852,Mariah Farias,maria-vitoria62@example.com,+55 (051) 8270 0212,22,11879.15,7332.72,High,Short Term,Retirement
+44669f6d-56c6-4bd8-8f78-028008743189,Marcos Vinicius Rocha,hfogaca@example.net,(021) 7464-5560,79,8231.42,5134.44,Medium,Short Term,Entrepreneurship
+051d2d7c-ca4a-4627-a535-c36a84a33dfc,Manuella Viana,kborges@example.net,(051) 8532 8424,69,11089.27,6238.59,High,Long Term,Emergency Fund
+1f780655-7b78-4864-9b75-7b14e1f35f11,Sra. Stella Cavalcante,thomas83@example.org,81 8587-0266,21,17190.36,9322.83,High,Short Term,Retirement
+824103a1-21b6-4435-846e-13892b43b808,Thales das Neves,maria-julianascimento@example.org,0800-948-9957,63,11781.11,6197.7,High,Long Term,Home Purchase
+25088e28-f638-45dc-811b-12117a7817ed,Igor Pastor,rafaelmachado@example.org,+55 11 5003-6373,30,4770.58,1507.56,Medium,Short Term,Emergency Fund
+019d50cc-ce3d-4dd4-bbf0-b9b0720c8361,Maria Liz Nascimento,calebe28@example.net,(031) 0233-3982,41,10871.98,6571.72,Medium,Long Term,Education
+f6bc5d1d-1474-427b-9713-0044142e32c7,Anthony Cavalcanti,hsiqueira@example.net,(081) 2125 4102,49,17255.66,12017.36,High,Short Term,Entrepreneurship
+e06868b0-dbf7-4f3f-93b0-ea0ea3922b1d,Melina da Costa,nicole99@example.net,+55 51 2325 7058,19,5695.32,3285.87,Medium,Medium Term,Home Purchase
+4e1acb43-b298-488f-ba17-734cb3171268,Luiz Miguel Almeida,emilly64@example.com,+55 61 2467-7509,48,7405.56,4480.04,Medium,Short Term,Education
+2fb61c18-f2b0-4d85-9e1a-afbebf6280d1,Dr. Thales Souza,cardosostella@example.net,+55 41 5971-3834,57,11367.47,6274.93,Medium,Short Term,Emergency Fund
+f1e8ac07-399a-49e0-a601-6d6834c65bb6,Gustavo Vieira,ryanviana@example.org,(071) 3544-9106,33,14564.18,7824.81,Medium,Long Term,Education
+708c4811-a37d-424c-9667-44422bf93c49,Dra. Ana Liz da Cunha,da-rosajuan@example.net,+55 (084) 0393-9318,18,3426.0,1841.4,Medium,Short Term,Home Purchase
+3da28295-53c1-4027-ad39-27e577ca67e1,Sr. Heitor Fogaça,fariasbruno@example.com,+55 51 9454 3404,51,15377.36,9741.15,High,Short Term,Retirement
+5f378178-2763-4f2d-9d11-d268facce1f3,Ana Vitória Oliveira,castrobarbara@example.net,+55 (041) 8259-1609,51,7354.41,4174.72,High,Short Term,Home Purchase
+a82dabe2-255d-4bc9-bc4c-fe33f242d727,Benjamim da Mota,da-motastephany@example.com,+55 71 9256 5057,61,14204.36,8942.91,Medium,Medium Term,Retirement
+73dbbb43-6c36-40a6-81fc-daab69ebc683,Maria Júlia Guerra,viniciuscaldeira@example.net,+55 41 7028-3962,51,3488.32,1290.1,Medium,Medium Term,Home Purchase
+1569aab5-bae0-43cd-8151-269455891524,Srta. Maria Julia Lima,heloisa25@example.org,+55 71 2967 1828,75,19847.43,11765.22,High,Short Term,Entrepreneurship
+8a3f00a8-7561-42fb-8c8e-114df12eedee,Srta. Fernanda Leão,nathan77@example.org,71 3998-9397,44,7906.12,3963.35,High,Medium Term,Car Purchase
+88aa8f79-0091-4bea-9e75-f4595f846fd1,João Guilherme das Neves,mmonteiro@example.com,(061) 3356 0512,66,10877.16,7041.74,Medium,Long Term,Home Purchase
+12e2bd2d-f7ca-4b77-a5b2-f910ae618ca7,Alexia Pires,emanuellybrito@example.net,41 3415-9702,54,14393.87,9146.62,Medium,Long Term,Education
+8863d369-9ce4-46c9-b8f2-077f85379dc3,Dr. Asafe Gomes,leoabreu@example.net,+55 84 0950 3648,61,8374.55,5220.89,High,Short Term,Home Purchase
+66571f76-cf85-46e1-9d40-b5363d0203da,Joaquim Araújo,bruna70@example.net,+55 71 7365 2034,78,15965.23,8481.69,High,Short Term,Home Purchase
+cc089962-0bc0-4749-a993-924b12d6a4fe,Yan Fogaça,monteiroagatha@example.net,84 2312 6935,54,2968.36,1478.66,Low,Short Term,Entrepreneurship
+b1513156-f087-4e14-b707-1b3063a234d7,Eduardo Martins,ester91@example.net,+55 (081) 2953-9181,66,6726.27,3873.91,High,Medium Term,Retirement
+a3e338ec-cc34-4dcb-ae3b-c692695dff3d,Joaquim Castro,da-motaluiz-miguel@example.org,+55 (021) 7771-5706,50,7971.32,4779.22,High,Short Term,Home Purchase
+518b7bf2-41da-46f7-9fd4-f793abd3847d,Emanuelly Borges,fonsecamaria-luiza@example.net,(011) 2978 9284,23,14016.75,8679.09,Medium,Short Term,Retirement
+66d9cac4-7cd5-4d8f-b4d4-20812e91560e,Júlia Castro,francisco84@example.net,(041) 5063-7904,69,1769.83,1190.87,Low,Medium Term,Home Purchase
+8765182b-6109-4cb6-bd27-8e3de1de84aa,Stephany Sampaio,albuquerquevitoria@example.com,0500-922-5646,19,3852.7,1021.92,Medium,Medium Term,Entrepreneurship
+16f59b67-001c-4b47-841a-2800a4fb9659,Diogo Cassiano,vpereira@example.org,+55 61 2738-3107,20,8352.25,5405.46,Medium,Medium Term,Retirement
+730ee3fc-66e0-457f-8619-a5ad4feb45ac,Dra. Lavínia Gonçalves,aurorapeixoto@example.com,+55 41 6285 6986,56,19071.45,11420.66,High,Short Term,Retirement
+a107aaa2-0875-4c81-b155-95f613f57edb,Davi Lucca Porto,lorenzosiqueira@example.org,(051) 4901 8664,59,8519.15,4781.28,High,Medium Term,Car Purchase
+330df00f-3ed1-4d15-962b-28f483b26d67,Isabela Oliveira,pastorvitor-hugo@example.org,41 8275-1172,49,7383.75,4866.16,Medium,Short Term,Car Purchase
+d5cb2df4-1b29-40e1-b5dd-7c681ee80c2e,Enzo Gabriel Ramos,danilooliveira@example.org,+55 71 3491-4064,62,4272.55,2595.48,Medium,Short Term,Car Purchase
+b30220ea-b499-4bde-8eac-4acd4f11424b,Esther Cavalcante,ayllaoliveira@example.com,+55 61 0600 3795,59,11478.91,6364.86,Medium,Medium Term,Entrepreneurship
+68310b9d-ee41-470c-9fd8-ee8fde9c1442,Anna Liz Pires,zlopes@example.net,(041) 0391-5958,49,16124.86,9987.0,High,Medium Term,Car Purchase
+289d0f26-427a-410a-9b62-4e6c8de92fbe,Theodoro Barbosa,vasconcelosandre@example.net,+55 31 7941-2481,60,5867.38,4063.68,Medium,Medium Term,Retirement
+c7979dba-3129-4fe9-b135-84592020ae24,Alana Barros,coliveira@example.net,11 0336 4119,19,13382.57,8443.55,High,Long Term,Home Purchase
+1edcec5c-6bb2-43bb-8540-59ac8e3d3b04,Mariane Cunha,ravi37@example.org,+55 81 2106-2632,74,2157.65,1264.46,Low,Medium Term,Entrepreneurship
+6b6e2c30-adaa-4db7-8703-c61c5c8846c0,Apollo Gomes,caraujo@example.net,0300-230-9775,72,10606.85,6417.28,Medium,Long Term,Car Purchase
+3a49535c-d98e-483d-874e-7c4d039a495b,Antonella Carvalho,sofia79@example.com,(081) 4847-9359,60,19034.7,11081.25,High,Medium Term,Education
+8dc33fe2-298d-48db-91b2-5f474b735a5f,João Alves,gustavo-henriquefogaca@example.net,(061) 0644-8822,79,12430.75,7055.58,Medium,Long Term,Education
+9caa8fc8-cd61-48bf-9405-904c60ea59d6,Esther Rezende,crios@example.net,+55 51 2240 0240,61,15462.7,9260.76,High,Medium Term,Retirement
+b175c339-aab9-44ba-86c3-14093d867872,Dr. Apollo Martins,kevincarvalho@example.com,11 4779 2695,34,6922.6,3815.39,Medium,Medium Term,Home Purchase
+c514ff3a-1068-4cd1-9176-5be0dc0ae243,Ana Júlia Sampaio,melina64@example.com,0900 901 1803,58,10250.18,5903.95,Medium,Short Term,Retirement
+3d88559c-f559-4c77-b15a-596223bfe745,Carolina Sá,naraujo@example.com,+55 71 5253-6321,32,16796.71,9926.07,High,Long Term,Home Purchase
+d5db8655-c828-4492-9e43-961c600f756c,Isaac Alves,pietra36@example.org,(031) 8147 5195,60,4941.3,3244.47,Medium,Medium Term,Emergency Fund
+002155c7-b0b4-4c1e-84b2-450807b21df0,Bento Caldeira,camposmatteo@example.org,(071) 1208-7759,73,10929.4,6057.91,Medium,Long Term,Education
+a6a27673-4f79-4c45-83a8-8e80ebcb17bc,Laís Oliveira,iannovaes@example.com,81 4297 0810,24,2970.23,1881.67,Medium,Short Term,Entrepreneurship
+11a13dfd-dce1-46fe-8992-0f23fb7f3e7f,Thiago Carvalho,xcunha@example.org,+55 (051) 6690 6477,40,12173.47,7127.75,High,Short Term,Retirement
+3c7e5364-9484-46ef-8627-ebec71fe6493,Isaque Rocha,jpereira@example.org,+55 81 2978-6337,37,9658.16,5268.99,High,Short Term,Car Purchase
+439b288a-52ef-4918-a8af-a8e6f7c92944,Caleb Cavalcanti,mcavalcanti@example.net,0300 411 0074,65,9938.92,6820.52,High,Long Term,Emergency Fund
+b38a0c0b-df1b-448d-80dc-feeb9f71367f,Bárbara Gomes,vitor-hugo05@example.org,21 6401-3406,18,6997.87,3752.91,Medium,Short Term,Emergency Fund
+3d3f189d-3ee9-4627-b46e-5482992bcda8,Gael Freitas,plopes@example.net,51 2313 6757,36,15393.88,10692.68,High,Short Term,Car Purchase
+d69c9637-a06a-437e-9506-4005d9141c80,Rhavi Barros,umoura@example.org,+55 (011) 4303 2347,51,8025.44,5131.7,Medium,Short Term,Car Purchase
+0dc27928-b60c-42f9-9b65-6e3701ff22bf,Emilly Costela,cavalcantieloah@example.org,31 0442 4267,21,9489.66,5588.44,High,Medium Term,Home Purchase
+8ca4f3d9-0051-4b02-bed8-954bb4a76582,Vitor Gabriel Borges,rochabrayan@example.org,51 2462 3200,36,8646.77,4562.81,High,Medium Term,Car Purchase
+c72767ec-ffa8-412d-b99b-91d51abac717,Nicolas Castro,jdas-neves@example.org,(061) 7330 0061,21,18317.57,10769.91,High,Long Term,Car Purchase
+0b1a435b-c7b1-46b2-b6d1-7024518e9442,Bárbara Teixeira,correiathales@example.org,31 7423 1265,79,2923.79,2099.65,Medium,Long Term,Home Purchase
+d49dab26-9820-4c57-ab35-f4c7c715f00d,Dra. Manuela Novais,marinaramos@example.org,+55 41 0182 3855,21,7751.27,5418.91,Medium,Medium Term,Retirement
+451f4f0b-acbe-43a3-b9b7-0f1b2ce83022,Nicolas Fogaça,vicentecamargo@example.org,0800 663 8475,33,19097.18,12288.62,High,Short Term,Home Purchase
+8dc28b91-b860-466d-ba39-6f29d16ea27f,Dr. Guilherme Costela,maria-sophia75@example.net,11 6493-2485,40,17997.94,10217.87,High,Short Term,Retirement
+23227c1b-9603-42e1-90aa-dec17108bf18,Laís Viana,hcorreia@example.com,84 9162-2178,40,16926.99,10128.39,High,Long Term,Entrepreneurship
+578e1be0-7eab-413b-ad76-1b735a936f2b,Bernardo Pereira,vitor-gabriel62@example.net,21 7781 7806,44,15406.86,10510.18,High,Medium Term,Entrepreneurship
+262821e7-a124-4bef-b341-5113b1bd30c8,Aurora Freitas,cavalcantiheloisa@example.net,(041) 9352-7470,20,5533.27,3043.24,Medium,Short Term,Emergency Fund
+35d39524-aac2-4558-ac2e-e98f0b880587,Brayan Sousa,unovais@example.net,0900-420-7396,38,4293.09,1773.01,Medium,Short Term,Car Purchase
+64b28125-8ea9-4706-931e-ead261616a72,Sr. Caleb Araújo,abreujoao-vitor@example.net,41 1655-8949,27,5301.24,3637.27,Medium,Long Term,Emergency Fund
+6cb42a6e-17ae-4009-970f-5c88a59b937e,Enrico Rezende,nicolemachado@example.net,+55 (071) 3170-7542,68,9523.42,6544.71,High,Short Term,Retirement
+1bd1cdde-bff7-4200-8843-9eabf6d32116,Théo Farias,bda-paz@example.net,21 7246 7323,71,7039.24,4769.28,Medium,Short Term,Retirement
+ac1a46c4-5e7a-4bb9-bab2-efcbf89c8aeb,Henry Lima,rlima@example.net,21 6273 0476,22,16576.1,9400.64,High,Medium Term,Home Purchase
+02a56df9-519b-4bcd-a0e8-a8c4206984a3,Sara Vasconcelos,cavalcanticaroline@example.org,+55 (081) 4054-6645,49,9895.37,6263.62,High,Short Term,Retirement
+830eb925-b9cd-4ac9-b575-370af74414e0,Dante Sousa,vicente38@example.net,81 1104 0839,40,10338.66,6625.28,High,Medium Term,Entrepreneurship
+56378d7a-701e-4807-8804-82d85e8298ca,Julia Ramos,laura98@example.org,+55 (084) 6080-8452,69,9643.68,6110.23,Medium,Short Term,Emergency Fund
+00a0b0bc-c56a-4d3b-8a69-58f58dca9c41,Sra. Manuella Pimenta,apeixoto@example.net,51 4153 5538,36,4151.58,2670.22,Low,Short Term,Emergency Fund
+fece2e2d-6627-4fa6-b5ee-5dbcf29c320f,Marcelo Nogueira,heloisasales@example.net,81 8718 8085,54,11484.7,7311.93,Medium,Medium Term,Emergency Fund
+c61e079b-f03e-4d43-9b92-73386178b141,Srta. Olivia Rios,julia17@example.org,+55 84 8985-5357,34,3568.35,2820.16,Low,Short Term,Emergency Fund
+02432ecd-ebb6-42e7-8ebc-03545c80c711,Benício Cavalcante,apinto@example.net,+55 (011) 0663-5434,19,2187.99,1466.18,Low,Long Term,Education
+df531861-75fb-4b96-8150-364c1a13ef29,Francisco Rodrigues,brunoleao@example.org,+55 81 4401 4455,75,12706.72,8466.95,High,Long Term,Emergency Fund
+18e8d3e1-a196-4bd9-8b77-f3f41828493f,Dra. Mariah Montenegro,nteixeira@example.com,+55 (051) 6610-4362,18,10471.02,5738.47,Medium,Long Term,Home Purchase
+58430ad1-70f0-4665-8213-d3e13efe4f9b,Diego Guerra,carolinamacedo@example.com,21 3475 7747,76,15949.02,8255.66,High,Long Term,Education
+5904b4e9-5b2c-4571-9a36-a8f55d680743,Lorenzo Sampaio,aandrade@example.org,+55 (051) 6707-7004,46,9532.65,5313.09,Medium,Short Term,Emergency Fund
+43fda225-5b04-4a26-9071-d768cf1e57e7,Milena da Rocha,vfernandes@example.net,+55 (084) 2209-2801,59,2015.75,1158.3,Medium,Long Term,Emergency Fund
+9b159b5a-6b67-420a-8332-0d153b07307e,Melina Siqueira,pachecoevelyn@example.net,0500-364-9034,48,19014.56,11910.66,High,Long Term,Retirement
+24b90374-62b5-4733-9974-6b41e8ae8f42,Luara Teixeira,garciafrancisco@example.net,+55 (061) 9878-8139,36,9324.89,5024.47,Medium,Short Term,Retirement
+06907969-2960-45bf-a2eb-afdd4628b892,Pietra Aragão,ana-luizacosta@example.org,+55 (051) 1669-8742,35,17541.58,10380.09,High,Medium Term,Education
+fc50a088-ad41-4432-8c8e-d277be8e3823,Emilly Monteiro,castroguilherme@example.com,+55 (081) 3238 6835,19,1837.48,1397.42,Low,Short Term,Entrepreneurship
+e0fac698-69a5-4561-a802-37efa4ae1f80,Matheus Guerra,luiz-henriqueoliveira@example.org,+55 84 7857 9892,27,9266.49,5492.52,Medium,Short Term,Home Purchase
+0713cf47-90f3-4956-b1fe-c941cd83b46a,Renan Fogaça,ayla06@example.net,+55 (041) 0160-6560,45,8947.83,6100.27,High,Long Term,Car Purchase
+2707e6f3-c226-4aca-9c77-fc098491b214,Levi Melo,rioslunna@example.net,+55 81 0162-0011,72,6283.42,3155.58,Medium,Long Term,Car Purchase
+8f1127f7-5286-4036-8e2f-d84afe2f299d,André Caldeira,gda-rocha@example.net,+55 41 2234 6823,57,2996.67,2015.37,Low,Short Term,Retirement
+1b621549-0d1d-4232-aa8c-3bba8659b9dd,Sra. Maria Fernanda da Mata,davi-luccacardoso@example.org,+55 (011) 6621-9394,61,16464.98,11132.52,High,Long Term,Education
+3365d897-e1b4-4375-9024-f8d564ed9870,Julia Siqueira,guilhermerios@example.com,(031) 1256-2486,45,14982.65,10226.15,Medium,Short Term,Emergency Fund
+d94528ed-afa5-4060-8369-ce8fe58a2c61,Mirella Costela,marcelo36@example.com,+55 (071) 4667-3268,18,15982.17,10397.21,High,Long Term,Car Purchase
+6a75e921-f0bc-49b4-ac63-92244fd26b0e,Ana Abreu,danilocavalcanti@example.com,+55 (084) 3173 0472,43,16686.08,9823.69,High,Short Term,Retirement
+4236548b-37ee-40a8-af79-ac1363b55c37,João Miguel Pacheco,nina04@example.org,+55 84 5020-5953,74,14012.47,7338.97,High,Medium Term,Retirement
+f8df791a-5eb3-4b45-a570-9470d92409d9,Kaique Sales,ymoreira@example.net,(051) 1754-9173,47,3065.72,2133.82,Medium,Medium Term,Entrepreneurship
+f1d36116-57d3-481a-8421-d9567787d9b4,Danilo Barbosa,anthony-gabrielvieira@example.com,(084) 8450 7817,49,10764.1,5600.1,Medium,Medium Term,Education
+14ef3cbc-ac07-46ee-ac72-6fa894375d1e,Manuela Guerra,mteixeira@example.net,61 9911-9745,28,2135.71,1439.77,Low,Medium Term,Entrepreneurship
+73b97ef7-b309-4075-8875-948be48fd724,Caroline Borges,dcosta@example.com,41 5928-6899,34,18501.54,10270.63,High,Short Term,Car Purchase
+b9c4a9ac-d6a4-448a-a835-c46aea843f7b,Danilo da Rosa,hlopes@example.org,+55 41 8780-3261,62,5873.39,3179.94,High,Short Term,Retirement
+a3b65c5a-9c9d-49b4-bb89-cc0b8103226d,Ana Beatriz Aparecida,joao-miguelmonteiro@example.net,(081) 4600 3021,59,18423.81,10128.09,High,Medium Term,Home Purchase
+f264d2e0-2ece-4226-abd7-4728d07b3ee5,Srta. Ana Vitória Sousa,santoszoe@example.com,+55 (081) 5684-0940,80,4723.21,1267.37,Low,Long Term,Home Purchase
+0d75c452-3f70-4290-89b0-f5c7450defbc,Clara Brito,aurora94@example.net,+55 11 6945-5155,46,19532.62,13476.36,High,Short Term,Entrepreneurship
+ea10bb77-6c40-4712-9bbe-32b14e5871fd,Guilherme da Cruz,aragaojoao-miguel@example.net,+55 61 3624 3968,50,14230.63,7503.91,Medium,Long Term,Home Purchase
+cc01f60e-fe70-49a6-aa09-28a684a2a2ba,Sr. Gael Sousa,vicenteferreira@example.org,+55 (011) 3102-5470,42,7137.69,4586.26,High,Long Term,Entrepreneurship
+a61edc3b-b081-4f3d-a3c3-1db325c3a9df,Isabela Rezende,julia91@example.com,(051) 7180 0203,65,17752.45,11584.24,High,Short Term,Home Purchase
+a014b6d8-432e-4880-af74-df6c3e3777eb,Srta. Ana Beatriz Correia,carolinadias@example.com,+55 11 5999 5626,46,6754.17,3883.88,Medium,Medium Term,Home Purchase
+78e3d4f1-ac02-4e91-87f6-96a79333e875,Manuella Almeida,marqueshenrique@example.net,+55 (061) 4673-9321,29,14926.83,8356.41,Medium,Medium Term,Car Purchase
+0bc07815-0f9f-4f51-a39f-d8af8d54af4c,Luna Rios,lopescecilia@example.com,(071) 7231-4726,40,14503.18,7423.66,High,Medium Term,Education
+ffe18174-e3e4-4d32-a158-e76a720e181c,Benicio Sousa,theodoromendonca@example.com,+55 71 1524 8357,21,18267.91,12559.26,High,Long Term,Home Purchase
+a8819634-bc2b-474b-ae87-f32e1209e7d1,Laura Freitas,lopesraul@example.com,+55 31 0331-9380,32,15498.23,10434.64,High,Short Term,Home Purchase
+6c1a60f4-f84b-4141-a1b1-86ded662238d,Leandro Vasconcelos,lmoraes@example.net,+55 (071) 0770 2024,26,10849.88,6790.39,High,Short Term,Entrepreneurship
+b49937c5-576c-4952-9550-dc5be739bda5,Lorena Costela,cauarocha@example.com,0900 905 6217,76,14412.38,7579.37,Medium,Medium Term,Retirement
+6497430a-32bc-4ef3-939a-93808838d278,Rhavi das Neves,kbarros@example.org,0300 688 7860,26,15885.35,9276.62,High,Long Term,Emergency Fund
+968f59ba-5ab5-4ba6-b0d9-0cf95707efa5,Srta. Eduarda Guerra,mariah36@example.com,81 5985-5683,69,18634.96,10629.97,High,Medium Term,Home Purchase
+c6d39a17-08d0-47a8-bbdc-ea1ad2a82b57,Yan da Rocha,lteixeira@example.net,84 5293-5436,61,18238.45,9742.64,High,Long Term,Entrepreneurship
+886f03d7-8432-4e3e-b675-78ccaddea564,Sr. Breno Barbosa,alvesemanuelly@example.net,(084) 8765-2522,28,11250.54,7289.36,Medium,Medium Term,Emergency Fund
+8424ff1f-317c-471b-bac8-159245fcc4e2,Maria Luísa Sá,pietrasa@example.org,+55 61 5467 6412,26,1994.42,1299.5,Medium,Short Term,Emergency Fund
+ed9b2c34-7562-48f5-bdaf-e05071bc886b,Heloisa Moura,juliana85@example.net,(061) 8835 4064,59,4458.68,1189.59,Medium,Short Term,Car Purchase
+98363b65-3f86-4825-a09d-22d3ee40fc5f,Nicole Alves,psousa@example.org,+55 21 3223-8162,24,2144.41,1148.4,Low,Long Term,Education
+5126151a-74e4-49ce-a577-1408025fd84c,José Miguel da Conceição,calebesilva@example.org,+55 (031) 8754-1239,24,16103.3,8633.17,High,Long Term,Retirement
+125d9723-c0f3-4336-b188-71381f925144,Alice Fogaça,anthony03@example.com,71 4304-1265,31,10422.12,5944.73,High,Long Term,Entrepreneurship
+8ae1a8c4-296b-464c-aacc-10e10bb72122,Nina Peixoto,nogueirajoao@example.org,+55 (021) 2375-3563,26,6787.74,3401.5,High,Long Term,Car Purchase
+450ef726-574e-4294-90cd-fa3900554a30,Anthony Gabriel Andrade,tsilveira@example.org,(061) 5604-0176,53,6732.01,4447.24,High,Short Term,Emergency Fund
+1bdb99bb-010b-4661-b6a6-042d8a7d8989,Brenda Machado,renan58@example.net,11 7456 8245,22,18285.95,9685.3,High,Long Term,Car Purchase
+0052b312-69ca-422d-a1a2-d77734aacc21,Srta. Lorena Dias,mouramaria-fernanda@example.com,(051) 7344-3844,42,2989.17,1003.84,Medium,Short Term,Car Purchase
+e0e59a8c-fb3e-4426-9147-70cfcf54ebc3,Guilherme Fonseca,brendacunha@example.org,61 3682-2162,34,19054.06,10943.67,High,Long Term,Emergency Fund
+61d8991a-a6ed-4ccf-8627-0b8883c9475f,Dra. Manuela Pinto,ialves@example.net,81 7539 0014,21,19935.71,13425.75,High,Medium Term,Entrepreneurship
+bcc9c2e8-25c0-49f2-9296-b67683db1bef,Ravi Lucca Castro,luna69@example.net,+55 41 4553 1764,19,16262.55,8182.5,High,Short Term,Car Purchase
+14e8811d-6abb-484d-8e2b-9a1b10cffb32,Sr. Oliver Pinto,rodriguesvitor@example.net,+55 71 1066 6411,27,10431.81,6479.16,High,Short Term,Retirement
+c91173fd-a022-4bc6-983a-8a4673c05596,Sr. Yago Pastor,gustavocavalcante@example.org,+55 61 0964-1102,47,14253.29,7799.46,Medium,Short Term,Home Purchase
+e264e860-66c9-4fa5-ac5c-9c747b88cd49,Sra. Heloísa Santos,da-mataamanda@example.com,0500-953-2325,36,16563.63,9539.83,High,Medium Term,Retirement
+616b6acc-93a1-49fe-9948-b3c0e2ac4841,Noah Montenegro,xnunes@example.net,+55 (021) 4545-2486,33,15288.0,8984.08,High,Short Term,Retirement
+3a24c994-989b-465c-8abe-c888e663b7a8,Thiago Guerra,levi24@example.org,(081) 9982-4253,79,15825.5,10144.77,High,Short Term,Retirement
+3a2956bd-0fb0-48f8-91d2-906592f8268e,Vitória da Cruz,sophia22@example.org,+55 (041) 3273 1779,40,14791.21,9341.04,High,Short Term,Entrepreneurship
+19681937-47b0-4ad7-abd6-49e49c74dfec,Mateus Pastor,jfogaca@example.com,+55 (081) 9341 5849,36,6287.13,3272.02,High,Short Term,Home Purchase
+ce1b8cec-212c-44c1-97c4-67d671d421c7,Carlos Eduardo Cirino,da-cruzisis@example.com,(031) 4351-4090,59,5726.6,3424.03,Medium,Short Term,Home Purchase
+9d2c720d-98ea-4dad-ba5d-a28fbaf611d9,Brayan Cunha,da-cruzcarlos-eduardo@example.net,+55 (071) 3827 0962,26,9107.96,6314.16,Medium,Long Term,Entrepreneurship
+3b469c88-db2d-4ce4-9628-4235a9d223be,Maria Luísa Ramos,sofia40@example.org,(051) 3280-5109,54,12910.87,6602.82,Medium,Short Term,Emergency Fund
+20698646-d7f4-4129-ae0e-54b44a61b686,Henry Gabriel Borges,ccunha@example.net,+55 (084) 7500-3413,71,12871.44,8300.34,High,Long Term,Car Purchase
+c620d5b2-803c-4468-8370-1293d83934ca,Clarice Fonseca,jsilva@example.org,+55 81 5269-8860,73,2016.19,1025.03,Low,Short Term,Car Purchase
+ad105122-dbb2-4964-9243-191389a888f8,Sra. Bella Casa Grande,luiz-felipe00@example.net,+55 71 5500 8672,35,7387.24,4460.46,Medium,Medium Term,Car Purchase
+30f2529d-3183-49bb-a7fb-6a615a738f86,Théo da Rocha,portogabriela@example.org,61 2134-3445,29,2959.6,1361.94,Medium,Medium Term,Retirement
+3332e073-8cff-4f0e-a6b0-ee2f9b4bcefb,Rael Carvalho,barbaranovaes@example.org,61 7409-1827,40,15682.82,10665.61,High,Medium Term,Retirement
+62208f24-8b70-4bc9-9aca-3397fc936fca,Dra. Maitê Rezende,portostella@example.org,+55 (081) 7776 9578,37,3566.59,1049.47,Medium,Long Term,Retirement
+161eb552-45ae-4880-a530-8b212202008b,Bryan Carvalho,mmoura@example.com,+55 11 0334 6849,75,6938.04,3680.85,Medium,Long Term,Entrepreneurship
+5a8d921f-193a-4f5e-8482-4d30b1be79ea,Benjamin Ramos,umendes@example.net,(031) 3289 5666,36,3438.13,1612.78,Medium,Short Term,Home Purchase
+0b78fa0d-7c7c-40f4-8ab5-fa12a01e94a0,Daniel Borges,igorcastro@example.org,+55 (081) 3904 2320,35,18437.31,10303.13,High,Medium Term,Home Purchase
+8ca4afbd-8c93-48ac-8745-81d4675d3c87,Josué Cavalcanti,fonsecaana-cecilia@example.net,(051) 6181 1583,65,9908.29,5114.27,High,Short Term,Retirement
+85453acc-9026-49d9-bef6-b7984395f9be,Beatriz Barros,samuelda-mata@example.org,(041) 7237-0566,72,12344.24,8210.03,Medium,Medium Term,Car Purchase
+c42a2068-98bd-4ac3-92e3-f45bd45019ac,Caio Sampaio,josecirino@example.com,+55 (011) 7946 3060,60,11490.82,6720.92,Medium,Medium Term,Emergency Fund
+fffbb9c8-5858-4317-8720-8379616cb0e4,Cecília Mendes,arthur-gabrielporto@example.net,(081) 5130-1480,80,15242.84,9275.47,High,Medium Term,Home Purchase
+2c85bdb8-ef21-469e-a10e-8cf9c5cfb694,Ayla Albuquerque,fonsecahenrique@example.org,+55 31 0549 8070,41,6949.97,3873.85,High,Medium Term,Retirement
+fdf136cb-4c24-4736-b6aa-1d9de4112ac3,Srta. Ana Julia Rios,wfreitas@example.com,71 5135 4666,74,3259.71,1773.26,Medium,Short Term,Emergency Fund
+6af8b3c4-abf8-4e2f-8656-b1a3de380665,Ana da Conceição,carvalhomanuela@example.org,+55 84 6371 0544,40,17646.18,9023.18,High,Long Term,Home Purchase
+291b2b08-f16d-4ffa-b63a-21710f80cd83,Gabrielly Sampaio,rodrigo80@example.org,71 7631-6177,75,18894.9,10232.75,High,Medium Term,Emergency Fund
+33874bea-d5c9-47cd-ab2a-a8177bfe5c63,Julia Costela,icosta@example.net,+55 (041) 6783 9370,52,10318.25,7185.25,High,Short Term,Entrepreneurship
+3d96f684-f471-45ab-8273-27bbf2563e49,Emanuella Garcia,cassianoisabella@example.net,(011) 0036-2076,60,13939.51,8039.65,High,Medium Term,Home Purchase
+bb9b95c1-00f1-4b8c-81d5-9b55c998bd00,Rafaela Garcia,lara78@example.net,21 2640-7461,60,15192.62,10023.54,High,Long Term,Emergency Fund
+252b0d29-ae5f-44df-8c61-bdaaf6e8a2a1,Ana Júlia Ramos,scavalcanti@example.net,31 6368-0131,68,3906.86,2594.22,Medium,Short Term,Car Purchase
+629fa91c-5d95-4b08-a35d-bd32d35bd9d8,Maria Carvalho,xcavalcante@example.org,+55 (081) 7148 4146,22,13910.02,7587.85,High,Medium Term,Entrepreneurship
+a22279e2-f3d6-491f-9644-62ef42b44dfe,Apollo Moura,vianaheloisa@example.net,+55 81 3682 4776,21,11009.07,7247.19,Medium,Medium Term,Retirement
+c54fd5ed-1c5e-4f8f-8706-ea1f49fc799a,Arthur Miguel Casa Grande,antonycostela@example.net,+55 (061) 8834-9748,55,6288.57,3693.41,Medium,Short Term,Retirement
+0c8265f7-ea68-424b-839f-45706f232eb6,Theo Leão,peixotohellena@example.org,(011) 3991 4339,35,11163.54,5770.1,High,Medium Term,Emergency Fund
+e9770b6d-52c3-498a-be73-d63677d60f59,Caroline Porto,ester95@example.com,(071) 9654-8722,62,16964.87,10887.78,High,Long Term,Home Purchase
+39f3101b-85bf-43dd-bf21-bd4b1201fb9d,Gabriela Costela,maria-luiza03@example.com,(084) 4495 6923,52,2023.05,1558.68,Low,Short Term,Retirement
+cc336419-99b0-4c03-afc5-6f4241a21078,Lorena Almeida,anna-liz06@example.org,+55 (081) 3806-4796,38,4154.29,2453.13,Low,Short Term,Entrepreneurship
+93b7b5d5-7d27-401c-9a2e-a89615aa9298,André Sousa,lopesmathias@example.org,+55 51 3250 3499,74,12779.56,7223.61,Medium,Long Term,Retirement
+d7b7a93f-9d05-47e1-8b35-2ec5d7f1a1bc,Lorena Moura,erick50@example.org,(071) 4395-6743,31,13039.02,7549.83,High,Medium Term,Home Purchase
+d12d794c-9479-491a-8201-04b4a65fb900,Gabriel da Luz,heloisapastor@example.net,41 5134-8831,40,17598.85,10621.42,High,Long Term,Car Purchase
+c560fe3b-8699-4d41-a1af-58aad88b4238,Pedro Lucas Leão,ianteixeira@example.net,+55 51 3626 0469,64,19293.48,11479.03,High,Medium Term,Car Purchase
+c52394dd-0d20-4d20-af27-ccf4ec97d436,Levi da Rosa,alice49@example.net,+55 (011) 3429 4326,65,17409.12,9422.13,High,Long Term,Home Purchase
+b1d18012-2ee0-4aeb-8cf6-3b5e5c767fed,Breno Fogaça,emanuel69@example.com,+55 31 3725-8327,32,2648.64,1830.55,Low,Short Term,Emergency Fund
+0f05fda1-0806-433f-8806-1140cf73637c,Dra. Maysa Borges,da-pazpedro-henrique@example.net,+55 11 1557 9696,56,18479.63,10655.6,High,Long Term,Car Purchase
+d4c9cab8-0ef4-4ff4-8700-334d244f84d9,Sabrina Ribeiro,eduarda36@example.net,71 8132-1792,73,7395.56,4037.06,High,Long Term,Car Purchase
+d4c15514-f3dd-4df6-aa32-b803ac01154c,Breno Viana,antonellapacheco@example.com,(031) 8906-8468,78,16729.62,8810.78,High,Short Term,Car Purchase
+d6bdff7c-766a-4c9a-b582-ae1c02f10f76,Renan Almeida,ravi-lucca32@example.com,(081) 8656-7497,54,2228.49,1386.84,Low,Medium Term,Car Purchase
+9dd640be-fc9c-4dfe-a731-fd7a7064efb2,Augusto Souza,sara37@example.org,+55 (051) 0084-6924,70,14805.93,7808.26,High,Short Term,Entrepreneurship
+ef8f4a0e-6fae-431a-8ad0-952b2bc27b06,Giovanna da Luz,oliverpacheco@example.com,+55 71 0239 4371,22,9407.22,4955.04,High,Long Term,Emergency Fund
+91c2c544-f2ac-489e-994b-a036264bde90,Sra. Yasmin Vargas,jose04@example.com,0500 966 9057,40,2061.38,1234.99,Low,Medium Term,Home Purchase
+6dd4e082-4700-414d-80b5-2ab25457ad2f,Dr. Ian Cirino,calebpimenta@example.net,0500 722 0749,44,10552.69,5886.34,High,Short Term,Car Purchase
+bb9d3189-f07d-4531-ae42-69cea7f2b771,Ravi Ferreira,enunes@example.org,(081) 0539-6003,65,19944.76,13442.1,High,Short Term,Education
+5fbc5467-ed57-40c2-9148-ac90c8504d17,Samuel Freitas,pintoeduarda@example.net,11 6592-4842,33,3576.67,2333.49,Medium,Medium Term,Emergency Fund
+e6f5d83c-4b14-4271-bb22-6399918ded9e,Liz Rocha,fcaldeira@example.com,41 8333-6328,36,5596.51,3281.17,High,Long Term,Entrepreneurship
+1fe255a5-fccd-45f3-a4a2-053998ad8726,Sr. André Aparecida,pimentamaria-julia@example.net,+55 (021) 8307-7174,21,12653.48,8323.15,Medium,Short Term,Entrepreneurship
+8351fc72-c5d8-431a-a341-a5a3b267fe86,Yan Cassiano,joao-miguelrezende@example.com,(081) 5988 2522,22,9843.09,4956.66,High,Long Term,Car Purchase
+da4177e8-d3b0-45ca-8fc3-bf1f2ba30b5f,Luísa Moraes,emelo@example.org,+55 81 5972 8712,60,17900.42,12443.38,High,Short Term,Retirement
+1713e97e-f302-4bd8-a6cf-19c4b55120b1,Matheus da Conceição,ivargas@example.com,31 1364 2125,53,16762.44,11223.66,High,Long Term,Entrepreneurship
+fb02dee7-772f-41e8-9290-69acd94fbb13,Ana Vitória Macedo,pmartins@example.com,+55 (011) 0934 8879,61,5294.66,3067.14,Medium,Medium Term,Education
+34a86569-82ea-4b7e-8c81-6cd5e8e6bf5a,Bárbara Albuquerque,da-costapietro@example.net,61 4763-2806,19,15363.52,7883.49,High,Short Term,Retirement
+083060a6-f27b-447d-875b-5c4f1c1d739c,Srta. Maria Flor Martins,ana-clara21@example.net,+55 84 2638 9067,28,7431.75,4565.35,Medium,Medium Term,Car Purchase
+8667ee33-6be6-4ac0-8e1e-6bd848fe551f,Srta. Bárbara Peixoto,caioporto@example.org,(021) 1182 3104,31,13400.9,7120.19,High,Long Term,Emergency Fund
+a3753b54-f168-432d-bd50-963a5db099b2,Bárbara Vieira,benjamin29@example.org,51 5569 5388,21,8505.01,5076.15,High,Long Term,Home Purchase
+4dd5ac98-0a2f-473e-bf06-e4c1c11060e7,Cauê Sampaio,ayla10@example.com,(061) 7416 8459,42,6638.09,3340.47,High,Short Term,Home Purchase
+69126713-027e-4b28-a6e6-6c17dea3e95c,João Gabriel da Cruz,camargovitor-hugo@example.org,(084) 7087-4873,62,17181.12,8648.2,High,Short Term,Retirement
+54f1004d-32bd-4b70-8447-b93f277dc5a2,Pietro Vasconcelos,kaiquecassiano@example.net,(081) 4705-5014,77,7834.99,5197.68,High,Short Term,Entrepreneurship
+693c425d-df75-48f9-a993-b858db8aaf3f,Fernanda Azevedo,rebeca11@example.net,84 9631 0481,54,8018.29,5082.69,High,Short Term,Entrepreneurship
+a98d7fae-0fd5-490b-85f3-24b8afc73a3f,Sr. Gabriel Lima,peixotomaria-clara@example.net,(041) 5687-0659,30,13046.71,8250.42,High,Long Term,Home Purchase
+d43735a2-f87d-4e5b-bd0c-e23281ce7b3a,Daniel Leão,ester85@example.org,21 3508-1719,38,2998.8,1394.34,Medium,Long Term,Education
+bb6657e2-3595-4ff3-97bc-7534a52f2ec4,Benício Alves,davi-luiz52@example.net,61 3759-9137,62,18565.23,11508.88,High,Long Term,Car Purchase
+c3d108ae-fd2b-4d9d-a0b6-726a5da1f503,Josué Jesus,rodriguesgustavo-henrique@example.com,(081) 3471-8820,30,2925.08,1736.98,Low,Short Term,Car Purchase
+8e0f3f59-266e-4dd6-b7f8-00d49fdef1f6,Lucca Vieira,pereiraisis@example.net,84 4668 2809,43,11931.18,7344.93,High,Long Term,Entrepreneurship
+a0a93519-4c01-4c27-8892-8921b30cf30d,Benjamim Vargas,vviana@example.com,(031) 7860-7443,20,19352.69,10734.81,High,Long Term,Education
+75f1a627-e5fc-45af-a79c-f1aaa1e81f26,Felipe Dias,bpeixoto@example.net,(071) 5732-6382,23,6930.23,4459.25,Medium,Medium Term,Entrepreneurship
+5ee7441b-5f0b-47b8-a6d9-7045ffdf6ec8,Thiago Mendonça,augustoandrade@example.org,+55 11 1641 0460,53,16575.91,9405.97,High,Long Term,Education
+ba77a2fd-93a1-4cbe-8439-cc851177a8bb,Laís Fogaça,riosfelipe@example.org,(071) 6057-1090,55,18045.47,9652.58,High,Short Term,Car Purchase
+fa9429bd-e028-4592-aee0-e27159270c23,Maria Laura Peixoto,hbarros@example.net,(061) 2382-3304,56,19986.12,11364.02,High,Long Term,Entrepreneurship
+d8cabb87-7f19-416a-a4ef-955dc784d235,Dr. Renan Caldeira,garciaesther@example.org,+55 31 6124-7022,61,5415.17,2870.52,High,Long Term,Car Purchase
+e98f1466-6055-44cf-8dc0-8409203d5a06,Ana Clara Ramos,cavalcantebenicio@example.com,+55 61 6660-9434,72,8105.0,4093.89,Medium,Medium Term,Emergency Fund
+f2c583c9-9133-476a-88a4-04d5e51e09b0,Mariane da Costa,faparecida@example.org,+55 (084) 8344 2968,61,18298.19,12458.45,High,Long Term,Car Purchase
+0593d54c-5fe0-4fd7-b141-65eab3f5e3ec,João Miguel Novaes,pfogaca@example.com,+55 81 3324 2943,19,10202.99,5598.79,Medium,Short Term,Entrepreneurship
+96d455de-e065-4ee9-b711-32136ba5deb5,Sr. Cauã Costa,santosvitor@example.com,71 9418 7888,65,10701.9,5576.25,High,Medium Term,Car Purchase
+3bef61e5-6d73-4c97-a929-df18f5b33a91,Francisco Abreu,kamilly79@example.net,+55 84 5369-1344,72,7428.81,5005.86,Medium,Long Term,Emergency Fund
+81925d7a-81c7-40d9-b571-9fee322b4055,Joaquim Castro,jalves@example.net,0300 182 3435,56,17280.12,9512.55,High,Medium Term,Emergency Fund
+61cf2dcc-0614-4ab4-b71b-f6de85ff37e5,Kevin Costa,silvatheodoro@example.org,84 9221 5244,38,1548.26,1074.86,Medium,Short Term,Emergency Fund
+ff7ed77e-a935-4f75-bb97-c3ee1ed9b4d1,Ana Sophia Azevedo,santosvicente@example.org,+55 11 1601-3540,75,4320.86,1712.23,Low,Short Term,Education
+137c677d-ca7b-4984-b989-d840c55f2075,Stephany Moura,vda-costa@example.net,(021) 6715 7038,49,18076.46,10013.48,High,Long Term,Car Purchase
+159a48fd-b952-44ce-8e0d-37df201acfa9,Dr. Henrique Pinto,omacedo@example.org,71 5247 1958,37,12128.78,7198.34,Medium,Medium Term,Education
+50b873fc-4ac5-45c6-931a-7fab7ebc9930,Antônio Sampaio,dramos@example.org,+55 84 1449 2899,59,7613.95,4913.68,Medium,Short Term,Education
+9e9e5098-093a-4aac-a1f0-e9c91f2eb5f9,Letícia Sampaio,garciaarthur-miguel@example.net,+55 61 5538-0232,23,16592.27,9666.1,High,Medium Term,Education
+82dca568-fea0-406c-9845-7da28d05268d,Bella Melo,rafael47@example.net,(081) 1365 9935,48,14494.42,9038.52,Medium,Long Term,Education
+49ac23dd-0d1c-424c-802f-b8aa602f12da,Sr. João Guilherme Montenegro,heitorcassiano@example.org,84 5969-0585,19,5932.73,3435.72,Medium,Medium Term,Education
+e5f779b6-7c79-4fbd-9069-0926317af95f,Evelyn Costa,alice61@example.com,0300-348-6988,39,10124.33,5422.43,Medium,Medium Term,Emergency Fund
+58d68f49-e221-4f36-a223-e12211c312ad,Marcelo Nunes,augustomontenegro@example.org,(021) 2742-4774,31,5134.57,2637.94,Medium,Medium Term,Emergency Fund
+56856481-4a3a-48c2-8af3-1a373ac0c4bf,Mateus Brito,julia14@example.com,81 6488-2801,22,7154.76,4307.7,Medium,Long Term,Car Purchase
+1a3f5783-1a6b-44e0-ba6d-a2ece5459a1d,Rodrigo Silveira,mendoncakevin@example.org,+55 51 4291 6313,49,4763.67,1650.29,Medium,Short Term,Car Purchase
+38ef2757-284c-401f-9534-da6031cf1861,Alice Pacheco,maria-clara42@example.com,31 1678-9453,69,5578.23,3142.86,High,Short Term,Retirement
+c4f56dd3-e5e6-41e8-ad5a-4b85ae2b1e65,Ana Julia Rios,da-conceicaogael@example.net,+55 84 4363-8551,24,4633.36,1210.32,Medium,Medium Term,Emergency Fund
+99bf8399-2f4b-4d0d-b365-f0e90a3b71cd,Pedro Henrique Andrade,pedro-miguel98@example.org,0300 605 8331,48,19236.21,9822.36,High,Short Term,Emergency Fund
+64dec9e0-2dba-4a60-acf1-8f0f06d3cbbf,Eloá Costela,evelynpimenta@example.com,+55 (061) 3230-3450,38,13011.61,7867.17,High,Short Term,Home Purchase
+d1aea972-ca91-4768-80dd-f8c5bd1d3185,Luna Santos,bernardo18@example.net,(021) 0190 1119,54,1973.11,1445.65,Low,Long Term,Retirement
+a6978bc8-f3b9-46fe-9dd9-c6b72f649a3c,Olívia Vasconcelos,waragao@example.org,+55 (051) 8229 4006,74,7463.88,3854.69,Medium,Long Term,Entrepreneurship
+13e327f6-90fa-40f4-a540-b37d8737774b,Kaique Costela,santoscarolina@example.com,+55 (031) 5079-2346,79,17010.79,9728.09,High,Long Term,Education
+15a2632e-4200-406a-9549-b0beec8e6603,Srta. Luana Casa Grande,moraesstephany@example.net,(061) 6692 3489,38,15415.43,7747.74,High,Short Term,Emergency Fund
+03b8007d-3402-44e6-82d2-f71a8b0566bc,Juliana Mendes,ana-beatriz70@example.net,(041) 7460 2263,27,3260.06,1318.01,Medium,Short Term,Car Purchase
+bba12de6-96e3-45c0-8d75-66d058bf0b04,Nicolas Camargo,pedro-lucas07@example.com,+55 (011) 0805 9016,55,14078.79,7382.15,Medium,Short Term,Education
+68437f2d-abe7-424c-9b9a-549d9e81685d,Isaac Rodrigues,ferreiraheloisa@example.org,+55 84 5061-8396,78,15804.94,10984.19,High,Long Term,Car Purchase
+e951f125-011c-4df1-bac1-6200b85017c0,Enrico Teixeira,kda-rosa@example.com,(031) 8934 7956,43,3576.86,1907.54,Medium,Medium Term,Retirement
+9e8c405a-989e-4607-b113-9c8794b00b10,Dr. Rafael da Cunha,ninada-conceicao@example.net,+55 (041) 3607-5936,19,5371.97,3287.06,High,Long Term,Entrepreneurship
+30511cd1-f813-48bd-82e5-7c1c4a60c40b,Maria Fernanda Macedo,cecilia29@example.net,+55 51 6770 4245,23,18728.97,11965.77,High,Long Term,Education
+6811a080-7374-479a-bd63-218a9ef385fb,Lorenzo Aragão,henriquealves@example.com,+55 (081) 3926-5906,35,19612.37,10093.32,High,Short Term,Home Purchase
+ea562f4d-58b2-454c-9bb8-be92ab88d797,Sr. Diego Cirino,carvalhoanna-liz@example.com,(021) 9609-1384,60,5875.9,3776.09,High,Long Term,Emergency Fund
+f89b3ecd-1bea-49ed-9bad-4071771b95f4,Kamilly Duarte,uporto@example.org,+55 (041) 8083-6515,79,7536.2,3823.63,High,Medium Term,Education
+8bba8ae6-b2f7-4375-8f25-e27790222fb1,João Felipe Novais,melissamendes@example.com,(021) 2191-2244,63,11657.38,7356.37,High,Short Term,Education
+0121206e-2ce1-41e5-b53a-aef6582c5ea8,Ana Luiza Gomes,efogaca@example.net,+55 41 2284-3323,60,14625.37,9134.18,High,Short Term,Home Purchase
+141b1b61-5974-456a-9e22-14bd4cf6e425,Pietro Teixeira,limaisabella@example.org,+55 (011) 0613 7342,33,7864.77,4870.43,High,Short Term,Entrepreneurship
+1678b66c-66f1-47ec-8cdc-97af36cc63c1,Maria Flor Pimenta,sampaioguilherme@example.org,+55 81 2683-9457,58,7189.47,4657.43,High,Medium Term,Education
+f1a8565d-0450-4c5d-9233-0f5c2062d859,Rael Cavalcante,nathanvieira@example.net,+55 (081) 3657-7159,67,8062.52,5335.78,High,Short Term,Entrepreneurship
+3e29bcd5-47e3-429d-949f-7c31e8ad14a2,Sr. Rodrigo Novais,joanasampaio@example.org,21 7875 8940,73,18307.88,9807.42,High,Medium Term,Retirement
+eaae96e0-409b-48f1-ad9f-688b4be1a3ee,Raquel Rocha,gpimenta@example.com,+55 31 7556 8958,48,9421.77,4806.48,Medium,Medium Term,Home Purchase
+465cda6f-76e2-4b0b-a9d2-054ee5bbbb5f,Hellena Rezende,araujodaniela@example.net,+55 51 8006 0420,47,4650.63,2913.36,Medium,Long Term,Emergency Fund
+934f9335-310c-4267-8c32-beb3bf89ca72,José Pedro das Neves,cardosomatteo@example.org,(011) 8359-4787,68,19754.81,11676.26,High,Long Term,Entrepreneurship
+02490c1c-add9-46c2-9afc-a1f01fa38792,Lucas Rocha,theodoro05@example.org,+55 (021) 6929-2289,31,9991.32,5941.83,High,Short Term,Retirement
+ccde26d9-fcf9-43cd-9a23-57ac5f79da5a,Vitor Gabriel Pimenta,carvalhogabriela@example.org,+55 (081) 0886 6654,54,9473.22,5510.73,Medium,Short Term,Car Purchase
+77191861-6586-45af-8d65-720ef684d6ff,Maria Luiza Viana,fduarte@example.net,+55 31 9177 6152,20,8520.22,4938.83,High,Long Term,Entrepreneurship
+8b0e0f12-1ff8-4e48-931d-b593a5d7344d,Maria Liz da Rocha,hadassaalmeida@example.net,(061) 8568-6849,68,8351.33,4436.68,Medium,Short Term,Entrepreneurship
+5728a0aa-b826-4b3c-89d2-cd0aa236ee44,Sr. Diogo Almeida,leonardo23@example.net,0500 346 9639,43,12366.9,6943.38,High,Medium Term,Emergency Fund
+0cbd5392-ed4f-400c-9bee-4b02e67db79d,Eduarda Sá,maria-eduarda03@example.org,+55 (061) 9359 2351,41,3062.6,1174.07,Medium,Medium Term,Home Purchase
+4c9e1438-7e72-4e57-bc94-3301cec82dde,Joaquim Oliveira,leaogael-henrique@example.net,+55 (051) 6568-1270,54,12555.68,7033.08,Medium,Short Term,Car Purchase
+b9fbf5a7-316e-4dc8-be66-2c75fc97e80e,Ana Luiza Câmara,rodriguesisadora@example.net,(041) 8297 3818,34,11110.22,6080.93,High,Long Term,Home Purchase
+acb6dadb-2ebc-4f51-bf55-870182b7f87d,Srta. Catarina da Cruz,cirinomatheus@example.com,+55 (061) 6665-6234,33,13824.76,7869.85,Medium,Short Term,Entrepreneurship
+0c53028a-7950-4d1d-8a87-217bb30f0644,Otávio Alves,rodrigo84@example.net,+55 (041) 5304 4994,49,12301.56,7410.13,High,Medium Term,Entrepreneurship
+afc65333-c41a-4e33-9d3e-77dbfd18500e,Raquel Cavalcante,vcostela@example.com,+55 (031) 3757 5592,49,8769.76,6023.69,High,Long Term,Home Purchase
+3f6e703e-b3a8-4329-a9eb-8012036ab659,Maria Julia da Cunha,bernardo16@example.net,+55 (041) 3114-8818,31,11174.66,6579.64,High,Long Term,Home Purchase
+10853928-ba5a-4062-a72e-631ddc0bc397,Milena Mendes,adas-neves@example.com,(041) 1787-2532,67,16077.02,9615.95,High,Short Term,Home Purchase
+67a5a3bd-59aa-4c73-892c-b464c22ec9e2,Srta. Júlia Melo,sophie55@example.net,71 4521-8329,34,18820.75,9628.39,High,Long Term,Entrepreneurship
+60275f0f-7ac9-47b6-a547-417a94141ec1,Valentim Aparecida,emanuelly48@example.com,(011) 7283-3690,21,12764.75,8871.05,Medium,Medium Term,Education
+9a652984-005e-4fa7-a827-75e4c100bd72,Sra. Cecília Martins,leaocamila@example.net,(011) 8756 2468,28,11511.31,5809.64,Medium,Short Term,Car Purchase
+db1c29b5-eedb-4403-9df8-203c4baf3e57,Elisa Lopes,elisa66@example.org,+55 71 1475 3375,63,5677.95,3058.42,High,Short Term,Emergency Fund
+58c29be4-1bc3-4073-9ae6-d09ee28e3226,Antônio Vargas,daniela34@example.net,71 2596 1489,57,12435.66,6272.19,Medium,Long Term,Car Purchase
+63377db0-2710-4eb3-9edb-2b89aa51aceb,Vitor Gonçalves,ana-beatriz87@example.net,41 3526-5102,31,19044.77,11136.74,High,Short Term,Emergency Fund
+024c60df-0f96-48c6-be17-4ffc8471fb75,Dr. Luiz Fernando Aparecida,joao-vitoroliveira@example.com,+55 (021) 3593 1349,54,5895.79,3558.99,High,Long Term,Home Purchase
+87300f02-59a5-409a-b3b7-1f30af0ca2e0,Gustavo Henrique Silva,enzosa@example.org,+55 (071) 5599 4685,33,9683.91,5415.68,Medium,Short Term,Emergency Fund
+18e1cfa1-76f3-4dfa-b841-393a833151cb,Ester da Mota,maria-lizmoraes@example.net,+55 21 6667 5960,56,4847.91,2349.83,Medium,Medium Term,Emergency Fund
+d9eac4ad-f16b-4401-a6e3-86d746ecd949,Maria Helena Nunes,diegojesus@example.org,+55 11 8369 6884,39,4237.58,2562.67,Low,Medium Term,Car Purchase
+03721e2d-ba92-47cf-bcbe-c6bb8afef912,Dr. Emanuel Borges,ialmeida@example.net,0300-431-5279,56,5026.28,3122.45,High,Medium Term,Home Purchase
+22f782e7-ad1b-48b8-a472-a5f952974419,Srta. Hellena Novaes,piresstella@example.net,11 1287-9706,39,17390.5,9813.38,High,Long Term,Education
+88007fa5-0ae7-4537-8618-f46d7d1a7c5d,Pedro Gonçalves,hduarte@example.net,(084) 6128-5712,18,2524.31,1457.24,Medium,Short Term,Home Purchase
+d40053dd-4679-4d09-90c8-4a1391ddce7c,Luan Cavalcanti,da-rochabrenda@example.com,+55 71 4267 0618,29,19862.1,11295.72,High,Short Term,Home Purchase
+a9d11a18-cd79-44f0-9faf-71acb882249b,Dr. Guilherme Silveira,odias@example.com,+55 (084) 4080 5702,35,17598.16,9800.76,High,Short Term,Entrepreneurship
+2af82ec7-87ee-4d40-9c55-f1a8c62f965c,Luiza Siqueira,joao-gabriel95@example.com,(041) 0162 4408,34,18304.15,10688.37,High,Short Term,Car Purchase
+f2d87067-f1da-48d5-b5c8-c2607a9e8860,Lorena Montenegro,da-costabenicio@example.net,0800-753-0367,79,6653.44,4574.66,Medium,Short Term,Home Purchase
+e8f33d98-c0d3-46bd-afaa-085f3ce7e2ec,Matheus Monteiro,diegoramos@example.org,81 5193 1349,65,6298.08,3704.12,Medium,Short Term,Entrepreneurship
+8341e548-2bba-41e5-8ad2-662ea89b7979,Vitor Gabriel Fogaça,gabriel00@example.net,81 1745 6518,53,10730.13,5647.69,Medium,Medium Term,Home Purchase
+ba8bc697-b26a-4ef1-ba56-baa70b5f9979,Carlos Eduardo Barbosa,ana-julia43@example.net,+55 21 2541-3412,66,13997.04,7486.0,Medium,Medium Term,Home Purchase
+17985805-4359-4f2e-8717-b8bec2872d4e,Sr. Théo Alves,mariahmontenegro@example.com,+55 (061) 7321-6531,30,10750.04,7364.02,Medium,Short Term,Entrepreneurship
+5d805e47-c648-4854-8afb-6da133b1e71d,Rael Rocha,camargolorenzo@example.com,(071) 7536 0869,69,11208.42,5723.1,High,Medium Term,Car Purchase
+0729d862-ab0c-4e7b-9edd-f90c1d412cd3,Clara Cirino,gomesana-livia@example.net,31 6879 0702,60,4776.38,1658.18,Medium,Short Term,Home Purchase
+8b66ffeb-408b-4c78-b581-9426d33fd936,Ísis Albuquerque,da-matamateus@example.net,0300-403-4972,47,7089.3,3583.57,Medium,Long Term,Retirement
+a59e3e96-8c4e-462c-b820-0792758d1e86,Nathan Barbosa,diegomontenegro@example.net,0800-016-3750,67,2052.62,1358.53,Medium,Long Term,Education
+fc971589-1341-4a44-8f82-b66737a2fedb,Enzo da Cunha,cecilia86@example.net,+55 71 0891 1718,26,5978.24,4138.8,Medium,Medium Term,Entrepreneurship
+9627e4f3-2af4-4de7-a0b0-0a5ab2ab78e5,Matheus Lima,talves@example.com,(041) 6446 4287,20,8953.73,5989.1,High,Short Term,Entrepreneurship
+512a1b99-106f-4009-9d19-13391b9ed0a7,Helena Vasconcelos,vitor-gabrielrodrigues@example.net,0800 120 1726,61,10084.31,5565.04,Medium,Short Term,Car Purchase
+36a7e4dc-afaa-4f8e-af9c-a67bfbc3863c,Mariana Cardoso,clarice09@example.com,(041) 3805-0974,22,18389.75,12397.18,High,Short Term,Emergency Fund
+42decc45-4b6b-467e-b660-0324c2fedfb3,Pietra Pinto,giovannaoliveira@example.net,(041) 7927 7485,43,12941.99,6722.26,High,Long Term,Entrepreneurship
+f8f1809b-af46-452d-9f81-1ad1fabf533d,Marina Porto,felipe21@example.net,41 0634 9960,23,12481.3,6966.86,Medium,Medium Term,Retirement
+47fb377f-bbbb-4a5f-88ed-a6dd9a005420,José Pedro Novais,danielaleao@example.org,+55 (084) 3229 3935,44,13048.6,7524.68,High,Long Term,Education
+40e618a6-c0a5-4836-8cf0-5b1dc402a417,Arthur Gabriel Camargo,caio53@example.com,0900 121 9441,51,19875.87,13769.67,High,Long Term,Car Purchase
+663b3588-8a78-4ca6-ad7a-b01ba28d71a5,Maria Vitória Cassiano,ceciliaramos@example.com,+55 (031) 9893-5340,49,9390.27,5812.97,Medium,Medium Term,Home Purchase
+88544779-a98c-406d-b32f-1af7f51cde1c,Srta. Zoe Moura,dda-cunha@example.com,61 5947 7478,22,15382.12,10180.37,High,Long Term,Home Purchase
+22087230-a48d-4ba3-a22d-93f01b08f970,Srta. Luísa Freitas,alicegarcia@example.org,61 3768 9000,56,1718.02,1293.81,Low,Short Term,Home Purchase
+a64f2e99-dc39-4ada-811d-80d8e65b5883,Joaquim Carvalho,lavinia22@example.net,+55 (041) 8455 9600,69,17253.08,10769.66,High,Short Term,Emergency Fund
+5c4f644b-7ad3-49b8-b166-d16adc055246,João Miguel Sampaio,agatha45@example.net,51 2250 0469,35,13468.27,9078.8,Medium,Long Term,Home Purchase
+d693add8-d2c8-4b2a-b1d4-bf40986e07e1,Vinícius Casa Grande,aragaoluiz-henrique@example.net,+55 31 3175 3052,42,7198.3,3680.63,High,Medium Term,Home Purchase
+60065ef6-6a03-4dc6-baf2-4dd4818c509f,Srta. Raquel Borges,cavalcantimaria-laura@example.org,31 3786-9473,75,2230.34,1479.72,Low,Medium Term,Emergency Fund
+c1af5167-f653-4cf3-b063-12e60d279811,João Pedro Rocha,nina38@example.net,+55 (041) 8889-0182,50,10133.35,5481.87,Medium,Medium Term,Car Purchase
+35079100-6c3a-4e64-8964-ea9244abfcfa,Ana Júlia Siqueira,mathiascarvalho@example.org,+55 51 1049 1171,19,6076.0,3749.18,High,Short Term,Car Purchase
+d9f9bcfc-70cd-4809-83a7-6598d1e2556e,Breno Pinto,xgoncalves@example.org,41 2696 9609,65,1502.06,1160.24,Low,Medium Term,Car Purchase
+72678203-8b1e-4520-bc87-be2e3f72a562,Antony Aparecida,garciaantony@example.net,+55 41 9716-3514,53,13513.35,7766.79,High,Medium Term,Retirement
+c7b3d34f-c1f2-4b39-a340-bf2a48c1c1b0,Stephany Oliveira,isabelly61@example.org,+55 11 1709-9333,51,11737.22,6630.5,Medium,Long Term,Home Purchase
+86e79749-9b7f-470a-8c9f-d61380f39a70,Eduarda Cavalcanti,nalmeida@example.org,11 4178 0342,58,5004.07,2524.17,High,Medium Term,Home Purchase
+50077098-73f9-4343-96a0-5cff7b674bbd,Sra. Maysa Albuquerque,pietro45@example.net,(081) 0163-6626,75,1981.85,1537.99,Low,Short Term,Entrepreneurship
+3c70c2cc-dc62-493d-893a-aaa1bbd02c7b,Vicente Nunes,da-mataluigi@example.org,31 9108 8483,39,19356.37,10519.81,High,Long Term,Emergency Fund
+3c6e58df-dd55-449e-abfe-a1949f35b489,Srta. Maya Guerra,emanuel12@example.net,+55 41 2616-7876,69,9318.93,5213.0,High,Long Term,Education
+34a36c5c-ac56-4115-98d8-b1e65638b943,Ravy da Rosa,fariasrafael@example.net,(011) 1944 5951,76,6252.06,3299.24,High,Medium Term,Retirement
+c1c6903e-a1ef-4747-bb8e-9a75770e9cb5,Ravi Cavalcante,barbosaluiz-miguel@example.org,(011) 0064 4227,29,16336.62,9975.46,High,Short Term,Entrepreneurship
+79b8a7c5-2c61-4af4-bd3a-e1c4c3864304,Raul Mendes,rafaela25@example.net,+55 (031) 0140 0327,42,2500.49,1781.69,Low,Short Term,Home Purchase
+4a99959b-6833-4ca8-ba54-df140e587fac,Srta. Mariane Jesus,iaparecida@example.net,0300 778 1546,71,12717.39,6528.18,High,Medium Term,Entrepreneurship
+6dcabdd7-3cf6-4c47-b1bf-89b1248b0b33,Olivia Sampaio,rezendemelina@example.com,(084) 5534 7492,23,14630.97,9464.3,Medium,Medium Term,Education
+51a77ba4-41ef-4839-8eed-840ca824f9eb,Davi Miguel Carvalho,ferreiravitoria@example.org,+55 81 0363-7114,35,13470.48,7420.69,High,Medium Term,Entrepreneurship
+9e065ff3-ba57-4a14-9241-879ebf6ef4ce,Dom Silva,wpereira@example.org,+55 41 0811 1589,46,7970.59,4227.11,Medium,Long Term,Home Purchase
+e12c7c40-7c7d-4bfe-8fc7-caa645c49216,Vitor Campos,talmeida@example.org,+55 31 6028-7894,20,10423.51,6427.89,Medium,Medium Term,Emergency Fund
+581575c2-2431-4b40-829a-061b92ca9c5b,Benjamim Nascimento,fmacedo@example.com,+55 (031) 8735-7767,64,6836.62,4313.49,High,Long Term,Entrepreneurship
+c9fcfb58-c166-4563-b1fe-12cc81f4bb2c,Gabriel da Conceição,ocaldeira@example.org,81 9972-2226,42,5990.04,3347.26,High,Medium Term,Retirement
+8b88eccc-4082-451e-be7c-2e05c2284f70,Eloá Barros,ana49@example.net,0900-569-0940,55,17853.75,9517.08,High,Short Term,Emergency Fund
+72459463-3f2a-43f3-9079-096aab79125e,João Gabriel Pacheco,vargasgabriel@example.com,+55 31 7623 9213,49,6743.77,3504.61,High,Short Term,Entrepreneurship
+bf686f52-53ca-4570-89f7-2c5e43a1e092,Bella Sá,zaraujo@example.com,(021) 8442 9388,63,10740.91,5636.57,Medium,Long Term,Education
+3eb1f275-a965-4053-8eb6-7ea6dc383e95,João Lucas Marques,stephanyrodrigues@example.com,+55 (041) 0671 4198,29,12167.73,8208.75,High,Short Term,Car Purchase
+b61a17cc-e856-4c4e-ac0d-ab43dc6cf8ba,Ana Lívia Pinto,yanmendonca@example.org,+55 (061) 7974-5230,42,13527.22,8042.39,High,Short Term,Home Purchase
+5d2aa169-a75a-41dc-a9c7-2cabb33dd55d,Heitor Sousa,vda-cruz@example.net,(084) 2772 6679,76,7210.0,3823.98,High,Medium Term,Education
+09dee0d4-4f32-4fe9-a2e1-3a6c03cd1bb2,Asafe Silveira,ferreiranina@example.com,+55 (031) 3338 7973,23,17388.88,8848.06,High,Long Term,Education
+cc6c12b5-6abb-4f70-83b0-00b16d4ba3b6,Sr. Rafael Lima,rodriguesana-liz@example.net,+55 (084) 9632-0534,52,5944.74,3984.78,High,Long Term,Emergency Fund
+00d14da5-7a23-4e41-886e-93bb4796f45a,Nina Costa,andradeluiz-felipe@example.com,(021) 9298 3683,77,18113.83,11693.46,High,Short Term,Emergency Fund
+24fd58e2-6976-4700-a91e-42cbcb67c317,Gael Henrique Garcia,qmelo@example.org,(071) 5411-5212,54,7447.98,5047.24,Medium,Medium Term,Education
+5b3bbd41-bf36-407c-8cdb-b13dc691b363,Thomas Pires,naraujo@example.org,0800-245-7348,24,12045.44,6789.44,Medium,Short Term,Emergency Fund
+de36f32d-f7b1-4e4d-b226-da7ea0420d2f,Juan Câmara,lda-cruz@example.net,+55 41 6686-6511,80,8064.45,5576.43,Medium,Medium Term,Home Purchase
+684d597b-4ac4-40e6-abeb-cb7a93a946d3,Rebeca Azevedo,ppastor@example.com,+55 71 6238 7687,75,17774.68,9640.25,High,Short Term,Emergency Fund
+60822a41-75fb-4770-9e79-4064a6d59966,Matteo Casa Grande,yan52@example.org,+55 31 6250 1645,30,7122.72,4891.33,High,Medium Term,Car Purchase
+9e65b8f5-5314-4469-a38d-bd9010c032b9,Josué Macedo,gustavo07@example.org,81 2197-8987,52,3575.41,2560.38,Medium,Medium Term,Education
+5ccd806b-64a0-4372-8f76-8e6eb0adebce,João Gabriel Campos,ana-carolina45@example.net,41 2808 9150,61,12399.49,6911.99,Medium,Medium Term,Car Purchase
+b08b32c1-aadb-48a4-8c09-50ebf016192e,Dra. Emanuelly Freitas,anna-liz29@example.net,+55 (011) 2771 4849,76,5400.84,2778.74,Medium,Long Term,Emergency Fund
+68015453-fe4d-4dca-9b3e-6bbb3c9a97d5,Alexia Azevedo,bianca62@example.org,0300 630 2883,71,19338.57,13209.07,High,Long Term,Entrepreneurship
+9ddbc6c4-4d5a-48ca-ae20-f400470a37c1,Evelyn da Cunha,maria-ceciliacardoso@example.com,(081) 5425-7113,21,2384.68,1851.97,Low,Long Term,Car Purchase
+9d75502d-b270-494b-8501-5482849f743a,Isaque Santos,igorferreira@example.org,(041) 4538 4392,18,18384.46,10804.32,High,Long Term,Entrepreneurship
+33a0c2f5-04ac-4fcc-8b94-8b48fd45d4dc,Brenda Alves,vargasryan@example.net,+55 (051) 6285 2087,25,6267.91,3456.69,High,Medium Term,Education
+e2446510-91ca-4a87-a549-192bf8c9361d,Arthur Miguel Barros,nunesmaria-laura@example.com,+55 11 1621 8449,27,2110.9,1402.79,Low,Short Term,Home Purchase
+daba0017-672f-44f2-97f2-0f38d66652b9,Dr. Enrico Rezende,jbarros@example.net,81 6962 9906,75,15410.94,10412.05,High,Long Term,Home Purchase
+9c071ca4-836e-44a8-8073-7405f5a87daa,Anna Liz Fonseca,mariah52@example.com,+55 71 0993 3557,62,4010.61,3109.37,Low,Short Term,Retirement
+7eaae950-313d-444e-8a7c-8d1ee7ddd85c,Ana Carolina Moraes,calebdas-neves@example.net,61 2616-0879,72,8337.86,5502.57,High,Medium Term,Home Purchase
+72e357e2-c877-4251-94f1-aef82342a303,Antônio Rezende,aribeiro@example.org,41 3005-3852,35,5948.79,3659.38,High,Long Term,Entrepreneurship
+4a9081f1-1077-4441-aacd-1fe81936c9df,Dr. Theo Pastor,da-rosafelipe@example.org,+55 61 7204-9593,69,19624.0,12227.99,High,Short Term,Home Purchase
+3e68f809-5dc1-4b1f-9369-6fb919618e22,Maria Luísa Guerra,xmontenegro@example.net,0300-917-1616,52,11606.84,7020.96,Medium,Medium Term,Entrepreneurship
+87dae49a-71cd-42f9-b373-70a0cf11bba5,Heloísa Moraes,icardoso@example.net,+55 41 0256 0953,46,7930.04,4135.47,High,Short Term,Retirement
+c8cc8e21-a571-4a8b-afe3-6ea99ad4575f,Nathan Brito,galbuquerque@example.net,51 4376 0858,36,4712.59,2632.62,Low,Long Term,Entrepreneurship
+7abcd822-49c7-4972-9857-7d8c71303383,Rafael Brito,camaraclarice@example.com,51 0340 0439,31,5750.21,3668.98,High,Short Term,Car Purchase
+ed280db0-b55e-45ec-adba-3e39fc32911d,Arthur Miguel da Paz,aylla84@example.org,0800 971 6322,49,18054.06,11505.8,High,Short Term,Education
+06548371-2328-4114-8fce-f7f170bc4894,Sr. Miguel Costela,luiz-otavioporto@example.org,+55 41 9446-5675,32,18103.84,9090.29,High,Long Term,Education
+b3db70e8-3e24-4eba-8b91-73001d79cf7c,Dante Mendes,sduarte@example.com,+55 (051) 2522 5188,33,11931.02,6118.62,Medium,Medium Term,Education
+0438881f-c074-4713-83a2-d8917c6aad30,Sophia Monteiro,novaisleandro@example.com,(031) 8581-6313,64,9952.68,5363.32,Medium,Long Term,Emergency Fund
+dcbc26ff-d363-464c-9168-d30a7c96fcd6,Maria Helena Casa Grande,leonardo99@example.net,(061) 6723-2058,33,14243.23,8821.27,High,Short Term,Retirement
+1d5beb46-713d-4728-b9a8-b8d677e9e60f,Stella da Rocha,luiz-felipe58@example.com,51 5456 2062,19,2345.86,1391.2,Medium,Medium Term,Education
+f6e43eff-03da-4f75-b1f7-5f66ef5579d3,João Lucas Casa Grande,vieirasofia@example.net,+55 (081) 8233 7893,51,10973.52,6656.39,High,Medium Term,Home Purchase
+4c727540-f92d-423b-bc62-07441184e18a,Dra. Nicole da Luz,silvamateus@example.org,41 9275 2474,53,19102.47,12781.84,High,Medium Term,Home Purchase
+e552eaa6-72a3-4f41-ae31-876a4042f806,Gabrielly Câmara,imarques@example.org,+55 71 9145-8365,69,13415.46,8769.21,Medium,Long Term,Car Purchase
+b1e08249-75f9-4137-bf56-00446fcaacfb,Carlos Eduardo Fernandes,maiteda-costa@example.org,(031) 6462-0313,19,13668.34,8343.11,Medium,Long Term,Emergency Fund
+e0486331-2272-4d32-9d25-ce608633fb91,Milena Pastor,milenapereira@example.org,11 7045 3875,39,4170.33,1840.19,Low,Long Term,Retirement
+c6d67729-c89d-4f56-a309-55d51a529d36,Noah Porto,rioslorena@example.org,+55 (031) 9343 8234,76,15376.57,8501.4,High,Medium Term,Car Purchase
+dbca8c70-4672-46cb-bac5-8e5aebfe4492,Agatha Teixeira,mda-mota@example.com,11 8841-8229,78,19774.97,10643.64,High,Long Term,Emergency Fund
+c5c9add8-d9cd-44c7-83fd-4c061b6bef00,Antonella Fogaça,theoda-rosa@example.net,+55 41 7811-9738,39,14439.18,9100.62,Medium,Medium Term,Emergency Fund
+b9cecca7-fb4d-44af-b2fa-6168914feb15,João Felipe Caldeira,psousa@example.com,+55 84 7472-4495,61,6843.92,3488.04,High,Short Term,Emergency Fund
+3b7578c5-f09b-4b21-b9ad-b1a3639cd72c,Srta. Jade Cassiano,ana-julia11@example.net,61 3544 0002,27,10133.71,6327.13,Medium,Short Term,Home Purchase
+fbea717d-4be5-4d7f-b165-2026b78a1ecf,Raul Cavalcanti,borgesdavi-miguel@example.org,+55 51 8557 0429,54,7761.19,5116.33,Medium,Medium Term,Car Purchase
+a3e06f7e-8286-4d51-ae1a-756c0cc2b733,Ayla Marques,thomas96@example.org,(084) 0827 6776,21,3126.82,1063.15,Low,Long Term,Retirement
+ff51b3db-9a4f-4ea6-bd07-046dd7706536,Marcos Vinicius Sampaio,rioslucas-gabriel@example.com,0500-463-7235,19,11634.03,6945.48,High,Short Term,Car Purchase
+b3ecc7be-6597-42ca-aad1-b30cb93b8695,André Jesus,ian94@example.com,(061) 4742 6741,63,19176.54,11265.09,High,Medium Term,Car Purchase
+2a41826b-89fa-499b-9724-e82dd073fbd7,Dra. Vitória Farias,xda-rocha@example.com,(041) 7462-9108,70,2909.22,1222.22,Low,Short Term,Entrepreneurship
+d9f05c49-26c5-4414-b7e4-52e19bb0a4b8,Erick da Cunha,fonsecamirella@example.com,(011) 5160-6286,56,7776.05,4175.86,High,Short Term,Entrepreneurship
+4e3d63c6-f2e7-4a0a-8579-7995a960b5a5,Natália Costa,miguel15@example.org,(021) 8579 8169,21,18640.93,10632.63,High,Medium Term,Car Purchase
+5ed45759-ffc9-428e-8a19-9db347ef3d21,Heitor Albuquerque,emanuelpires@example.net,(011) 0519 1706,77,13199.82,8525.32,Medium,Medium Term,Home Purchase
+3a231789-0724-4193-9119-f5ca1278bb6c,Sr. Joaquim Pimenta,luna60@example.org,(071) 6649-9222,42,8878.49,5745.96,High,Medium Term,Home Purchase
+8d2499bd-5067-458f-a5fc-e77ae13ce7d5,Leandro Siqueira,valentimduarte@example.org,11 6691 1545,73,8441.5,4402.8,High,Long Term,Emergency Fund
+55c032a8-878a-437d-a821-fc1bade2b8e9,Lorenzo Martins,emanuelly21@example.org,+55 61 2822 1432,47,18515.26,11039.79,High,Short Term,Entrepreneurship
+800356aa-d5f3-4d8f-884a-47fa5343b267,Benjamin da Mota,liamporto@example.net,71 5112 0395,76,15066.7,9240.54,High,Medium Term,Entrepreneurship
+24a0ec92-acb0-4e70-8705-01c2ea70aadf,Maria Laura Teixeira,emanuellabarros@example.net,(031) 3405-8443,50,17488.44,9334.96,High,Long Term,Home Purchase
+a6c671fa-d171-477f-be4b-3a5cb6985aad,Daniela Novais,marinacunha@example.net,+55 (071) 9454-4315,21,9828.35,6032.23,High,Short Term,Home Purchase
+d718e91b-3869-4a7e-a330-9343449b31ad,Luiz Otávio Rezende,rcostela@example.com,+55 (071) 6305-8963,35,15570.19,8718.3,High,Short Term,Emergency Fund
+5fcbde23-3802-41f0-abdf-356cff43afc1,Maria Isis Leão,bryannascimento@example.org,31 4074-5650,79,12777.8,7774.15,Medium,Medium Term,Car Purchase
+cd678d8d-e5fc-4a64-9dfd-a6cd5f11030b,Nicole Silveira,rezendeeloa@example.net,+55 61 8260 2265,65,7645.17,5295.38,Medium,Medium Term,Home Purchase
+bbabac1a-eb62-41f9-8086-370ea66b0749,Lívia Jesus,bsantos@example.org,(071) 3843-0340,73,9707.53,6523.49,Medium,Long Term,Entrepreneurship
+4981feb8-1900-4778-a814-7f9c7e80db5f,Anthony Almeida,henriquearaujo@example.com,+55 11 4920 6776,54,15432.12,9395.85,High,Medium Term,Emergency Fund
+6bf088d0-12b7-4371-8c21-7ba7fd78c4b0,Theo Costela,luiz-gustavodas-neves@example.com,+55 61 6154 5465,70,12796.75,7505.37,Medium,Medium Term,Emergency Fund
+2563eaa0-d447-4595-9be4-b0b8707448f9,Olívia Andrade,rafaelsiqueira@example.net,+55 (021) 0423-7447,27,4592.05,2645.35,Medium,Short Term,Education
+9cfb7bff-6c83-451a-a525-b6982041765f,Dr. Murilo Aparecida,hmachado@example.org,(041) 6403-3240,30,19907.56,13408.65,High,Short Term,Car Purchase
+b0d2742a-c446-47f4-b1ed-d297938f81f9,Dra. Alice da Paz,machadodom@example.com,+55 61 1941 3940,46,9324.44,6265.45,Medium,Short Term,Retirement
+e352502a-8526-4236-b945-4c7d683c1038,Antônio Pacheco,diasyuri@example.net,(051) 0038 6429,59,11866.01,7572.2,High,Medium Term,Retirement
+2589cfb4-9a2c-4bb0-99a3-2f75af4bb24d,Sr. Valentim Machado,pereiraamanda@example.com,+55 (071) 5520 2968,71,18380.58,11848.3,High,Long Term,Education
+bbc0078c-8757-4bbc-9253-3e29e40e652b,Maria Vitória Câmara,isabelly71@example.com,0300 004 1511,55,11954.96,6216.08,High,Long Term,Car Purchase
+a9e32d2d-8789-489f-9455-745e5b5a75dc,Dr. Arthur da Conceição,vitoriamoraes@example.com,+55 (031) 4692 0469,57,11173.62,6293.71,High,Medium Term,Home Purchase
+0431f1b6-0419-4dda-ad54-a3e80d213fc2,Caio da Luz,fogacacaua@example.net,+55 41 8935 9867,39,7701.8,4602.61,High,Long Term,Entrepreneurship
+aa0228dd-f6d7-4222-bd4d-c65de0e55827,Beatriz Pimenta,maria-liz97@example.com,(061) 0864-2683,78,2228.32,1184.12,Low,Short Term,Emergency Fund
+5f0fc0de-e070-4ecf-bfc4-6b565f1825da,Vinicius Peixoto,gael01@example.com,+55 71 9647 2966,27,12881.64,9009.82,High,Long Term,Car Purchase
+6923d54f-c7a6-4c3d-b262-2a318af0c54f,Clarice Porto,luiz-fernandoporto@example.org,(031) 8224-8031,73,16875.25,8913.48,High,Long Term,Car Purchase
+9e619be1-ec66-47c2-b30a-0bee66c6dd50,Clarice Costa,ana-laurapeixoto@example.com,(081) 2330 0101,23,4282.92,1335.43,Medium,Medium Term,Home Purchase
+4f8bd0ed-786b-4514-948f-238d18d6477e,Letícia Jesus,costelapedro-lucas@example.net,(081) 7994-6977,20,9304.3,5884.41,High,Short Term,Emergency Fund
+4ddae7d6-ba52-4dfa-9c15-3f0dc690f88e,Bernardo Aragão,melobernardo@example.com,21 0861-5996,79,12228.01,6799.98,High,Short Term,Education
+d8915184-6831-495f-8dc8-6edfe12a7c65,Dr. Ravi Lucca da Costa,dante48@example.net,81 2340-5726,29,14386.28,8468.69,High,Medium Term,Retirement
+a4ac5614-44e2-43ce-9ee4-bcaa5e0f75c2,Vicente Sales,cda-rosa@example.org,+55 (071) 5582-1869,55,7043.02,4006.81,High,Short Term,Retirement
+837e7b38-4ceb-4b6e-985c-1555e3cb9bb9,Miguel Viana,viniciusandrade@example.com,51 7317 5363,26,10226.14,5119.65,Medium,Long Term,Home Purchase
+f2cc07f5-b7ad-4301-a0df-4d65ba755149,Heloísa Mendonça,marianada-paz@example.net,+55 84 3771-6788,61,17019.06,8976.42,High,Short Term,Entrepreneurship
+59812fc8-fc23-4626-b193-e38d095e142c,Maya Albuquerque,diasvicente@example.org,(071) 1939-1367,41,3707.5,1824.95,Medium,Medium Term,Retirement
+a55b2898-4c80-4ef0-9ba0-e1c5845da895,Dr. Gabriel Monteiro,matheus35@example.net,71 6324-9251,59,19903.7,10627.57,High,Long Term,Car Purchase
+9b2ae689-b1b6-400d-ae62-b768ea4cf0cb,Manuella Silva,ana-livia22@example.org,+55 31 3728-9878,74,16229.1,9524.47,High,Medium Term,Home Purchase
+e99907af-9474-4adc-b099-fb2bc2214cc7,Noah Rodrigues,ribeirocecilia@example.com,0900-445-1462,71,14387.17,7293.91,High,Short Term,Entrepreneurship
+4ca2224a-3112-44a5-b6e5-531603e9fe3f,Zoe Albuquerque,da-pazyasmin@example.net,+55 21 7492 3797,61,8495.12,5095.7,High,Long Term,Entrepreneurship
+c7ceb892-0ded-480f-b618-cfd4559c0410,Olívia Fonseca,melobrenda@example.net,+55 84 0681-8573,40,10275.31,6728.41,Medium,Short Term,Home Purchase
+7a18d80a-e106-49fc-a740-6c7491f4d524,Dra. Maria Flor Fernandes,emanuella67@example.org,+55 (011) 0875 6586,40,11063.55,6861.11,High,Short Term,Education
+55a611f2-7dd5-49dc-8db9-7fd283e613ab,Clarice Souza,gda-cruz@example.com,+55 (071) 8032 4997,78,12154.2,7760.08,Medium,Long Term,Entrepreneurship
+6d3064fb-80ec-4711-b5c4-2cb6e386509d,Daniela Moreira,ralves@example.com,+55 81 5661 2456,68,7071.28,4497.68,High,Short Term,Retirement
+5796e8ef-9c50-48ee-866b-34dbb6e6f396,Mirella Vargas,vgoncalves@example.com,(081) 8193-8907,57,12131.47,8460.53,Medium,Medium Term,Education
+70d8b561-796b-4bcc-a984-0b34871d752a,Dra. Olívia Monteiro,cavalcantejulia@example.org,+55 (081) 5832-0013,50,14362.4,9000.42,Medium,Short Term,Entrepreneurship
+bf93caf0-b286-4228-9afb-0ebea1a91e84,Sr. Pedro Henrique Borges,ramosnoah@example.com,+55 41 5497-7654,25,15031.32,8281.62,High,Short Term,Education
+787fee87-7105-492a-89a7-3f9a3daeca4b,Amanda Lopes,gael77@example.org,+55 (081) 5364 9014,78,16337.24,10288.19,High,Medium Term,Emergency Fund
+55f8c1af-50e2-44cd-8cd8-ad3dc655770e,Kevin Novais,josuecavalcanti@example.com,0800 610 0836,39,4005.27,1098.54,Low,Long Term,Education
+16e1f5a0-0e32-4636-b8af-1ae113d90d8f,Levi Ribeiro,oliveralmeida@example.net,+55 81 3980 7148,37,9533.35,6554.2,High,Short Term,Education
+567a42f6-e272-4880-ad3f-29ea93d11d9f,Marcelo Guerra,vnogueira@example.org,51 5113 8580,47,12886.98,7722.41,Medium,Medium Term,Home Purchase
+8b13119a-a9bf-4095-b889-880922e09bfd,Jade Pereira,henryjesus@example.org,+55 (081) 9539-2950,76,17256.53,11206.04,High,Short Term,Entrepreneurship
+a2a1e2ac-5051-4791-a8bc-bd66cb01644d,Ian Gomes,bella25@example.com,+55 (061) 8567-4391,18,6834.81,4014.25,Medium,Long Term,Education
+f47ec5fa-63dc-465d-8bf6-13dfdc38c3fc,Julia Cunha,wgarcia@example.com,+55 (061) 9336 1839,63,2617.13,1988.9,Low,Short Term,Emergency Fund
+c812d85c-0a84-4526-ad53-fa60a108811a,Dra. Maria Flor Sampaio,mirellalopes@example.com,(081) 2220 6341,71,7125.01,3741.01,High,Long Term,Entrepreneurship
+1c90bb02-a898-45a8-9a37-5da51f16ca2c,Lorena Costa,sabrinaoliveira@example.net,51 5441 9058,71,14524.83,8526.04,Medium,Long Term,Home Purchase
+e770e0ae-6c60-45ee-bc03-40a9af8640fd,Isis Novais,glima@example.org,(041) 5952 3646,46,10392.0,6980.51,Medium,Short Term,Emergency Fund
+c6a8530c-3134-494f-988a-27a810e2df62,Heloisa Azevedo,maria-aliceandrade@example.net,81 3419 2166,26,6485.42,3554.13,Medium,Short Term,Retirement
+01ae3dac-0f44-42c5-b189-d6dea8c287a6,Heloísa Albuquerque,pmonteiro@example.net,51 1150 1024,47,12966.2,7372.33,Medium,Short Term,Car Purchase
+98084704-2a13-4c59-a798-aac9ff570772,Ravi Lucca Brito,lorenzovieira@example.net,61 2397-8435,21,2489.49,1546.65,Low,Long Term,Home Purchase
+56456fd4-8192-4876-a9f1-9c571429ba65,Bella Alves,qpacheco@example.net,(061) 2320-4936,34,8939.22,5574.62,Medium,Long Term,Car Purchase
+4f0a102b-e2f7-47a6-8388-90826cda38d4,Srta. Sabrina Nunes,guerraayla@example.net,31 0377-9317,41,2610.26,1075.86,Medium,Medium Term,Entrepreneurship
+58c40200-b4cd-4e8c-b296-d446e11e0396,Lavínia Cunha,luiz-miguel95@example.net,+55 (084) 0990 7855,32,3332.31,2256.25,Low,Long Term,Emergency Fund
+60ec0e64-d9a9-4ddb-9e04-2b4ca9c805fb,Alícia Andrade,ravy79@example.org,81 7488 6047,24,12888.27,6859.32,High,Medium Term,Education
+067ed4ef-b673-495c-a47c-c671c108330e,Sabrina Nogueira,ynascimento@example.net,+55 81 5612-7556,40,17546.12,11528.76,High,Medium Term,Entrepreneurship
+280f8104-276c-49e4-8926-3a48321dd83e,Ana Julia da Rosa,souzaasafe@example.net,81 6797-5583,19,1925.68,1216.54,Low,Short Term,Entrepreneurship
+d8ac94af-de1e-4251-8fe0-8e9379e1b147,Sra. Lorena Porto,ravi-lucca64@example.com,+55 61 7649-4819,29,8742.4,4789.31,Medium,Short Term,Retirement
+1716b66c-a428-4f0d-85bc-3a38d3ec48e9,Dra. Lunna Caldeira,kaiquecampos@example.org,0900 607 7157,50,1554.53,1170.88,Medium,Medium Term,Entrepreneurship
+1fca3c2b-b0d0-4967-990e-bf2033f93bb6,Ísis Carvalho,yanpereira@example.com,(061) 9483-2840,24,16176.55,8698.07,High,Medium Term,Retirement
+af0ac45d-24e9-4e7a-aedc-342ab4e56325,Lunna Silveira,yasminmendes@example.com,+55 71 2610-9016,69,8578.62,5227.94,High,Short Term,Retirement
